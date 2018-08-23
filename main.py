@@ -99,10 +99,9 @@ if __name__ == "__main__":
             print(error_time)
             print(e)
 
-    # while True:
-    try:
-        bot.polling()
-    except Exception as e:
-        bot.stop_polling()
-
-        print(e)
+    while True:
+        try:
+            bot.polling()
+        except Exception as e:
+            bot.stop_polling()
+            print(e)
