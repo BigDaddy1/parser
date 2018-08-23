@@ -1,0 +1,4714 @@
+{
+    "df9b35c30b2243148116b25e9507c76c.16": {
+        "codename": "A1",
+        "cluster": "A",
+        "lat": 56.952538,
+        "lng": 24.099187,
+        "image": "http://lh4.ggpht.com/60ptp4-IQXeX86S_E8Nrt98jsxkq7PbjvMnK0Td7z9_c-IYt4se2ozB3n83N7tt3Opmp_wrUX1vF4GzU3azo",
+        "name": "Latvijas Varoņiem"
+    },
+    "336a19aeabf2495b9f4a4c60b2888e86.16": {
+        "codename": "A2",
+        "cluster": "A",
+        "lat": 56.953024,
+        "lng": 24.099811,
+        "image": "http://lh5.ggpht.com/2KDqrb_1FfASqbMc1FavPoq5nC3VJ80imCKXZCgat6PCIBSuunZ7nCO2A4XqAFt4hwlyehyH5DcoOKIXc4Xk",
+        "name": "Citadele"
+    },
+    "fd6a7b28416e4ff8916b0861425dcf87.16": {
+        "codename": "A3",
+        "cluster": "A",
+        "lat": 56.952723,
+        "lng": 24.099192,
+        "image": "http://lh4.ggpht.com/R-IFMDfRKYyPoWuDq3xWChL-vBAbSriMUqIr-H5wgiZh_t7YkNu8LKqhWWjimUV9ekXmsOBdk55O7mKJJajd",
+        "name": "Fish Pub Sign"
+    },
+    "9b95ba735d3147cbb5199bdaabab69b4.16": {
+        "codename": "A4",
+        "cluster": "A",
+        "lat": 56.952929,
+        "lng": 24.099373,
+        "image": "http://lh3.googleusercontent.com/UcwpLqSKnu9gdYkbN0pr57orJvvP6IB3ctpyaT2lIF2-nZCAT4XNjbf5ayXX56WssJZEszl1cok4S-5WHr12",
+        "name": "Stargorod restorāns"
+    },
+    "ae0960c54eb44b619a42b4bef8f5db2b.16": {
+        "codename": "A5",
+        "cluster": "A",
+        "lat": 56.957237,
+        "lng": 24.100786,
+        "image": "http://lh6.ggpht.com/wfcrXMYtbSHXSuQ6LsfVqMamqP-8LcgWvSWeSu6MyYXM5IbDX8aD2ZwLQoWp-dJpDoSuykNFtOAuIEL1R0c",
+        "name": "Kiwie: Kas tas notiek?"
+    },
+    "8794e92934e04f0e8d9ec076c3bcc4ca.16": {
+        "codename": "A6",
+        "cluster": "A",
+        "lat": 56.955653,
+        "lng": 24.103924,
+        "image": "http://lh3.googleusercontent.com/W_Ooh1BxS6L3pXa1Nr-n-kw-aouvEPswkys-GmcJKtk4rxmpAoTjrlMn9v_fx1JiEarhf8caUbOMD1T24k0",
+        "name": "Kūpošais krēsls"
+    },
+    "dc4022e624a94618bdcb69a2a3332e58.16": {
+        "codename": "A7",
+        "cluster": "A",
+        "lat": 56.956007,
+        "lng": 24.101288,
+        "image": "http://lh6.ggpht.com/6kWKcDNWbsHQ84ZdnjOZNbSWIHLThl7bbrqlhaRfvWP_qf4AnbRRKqdlvbwoTJRVQ9EVA9IJTcCTYiC2FHc",
+        "name": "RTU Tenisa Laukumi"
+    },
+    "23069e2edb5440b8baec775df007a1c4.16": {
+        "codename": "A8",
+        "cluster": "A",
+        "lat": 56.955603,
+        "lng": 24.099476,
+        "image": "http://lh6.ggpht.com/MANQCcDmHZdw5oPjjR6FsgjJnAkDbWPC0bJZhnwrmgCyaEreGJZDE5n84RNVUDRaNmY08MjTjBuDHI5SgS3d",
+        "name": "Bigfoot"
+    },
+    "dd8ba2477f50409eaf1c25c72d38891c.16": {
+        "codename": "A9",
+        "cluster": "A",
+        "lat": 56.955003,
+        "lng": 24.100977,
+        "image": "http://lh6.ggpht.com/vIAJw23geUlzi6axXs7GifsOq2T8_eRYOOBCGsUiIRGzf0wsj2Q23ZuPYOhqSyk41flNONuWpRyQr1iS2JEi5w",
+        "name": "Ave Sol"
+    },
+    "a52945cc11414ce88f4fe3a92e2059bf.12": {
+        "codename": "A10",
+        "cluster": "A",
+        "lat": 56.955825,
+        "lng": 24.104299,
+        "image": "http://lh3.googleusercontent.com/Yt_feG9c15NlM2WHANfo9UbTd5s43G0wiTyhDeABt_mDlkI3yiyKs_9h7juDgo1EMvSSmgyPw0mwdHvC7z0",
+        "name": "Aleksandr Pushkin"
+    },
+    "e7425915654e4611906fa01653b5755e.16": {
+        "codename": "A11",
+        "cluster": "A",
+        "lat": 56.956164,
+        "lng": 24.103566,
+        "image": "http://lh3.ggpht.com/-_t2KgrR1KLYtjVlvhyx6H-gks_bgNoZfCVKjDBBYn9raVqQkuasZ79TxG-ZXnYf1Kox0AmFooEvamoW4xUy",
+        "name": "15 Year Friendship Celebration"
+    },
+    "daff5ea211c8473a8fb390f28194e746.16": {
+        "codename": "A12",
+        "cluster": "A",
+        "lat": 56.954532,
+        "lng": 24.101775,
+        "image": "http://lh3.googleusercontent.com/5LMwGfzsXsm98-uid_J-Bb53YuvBfbDie78qAIxJJW_2JF5r6qNr0Wtf3BGjR6PpznZerNQrPcLBYbNLrnyX",
+        "name": "1st manned free flight in Latvia"
+    },
+    "337b3a10e7a44cf69adf42ccab4cc5ab.16": {
+        "codename": "A13",
+        "cluster": "A",
+        "lat": 56.954771,
+        "lng": 24.099109,
+        "image": "http://lh6.ggpht.com/3aak14KJ4h_-zBu5GjkmhbKw7NQ7E_6j5s8MKxuzimALWEx00oE38RAKTXr-wCiru2-DjwAZAr_SID8wO-Cb",
+        "name": "Round Peak House"
+    },
+    "2d9b5fe03ede40b6b9d5c5655b629157.16": {
+        "codename": "A14",
+        "cluster": "A",
+        "lat": 56.956146,
+        "lng": 24.103011,
+        "image": "http://lh6.ggpht.com/EmEFHrLTiK26oxEfDWIYyuHGRr10SfCBl9wR8FbP3dbyXkfR0hfAKDR4NGk37aGRYzuVJe4i1I3X9VleJGk",
+        "name": "Par godu Rigas Pilsētas 800"
+    },
+    "887c25d66a5b4911bd3574a224825319.16": {
+        "codename": "A15",
+        "cluster": "A",
+        "lat": 56.954459,
+        "lng": 24.09967,
+        "image": "http://lh6.ggpht.com/uqLN-v5rOwz1VbudgUAF81zb2ARkuxACrdVZMYkOoiGK6iSEk8yq-u5Zzezv_8U29gSiLUoayKL65pTpiKHBOQ",
+        "name": "Zemkopja Lauva"
+    },
+    "169aa4dc485d4787ab5ea907ee411f07.16": {
+        "codename": "A16",
+        "cluster": "A",
+        "lat": 56.955227,
+        "lng": 24.100379,
+        "image": "http://lh3.googleusercontent.com/r2kJXCF58U43uhCvX5tJVKz67VBKtprvV3QHzaGzUTcW1Gc9ldGt5gRd0Efyct3YzOE-p-YAvYfTZlFpXU6y",
+        "name": "Wooden Art Sculptures"
+    },
+    "72e5d4d8a05d45eca416fe1ff7e06acc.16": {
+        "codename": "A17",
+        "cluster": "A",
+        "lat": 56.956808,
+        "lng": 24.103478,
+        "image": "http://lh3.ggpht.com/Rcv-3jgQUk67bMqBOJtpRoaz1HO3L5kNZ6yv9_qXK0YDTllLjOX4XrGTbkatch2OsgOowbGHN60FqT2mWeUV5g",
+        "name": "Jūrasskolas strūklaka"
+    },
+    "66f1bf2f80244a38b10216bb788b2b4d.12": {
+        "codename": "A18",
+        "cluster": "A",
+        "lat": 56.955202,
+        "lng": 24.101016,
+        "image": "http://lh3.ggpht.com/klTQnXHQxsjc7r1uwgSpqpZk0DbFKEuFnVFvd8-kRQlaY6_aCgg5-lNGLKGBCT5Ysg6zjOwLLRqOFgKnikg",
+        "name": "A.Kern"
+    },
+    "a7314081794442e98b185859dcc8c695.16": {
+        "codename": "A19",
+        "cluster": "A",
+        "lat": 56.956452,
+        "lng": 24.102992,
+        "image": "http://lh3.ggpht.com/216bu7hlgW1IUS_g-tEt1uxOiRJH8btzIVnDpbeqz71_cj7EGoc1JWFdc0e0_M1STe7HJe6D6q3Y85h_lu8aVQ",
+        "name": "Ķīnas Namiņš"
+    },
+    "cc29ae78be444f36a6c47ce1e73f1d93.16": {
+        "codename": "B1",
+        "cluster": "B",
+        "lat": 56.956852,
+        "lng": 24.10487,
+        "image": "http://lh6.ggpht.com/pfgoqvf-W-lEhuH8p0fIffKBldudHRfJtD7nH3I5VdfHe7G9ifYQKCdz_ZqHmBDAeVA02Oe0re-TFYeLS4JG",
+        "name": "Old Drinking Well"
+    },
+    "7a53c17c3323475cbae5572f5a5ba4d2.16": {
+        "codename": "B2",
+        "cluster": "B",
+        "lat": 56.956683,
+        "lng": 24.107661,
+        "image": "http://lh6.ggpht.com/k3pGo7-xiEN6JtFRXEC0JbaPi1RfXGDPpFoZx5nqX6sas3eRZ9zfVd5aPg_zp_t35BOC2jS7OiaXtuU18MjK",
+        "name": "Kronvalda Tourism Info Map"
+    },
+    "c72c9b9bf3024936b1c4e4a8baf48d2d.12": {
+        "codename": "B3",
+        "cluster": "B",
+        "lat": 56.957408,
+        "lng": 24.104884,
+        "image": "http://lh6.ggpht.com/FsPzUbt30raBsICRBFDlTyuOH3OQJr5DQf_RGZWkoCm0pnj2IzDgvz3oQEPMmgw7q5aJXvysWWZ2ImL3PTrJdg",
+        "name": "Kronvalda park"
+    },
+    "29d0399f3909465d9836301df096db32.12": {
+        "codename": "B4",
+        "cluster": "B",
+        "lat": 56.955942,
+        "lng": 24.105423,
+        "image": "http://lh3.googleusercontent.com/NzNPxlixleMCEFEziLbjHK10sQNkAFNVA9y_Gs8ir-T84UBHVFQW33Tyos26ghTuSRb3YUAmgirCJ-e3lOE",
+        "name": "Ernests Bratins Monument"
+    },
+    "6e441e3192a949938fb66904e6eb2aa3.16": {
+        "codename": "B5",
+        "cluster": "B",
+        "lat": 56.956588,
+        "lng": 24.108253,
+        "image": "http://lh3.googleusercontent.com/VxdfsM8s-px1V2jB_ttn6ENPp9ozihmEFQADNTnhxs_43-aRpDBwsATIN8iLYkgI74BsB-NWjx5ws1yFNqSs",
+        "name": "Fontana Anjelov"
+    },
+    "63f1d82b3a3b46bdab2d692c3cd2dc97.16": {
+        "codename": "B6",
+        "cluster": "B",
+        "lat": 56.956818,
+        "lng": 24.10808,
+        "image": "http://lh3.ggpht.com/nZK0VR3414jSiFNmcX2mH2HXXdSf3kAkX6OLs-y3kdwK5fBZgY8AjA2TADdLjTU7bua6HRN1WOVPzfp5ay7Xtw",
+        "name": "Medicīnas Muzejs"
+    },
+    "a8e1508810754913a9a6bec7bfe36ce4.16": {
+        "codename": "B7",
+        "cluster": "B",
+        "lat": 56.957119,
+        "lng": 24.107625,
+        "image": "http://lh5.ggpht.com/W4sRVYM2tyGSnH8717DV2-yexxD4he9QDH89y1tk6aeUtlJHrlaM7-Px5b2PyqZYk-lKyN_oroXKf1lS64Y",
+        "name": "Fermas Sargs"
+    },
+    "9bd92fee1c7f40b2ae070802a186eec1.16": {
+        "codename": "B8",
+        "cluster": "B",
+        "lat": 56.958338,
+        "lng": 24.105535,
+        "image": "http://lh6.ggpht.com/gnYAusNH5dRCuS3EYmxGu7UjLfv4FHggtt9E-N1HiIcOOq31OymMWd5c5l0fn3Lca-YBPvCTv0siaLsTqeIH",
+        "name": "Park Gate"
+    },
+    "4325a7f0ff014eb094c958abb66c3415.16": {
+        "codename": "B9",
+        "cluster": "B",
+        "lat": 56.956312,
+        "lng": 24.107403,
+        "image": "http://lh5.ggpht.com/yez_IYp1JTFFErk7e0tdsHW65PU4Jpv7OIIaBC2iJuyVxXqgA_o_bfR1a8wfGcSBRry3MuFmmUHafmrAQTv0",
+        "name": "Glass Pyramid "
+    },
+    "9875b2d158fd4e54bc6b0784c9e8b840.16": {
+        "codename": "B10",
+        "cluster": "B",
+        "lat": 56.957739,
+        "lng": 24.103721,
+        "image": "http://lh3.googleusercontent.com/MkyOvzMF6R2M_tROJI-mwZtDayKEQdiXeFIugYT9fDw3v7-F6prvEhmvFT-yDZFD0DumLdqBvbsmj3jZ4CE",
+        "name": "Ukrainian Poet Taras Shevchenko"
+    },
+    "b047d85df2134cc49d7035dcee28aee6.16": {
+        "codename": "B11",
+        "cluster": "B",
+        "lat": 56.956807,
+        "lng": 24.10416,
+        "image": "http://lh6.ggpht.com/1WspHxKHgfDsOFf8R1UskW946CMUK8c2kyiM2yh82mRe3QsrWCtfV2y2ieXud0uJd_fQjgvpBsA0bwPfB4j_",
+        "name": "Lighthouse, Riga"
+    },
+    "10deb69b6e054bc98bbac587cd30a6df.12": {
+        "codename": "B12",
+        "cluster": "B",
+        "lat": 56.956749,
+        "lng": 24.106037,
+        "image": "http://lh3.googleusercontent.com/_Mm9Tutu9sEXxF5KXsdTVF4Ef1Fia_ErY9U5GRuOFmpNU22pQ8ZRS5CNeJp2Ry6uKJExX3CliXISmwJLKc0m",
+        "name": "Monumental Vase"
+    },
+    "4e48399806b94445bd9ad11f91dcb76d.12": {
+        "codename": "B13",
+        "cluster": "B",
+        "lat": 56.955886,
+        "lng": 24.107102,
+        "image": "http://lh4.ggpht.com/EIe6AZ6j9ZeTOkhM_No8yAyF9c8KLgWbgk5q970wJPlKtOUhuDaoOkR5416PNttU9jh4HriU9vjXu9OjNlup",
+        "name": "Riga Congress Centre"
+    },
+    "8f777394850a48c1ab1031d65c29d04d.16": {
+        "codename": "B14",
+        "cluster": "B",
+        "lat": 56.95728,
+        "lng": 24.102809,
+        "image": "http://lh6.ggpht.com/v07TwH_ydonNiaU6jMloRIE-uW07l5Dy3X_pRdHo5FlHnMdIpT8IyTUmJyZxlSNbGYwfSbGp9o3dGEpJ-m9c",
+        "name": "Jūrasskolas bērnu laukums"
+    },
+    "ed52b9ebf92445f1b93476def86a43c3.16": {
+        "codename": "B15",
+        "cluster": "B",
+        "lat": 56.957105,
+        "lng": 24.103664,
+        "image": "http://lh3.ggpht.com/iDMVWfD7SlXZfhJhbholOeOBHqQo_q6Gfnvu_4zWSn-PA3k9s1kJktkDwGwQnJNoMHL2VsMnj1YPh1w9NM_e",
+        "name": "Ainava"
+    },
+    "fe627354d5114327a6b139afb6719e50.16": {
+        "codename": "B16",
+        "cluster": "B",
+        "lat": 56.956255,
+        "lng": 24.106254,
+        "image": "http://lh5.ggpht.com/s3wTH8UfLZcXo-R4Rr5O4bx5cgCEuwRaql425LtK1UmUzQXgc7YP8TMCn3OLfzAjIZIX6UgbiXofxBHOl-xm",
+        "name": "Brothers Strength"
+    },
+    "9e9a20d4a21f45e3ad901d73333107c6.16": {
+        "codename": "B17",
+        "cluster": "B",
+        "lat": 56.957123,
+        "lng": 24.108585,
+        "image": "http://lh4.ggpht.com/215MybP5T2UaQvOSrKTsdkzGgX1CupUZZ5wDA8Y0Rv6OJmzfLN2ws8BIAdvGgRrATUChp1EYMtojCb8HwUEUXw",
+        "name": "Ни Бороды Ни Очков"
+    },
+    "44e4459bc96344c1918c3896209f41e9.12": {
+        "codename": "B18",
+        "cluster": "B",
+        "lat": 56.957736,
+        "lng": 24.101378,
+        "image": "http://lh3.ggpht.com/Jq2xby_BGRhN5sRafTLxoj1Z9lksTYcL3Pz1fxD3bK7MIKy0isfybdUOgpIeNfjFcDcyrqHibOgLwAGNA9o",
+        "name": "To Mirzo Ulugbek"
+    },
+    "185db1c88d8940bc85d9aa0ca73af472.16": {
+        "codename": "B19",
+        "cluster": "B",
+        "lat": 56.957643,
+        "lng": 24.106181,
+        "image": "http://lh3.googleusercontent.com/4mgv7B3Iu329K03f1tMeMsRWyMjsgWdjn64T1LC4PVx_V9qRXbdhTcxPbLxnbSgI8K_Jo3UrVtkkzy-wp0nc",
+        "name": "Space MONKEY"
+    },
+    "8c930d1c321a41048ba224556f7c0c3e.12": {
+        "codename": "B20",
+        "cluster": "B",
+        "lat": 56.956112,
+        "lng": 24.107094,
+        "image": "http://lh3.googleusercontent.com/rQIP-wbpAWBippB2KRPa1vfiC2UoxEJyUBe8R_dzNYroLYE9KtzOIrqguKASfz9weteSVg3O6YJl4rxyeLLD",
+        "name": "Andrejs Upītis"
+    },
+    "483f5692e6294310b896ea78adb10d23.12": {
+        "codename": "B21",
+        "cluster": "B",
+        "lat": 56.956159,
+        "lng": 24.104932,
+        "image": "http://lh6.ggpht.com/BdZrHAcHdNvne_o70CdLeCe5PnYcDprPuWAohPeD5iVFixIFRIRzNJbbsZkZ2MAVJqhnUpoVFqW3Tikddrb5Ww",
+        "name": "Bust of Sudrabu Edzus, Kronval"
+    },
+    "c7f9cb6ef8644cea8ec327ec47604a5a.16": {
+        "codename": "B22",
+        "cluster": "B",
+        "lat": 56.957222,
+        "lng": 24.104336,
+        "image": "http://lh3.ggpht.com/-QArW-aag3_j8Pif09zzfhfaPN-Q1TfHUPMJnC9AOs-ueH5tfvjQH80TZ8aCQNLT7TjPo5J3yJv21CGUe1NO",
+        "name": "Šneko Slimák"
+    },
+    "da279578adcf4c678b0ee9fa5162f32e.16": {
+        "codename": "B23",
+        "cluster": "B",
+        "lat": 56.95798,
+        "lng": 24.10539,
+        "image": "http://lh3.ggpht.com/Kro8aG40lGntJYgh6LvNmZDMTvgOwvs2PUezhirWG_6WWAIqhOBjZHIFr-UC5iMGpNZm-LDR_4avcg9RN-g",
+        "name": "Atiņš"
+    },
+    "365bd0f1e2ab41f6a0c506a3b5609e47.16": {
+        "codename": "B24",
+        "cluster": "B",
+        "lat": 56.957237,
+        "lng": 24.109007,
+        "image": "http://lh3.ggpht.com/0GkgLz9z0cnTAQgaTJ6-mX4HwtgKZMqmEmxaXO9myxyaCRkQMXndaBjNpxDL9jG9h8rENB6M9oCjtV6APj9kZQ",
+        "name": "Art Deco Antonijas Ielas M2M Bankas Ēka "
+    },
+    "f28a6a8800a44b0da3e8c1d57a5e08da.16": {
+        "codename": "C1",
+        "cluster": "C",
+        "lat": 56.955464,
+        "lng": 24.127515,
+        "image": "http://lh3.ggpht.com/xpEfHoBOj3yKbLnqIbEeJqzZrH0_lRpQYcwCYY1dPJScnq6J_KHb4UFMgyb3_W9PA4PXaz3M3UxMVhqVe-OH",
+        "name": "Janis Greste"
+    },
+    "fda341b6e35c4d149200e6e1bbc0e7d2.16": {
+        "codename": "C2",
+        "cluster": "C",
+        "lat": 56.956543,
+        "lng": 24.127719,
+        "image": "http://lh3.ggpht.com/2o9wIvVss3emV7TAYHxekwN1ciQUtHUKEObxlTGiodd-59mpCBU2xHp-hMSZKypLDGBIrts_Tbpnws22WykBHQ",
+        "name": "Restaurant Vina Studija"
+    },
+    "678341647c4e47ad8d38ca20febfaa4c.16": {
+        "codename": "C3",
+        "cluster": "C",
+        "lat": 56.955184,
+        "lng": 24.126369,
+        "image": "http://lh3.ggpht.com/FxoTBI97e7HoeFB7_066bdjIt6Ad-Ytv9sYH5h25dLQq3pdzhYEMMv0DGU7tWAdZkiI4wac-lMKB7eGZnr8",
+        "name": "Eagle Head"
+    },
+    "5dd702ff42604810a2157eb75dd7fb73.16": {
+        "codename": "C4",
+        "cluster": "C",
+        "lat": 56.955495,
+        "lng": 24.125237,
+        "image": "http://lh5.ggpht.com/l2uZn9r6uTZQz2ETBzH7IcpgN-EIYmNAELYUv2Lsw__z6Gj8DiAbMSNePuhehbfAr-wwX1wHDB53DvcSWl4",
+        "name": "Karlis Ulmanis"
+    },
+    "b0f268b172114962aeaa88483caa2259.16": {
+        "codename": "C5",
+        "cluster": "C",
+        "lat": 56.955006,
+        "lng": 24.128146,
+        "image": "http://lh3.ggpht.com/jqg1cglSBCOT2jZ85Rz-rKnZ9-MZSKTDpn7ZTHKPTUeXr0e-RMr-RNtfHS0FcsYxInNGwdS-eLVqe-4vubxBCk3u1OYCbNoH-_l896A-yafVeRQ",
+        "name": "Teodors Reiters"
+    },
+    "a5ceea35142549c08cae7eddc50ef68e.16": {
+        "codename": "C6",
+        "cluster": "C",
+        "lat": 56.954756,
+        "lng": 24.127185,
+        "image": "http://lh6.ggpht.com/krXFGv-09ThhY_VrUwXaJZx8ElMDMTnaDdRRMdX9ccCTEQYAmvJlqcr1yg0tSXE839h47292r4LKOsL0OEDdYg",
+        "name": "Bird on Wall"
+    },
+    "d066ab076fad45efa759c7073aa0cc27.16": {
+        "codename": "C7",
+        "cluster": "C",
+        "lat": 56.956325,
+        "lng": 24.126829,
+        "image": "http://lh4.ggpht.com/9f6frvcAyhj9UKbnnKwgmIv3HtGqv4Fs6tkmeFtAKLX1Un-1FOytX_e9OMQ7I5TfGs1Rsdwbv3p_1IXjpj0",
+        "name": "Oskars Stroks"
+    },
+    "ed322a0e8a23415d814f991ea232684e.16": {
+        "codename": "C8",
+        "cluster": "C",
+        "lat": 56.955489,
+        "lng": 24.125953,
+        "image": "http://lh3.googleusercontent.com/aRxYC7nFmOC9eWPchmb8edXmBbPVjtzr3_rO4YsyIvnWV5jQJRIjC7zjP574vsKQmxbKuDoRgAWdx1BeXlbG_g",
+        "name": "Ancient Wall Painting -Riga 700"
+    },
+    "85e571475b7048e883eb1368821d98d1.16": {
+        "codename": "C9",
+        "cluster": "C",
+        "lat": 56.957418,
+        "lng": 24.125994,
+        "image": "http://lh5.ggpht.com/2T_qgOJha-PKKFZJCpvkeXHL2R6-LE60PsxhgpcB22A48zBcmtfw2TxB8lNuFI5cOMCWhn6AT_o0Cuj5IRZmZk1cYAKtmc6T8UwaE0RCDdAN6bU",
+        "name": "Stabu Drakons"
+    },
+    "a1888b716d5743f6acf9555e85d99dc4.16": {
+        "codename": "C10",
+        "cluster": "C",
+        "lat": 56.955931,
+        "lng": 24.126576,
+        "image": "http://lh5.ggpht.com/C856RPrJWWpD8NRqg53DvT6oayoYxjglCOUw6sRGstWxWGDfO-vaHBsBgg19aHxzzn6pzwCYAs3-fOOmUbY",
+        "name": "Andrejs Eglītis"
+    },
+    "3b2ba63afb664453b715a401a86c0fce.16": {
+        "codename": "C11",
+        "cluster": "C",
+        "lat": 56.955019,
+        "lng": 24.12923,
+        "image": "http://lh5.ggpht.com/evUuyaYSNWDTke6439CPL9NLb9nKC0d6LbWQKmM7XiGOnKd2knKi-dsA9lZij6iUmoWDJZxJTU6xjeLlyVA",
+        "name": "Maskas"
+    },
+    "70433d7f78d8471aacead4463374fc4e.16": {
+        "codename": "C12",
+        "cluster": "C",
+        "lat": 56.955873,
+        "lng": 24.125597,
+        "image": "http://lh4.ggpht.com/FvjXzodxN3zUn-kVKhVREPo7rX4bmQyiOCgiQYVVsshKifni8j8b6xV1JozmrJg14_o1smu_uXdcH2oGHhjemqoHfjHf4Bo3kA8DNDgv7i0Csauf",
+        "name": "Tērbatas un Ğertrūdes stūris"
+    },
+    "168f3d4868424e7782aa1c3cb7b9feed.16": {
+        "codename": "C13",
+        "cluster": "C",
+        "lat": 56.956685,
+        "lng": 24.127416,
+        "image": "http://lh4.ggpht.com/1JvsZPbpXToHkrf6_YeQhWIu4XfBYLz5P4kCi8q49cb4Vu0SH5Ilq3GPvlc5g6adEiVdv1nHYBQqXsFVD0I-",
+        "name": "Tērbatas Vase rooftop"
+    },
+    "1005fbace42440108587f24738bf868e.16": {
+        "codename": "C14",
+        "cluster": "C",
+        "lat": 56.956318,
+        "lng": 24.128176,
+        "image": "http://lh4.ggpht.com/77M0ktDODbW0rd8VFJRYBlkxvn_b6HH_Wb4lV4QJckRxqqM4qZB86rn3AH2uhxOO0yq4do9TGwHwxSnvNPqR",
+        "name": "Pods Uz Jumta"
+    },
+    "13129016cde04a299cc6d906763d3de9.16": {
+        "codename": "C15",
+        "cluster": "C",
+        "lat": 56.956451,
+        "lng": 24.127506,
+        "image": "http://lh5.ggpht.com/Blhw_HMZV9dOP-IKAV5TtebgT5mOnjPzM7gDlgWrPcS9NQW2Sdk_8ki7p4jbW_TfBtv-hojoF5moBV0sByOp",
+        "name": "Ilmāra Blumberga Izstāde"
+    },
+    "ee7fc373b7094e219867d22e891bc68c.16": {
+        "codename": "C16",
+        "cluster": "C",
+        "lat": 56.957108,
+        "lng": 24.126641,
+        "image": "http://lh3.ggpht.com/N81dTI8bw4tsUOhK58_kPIUo2Kt4H62M8AY43DVuNI7Nrggsawh5HrVFLh2AEacUUMFwH3OnE-m_7d401bE",
+        "name": "Oskarpìle"
+    },
+    "bb547528fd9948618d6aad4718a535ed.16": {
+        "codename": "C17",
+        "cluster": "C",
+        "lat": 56.954378,
+        "lng": 24.127894,
+        "image": "http://lh5.ggpht.com/5g7p3vuI_DKeW_3fXOkcOkWf-KkHVrqLXvD6vF6IJuWbROTeTGE24Feljm9i2GdT11_awLFUnkg0E-4XSuFT",
+        "name": "Barona Centre"
+    },
+    "ad4ec25f5bbf4081b321067c62d85d38.16": {
+        "codename": "C18",
+        "cluster": "C",
+        "lat": 56.955669,
+        "lng": 24.126994,
+        "image": "http://lh3.ggpht.com/93YfUcOA5jreKRlnq9jbqJn_G4TUqbr3avGk_b6vVDODljwnBaazK1OF7fuefKF2os4IYmsmPrYpYRXIQFPfqQ",
+        "name": "Janis Ivanovs Komponists"
+    },
+    "999a782dc26544e786ad8aa9aa623df5.16": {
+        "codename": "C19",
+        "cluster": "C",
+        "lat": 56.955231,
+        "lng": 24.129187,
+        "image": "http://lh4.ggpht.com/JsWwRtEyovWfP05LdQlzQCEcx3cTHMYIvK4VW0MPzrfJnSoMXI-djw42UJ-1SBvpE7yJCjgT8L93ANWv-bId",
+        "name": "Wooden Angel"
+    },
+    "7a0457c6cc3140ac8a1c94a1aa54080e.16": {
+        "codename": "C20",
+        "cluster": "C",
+        "lat": 56.954777,
+        "lng": 24.128297,
+        "image": "http://lh5.ggpht.com/HIIvLQSrh50W1M88i8_tI3lLchBooIabnemGcgHaOydJ0f1STN4rndlGfIvIF5ucHPaJw0P7XDbreuUlQ01Y",
+        "name": "Košļene"
+    },
+    "8e74a701b21242998488a77fee241893.16": {
+        "codename": "C21",
+        "cluster": "C",
+        "lat": 56.956065,
+        "lng": 24.127213,
+        "image": "http://lh6.ggpht.com/dmkKgVKb9p4IZn0C4-2JrpyzEYPTezgTDXCbdmaAAOVEtZLqBpER7Dq5skbA7fV6f2tOoKd34wsIU7k28Ws",
+        "name": "Lilapila"
+    },
+    "0548bfac893747f992248a8edfaaf549.16": {
+        "codename": "C22",
+        "cluster": "C",
+        "lat": 56.956035,
+        "lng": 24.12907,
+        "image": "http://lh3.ggpht.com/3NOgc0q2vqyy4Yiz0MfqYlnUK5da1kwf1fEr_Xd_Dz71pBU5pxwD3Y3fV2MN8txNfLwYXLcP0PGB_5PLLb9Ing",
+        "name": "Lillaa Kiwi"
+    },
+    "b8b42fbaeadb4a18b64dfe95658897fc.16": {
+        "codename": "C23",
+        "cluster": "C",
+        "lat": 56.95524,
+        "lng": 24.127509,
+        "image": "http://lh4.ggpht.com/agokzH-w6n2WwcS6DNotxz_73am8q_tKbfNOU5Hpab-GSek9u7UoUgVw1CKmwAxS84gbVsB5WaJjb-mnwpbJ",
+        "name": "The Guitar Club"
+    },
+    "5bc97ac383384868a085b233de972693.16": {
+        "codename": "D1",
+        "cluster": "D",
+        "lat": 56.955833,
+        "lng": 24.122157,
+        "image": "http://lh3.ggpht.com/JF3UUo-QfJrvbUKi25GTd02ilzxR7MzkxvJAoiQiEivD4t1HbGPqh9Cqyf-FeKlKM4k7JUbD2R62jLPW_iDa",
+        "name": "The Cross Fence"
+    },
+    "c56052f7a7ba437c8535d459e41e11e4.16": {
+        "codename": "D2",
+        "cluster": "D",
+        "lat": 56.956299,
+        "lng": 24.124865,
+        "image": "http://lh3.ggpht.com/eYGIak_y3FFIyq0kqAnhVtvksRS4FhVnyU-ZyV3mqqXYefH9d0sYgbkvTufEZ0YgctyWVpLznkT7czZwo1k",
+        "name": "Sea Tower"
+    },
+    "098f29734afa461e999c7ee6c3d59f5b.16": {
+        "codename": "D3",
+        "cluster": "D",
+        "lat": 56.957773,
+        "lng": 24.124223,
+        "image": "http://lh4.ggpht.com/1iPCBYfuu7zdHKdUuvcK6uLHNh_uZyx8SDGMD2plllmuE44AXWyjk-69c_-GS-ULyaCTmmOuEefQdD-va30Q",
+        "name": "Barkans"
+    },
+    "f1b1a43985c24a0fb2012a92a26a4f9e.16": {
+        "codename": "D4",
+        "cluster": "D",
+        "lat": 56.956487,
+        "lng": 24.121443,
+        "image": "http://lh5.ggpht.com/2abWv3HZ8EiPbVlcXfgLLVRBlQoDuePuMmQoMKDHx8h5MpZcZmbooDAM73WwynWNLAk6uK_--SGqHwVm4vTe",
+        "name": "A.D. 1909"
+    },
+    "fd77fe472fac45f7b4db64935196707b.16": {
+        "codename": "D5",
+        "cluster": "D",
+        "lat": 56.956697,
+        "lng": 24.123792,
+        "image": "http://lh6.ggpht.com/7KZYpsBOnxcktFQ3RnpifN314xUhSa_E76UQXKpi6LlZ8GzcQdFL4_SSA5Lqt4RDYZbSz98gfEvXJhZCZP5m2g",
+        "name": "Double Roof Garden Building"
+    },
+    "b623609bbd714b65992f843c74f8622e.16": {
+        "codename": "D6",
+        "cluster": "D",
+        "lat": 56.956623,
+        "lng": 24.122084,
+        "image": "http://lh3.ggpht.com/sPK_yRUNISEPjpblRTlgr1ujw-85edJv2AWHNItMe1FFInZPk9EsZFnYCqnP0NIkyvOFBRe17pJ1dmdt5y4p",
+        "name": "Lācītis"
+    },
+    "301a611f266c4f7a8bec3e606ea92400.16": {
+        "codename": "D7",
+        "cluster": "D",
+        "lat": 56.956452,
+        "lng": 24.124542,
+        "image": "http://lh6.ggpht.com/ZprZMbvX6T5IxO65mg9KvKtnTJCH9TrCkqzHjPeaMwvI1VDPAyRaQl8xi95_TIsK8hmUhOoeEYC1sotdJcPNyg",
+        "name": "Solar"
+    },
+    "80865eecce0240969ae1f1150ed73ca4.16": {
+        "codename": "D8",
+        "cluster": "D",
+        "lat": 56.956826,
+        "lng": 24.121822,
+        "image": "http://lh3.googleusercontent.com/aDX4LJHm1EKfBGOznh27DCiaaWyNNWrpXDHjvbGLLxRmujoJ8eio8mowqwev1aamRyOGnrUY726G41MFaYU",
+        "name": "Rīgas Centrālā Bibliotēka"
+    },
+    "abaeee84251a463a9bafa26784d3e832.16": {
+        "codename": "D9",
+        "cluster": "D",
+        "lat": 56.957419,
+        "lng": 24.122953,
+        "image": "http://lh3.ggpht.com/uOR5VuzXwSUwJQd503gWbQScVvf5VtuXealMG6XnzClId5HqAw_mA0BNIDVEJE30yNXTMCcgvCxh2tMn5yo",
+        "name": "Face on Gertrudes"
+    },
+    "691795a75abc49d8b4eef9adc8256792.16": {
+        "codename": "D10",
+        "cluster": "D",
+        "lat": 56.957245,
+        "lng": 24.123135,
+        "image": "http://lh5.ggpht.com/gJB9YBtKPMUjbQWE-k4JNVPm1Q-eAI2k2VWJV50Sj-oa7iybk3nqpskyBLO97YnimfoyJMnbXw-kzX0iLhLIPA",
+        "name": "Art Nova"
+    },
+    "cff9dac6cfbb40068d8f7fa2e3291533.16": {
+        "codename": "D11",
+        "cluster": "D",
+        "lat": 56.956159,
+        "lng": 24.121909,
+        "image": "http://lh5.ggpht.com/H5hg9LhAHixHlGidjNgeREoaD-yKXs_mISqbodWicKIPJOytcdczW2JUeZdZAdtJZpwAn7JLCyI5Ufnc1ms",
+        "name": "Memorial Plaque for Anna Brigadere"
+    },
+    "b2b679f806c543a9a7b5aef79797218e.16": {
+        "codename": "D12",
+        "cluster": "D",
+        "lat": 56.956485,
+        "lng": 24.125281,
+        "image": "http://lh6.ggpht.com/WJGVScVzmGlhRa9vLIfQv_1sYz_vn3FcPLvKKdas_nJGv_79GX65qGOzW1BRFJChQCRlD-p9p1ZPrcBWB-vg",
+        "name": "Auseklītis"
+    },
+    "6925d4ecfb874069ba65fb9e7ca0cba4.16": {
+        "codename": "D13",
+        "cluster": "D",
+        "lat": 56.956727,
+        "lng": 24.122858,
+        "image": "http://lh3.ggpht.com/7ZkqOTFbA_sgC3vH7ehsy_AapWxt-sia_D5bBOA6BfRyCJnmkg4iHzUTYm1x7eQLlTBCAo-JjFIsgIeQTZvh",
+        "name": "Brīvības 64"
+    },
+    "a4d541d6c1d24cb8bfe502e97675f4fd.16": {
+        "codename": "D14",
+        "cluster": "D",
+        "lat": 56.958344,
+        "lng": 24.12406,
+        "image": "http://lh6.ggpht.com/AqKITzwnxoIcdnTd_djhCaoM8pA-sSkp6OQMytAQHJ3KBoO8hwCpKPDc9qFJcI0RPq15nCjncw9pQsatP4tL",
+        "name": "Memorial to Victims of the KGB"
+    },
+    "046a128049c94f308c480d998560d0a9.16": {
+        "codename": "D15",
+        "cluster": "D",
+        "lat": 56.958078,
+        "lng": 24.124915,
+        "image": "http://lh5.ggpht.com/DXcqiKcGaOa3_x45uDSnEzQoWzY15VtjPqxMVLkG6lkVL-RO2_QjpTytSJbYl5VS1na9x-CAKoT5XcAf5hwo",
+        "name": "Rooftop Decoration on Stabu "
+    },
+    "c0607822e7c545f49bdd5c3708bc7bfc.16": {
+        "codename": "D16",
+        "cluster": "D",
+        "lat": 56.957221,
+        "lng": 24.123551,
+        "image": "http://lh5.ggpht.com/pkyESxPCXSScZibrfK6DoiFRipGgxbFY146Dum_Cydtfjs6J2NlMIxjipFwnoZowg7krGtEPrNrSPPCYIAU",
+        "name": "Little Angels"
+    },
+    "224b151bd6e94782a73c3ab31c16d358.16": {
+        "codename": "D17",
+        "cluster": "D",
+        "lat": 56.95634,
+        "lng": 24.122937,
+        "image": "http://lh6.ggpht.com/Q_iK3hp9fLRx_ehoe88JAInGVj7WO66caMj4F6Y8yp8e6S3zVxKiI2kwtZtpDSvhX3DI14wK2eAf9e3OVzE",
+        "name": "Cilindra kāpņutelpa"
+    },
+    "9642a3ce300842faabca05f2a54271eb.16": {
+        "codename": "D18",
+        "cluster": "D",
+        "lat": 56.956941,
+        "lng": 24.122226,
+        "image": "http://lh4.ggpht.com/y7J---AI3M07aBgPMSrgF7aBjL-z4AOKe7Y5uDVNqDrggl8oogCDwYJXgZU2ldvUVyQKT9WlipRvEB8kte8",
+        "name": "Decorated Building"
+    },
+    "f90b39ca4dc34de1bb62aba6ebb0b007.16": {
+        "codename": "D19",
+        "cluster": "D",
+        "lat": 56.957898,
+        "lng": 24.124321,
+        "image": "http://lh3.ggpht.com/S7zim6CTNIPJbHizIneHuNl1WAY9K6CT65D6i-iJOsfBgB9M6XaUfk88hEQK8hG5xqj9pHrR1rBcbE5kKcL2",
+        "name": "Dziedniece"
+    },
+    "3acb97e053a441abbb6a0bd6efeb6e05.16": {
+        "codename": "D20",
+        "cluster": "D",
+        "lat": 56.956433,
+        "lng": 24.126047,
+        "image": "http://lh4.ggpht.com/V99wrkCC0Cytt3XEnf5kRj8iWKy6rqx43zgTHeNTcDB4F7YdpbPB6Ve4B1HTouBOsX2DCfVocMmpEejmRLo",
+        "name": "Elpidifors"
+    },
+    "65235dd2ac094eeca27165e96d2742df.16": {
+        "codename": "D21",
+        "cluster": "D",
+        "lat": 56.955892,
+        "lng": 24.121739,
+        "image": "http://lh5.ggpht.com/BFFVSIDjilLy6X3E0szAfXqB83ozYsUrvkay0o1mfjzk69NvWsPD1FeTnwQ2lHIHK5jB8qEXGg6VLjiTaWLu0A",
+        "name": "Aleksandra Ņevskova Dievnams"
+    },
+    "d4b85f231e75450cbfde42046a451d43.16": {
+        "codename": "D22",
+        "cluster": "D",
+        "lat": 56.957985,
+        "lng": 24.124008,
+        "image": "http://lh3.ggpht.com/8D9FmcziAMnSyebumAMTxMeOvHPBd7b32AFzrPO1EWK8eKykfN_zLzMLcfXvTdNIzBLjGfEiBbQIcsTzybS9",
+        "name": "Krēsls"
+    },
+    "0d0a0c841ddc4f3d91c6c6c1f8e15d26.16": {
+        "codename": "D23",
+        "cluster": "D",
+        "lat": 56.956657,
+        "lng": 24.12594,
+        "image": "http://lh3.ggpht.com/Df16EqK-6dQNNvCb9a7_oYT7dhh0oKzF9B-GkXf1nw0JYG8vIb_FkMTjQ7D0bEfADqeu7GmJbK3sihzOb8c",
+        "name": "Metodistu Baznica"
+    },
+    "5f9502d6972a470b9992d16dc85f39fb.16": {
+        "codename": "E1",
+        "cluster": "E",
+        "lat": 56.95717,
+        "lng": 24.119956,
+        "image": "http://lh6.ggpht.com/xOsND3ZFrW271Vr50_qDAgiW_hq17ua5BTFZdmR_K2E51ABSSldxigxwyXHK8yY8F6VzAhpz8Zl8RWk9gnM",
+        "name": "Building Statues"
+    },
+    "cff065aad1a547dcab9aeedff35e3831.16": {
+        "codename": "E2",
+        "cluster": "E",
+        "lat": 56.958169,
+        "lng": 24.119163,
+        "image": "http://lh5.ggpht.com/vYmwdaWJl1v6MTnflekLabgL4zgOrUCC0Md5I01Y_fBTlniz1XgougSRAD3CiB_-RvuGjPpyFOpzl4qEI6gi",
+        "name": "Wall Painting City"
+    },
+    "9ea10334636a4bcfa581cade97ade667.16": {
+        "codename": "E3",
+        "cluster": "E",
+        "lat": 56.957333,
+        "lng": 24.119566,
+        "image": "http://lh4.ggpht.com/t0f8evJTBDkAQs-srmKNXneDG5zAygtxQmaCNsxG-7siKvYWjcvkrNTlUIG67X-HJB0oFPHwN55nusLLnnNy-g",
+        "name": "Lady Statue"
+    },
+    "56f6b03fc177466795f12c81372b1aa4.16": {
+        "codename": "E4",
+        "cluster": "E",
+        "lat": 56.957931,
+        "lng": 24.118493,
+        "image": "http://lh6.ggpht.com/UA5xbdFuYTeCFyZWMllKnm54m2LcbrtCcDYtTKC3pd0c_BivG65CdzV199i2amidb-0h66sM1mrD4Gdc1FA",
+        "name": "Fraternitas Lettica C!Q!"
+    },
+    "7f234f720b3b48ad8beb519e36708a78.16": {
+        "codename": "E5",
+        "cluster": "E",
+        "lat": 56.958057,
+        "lng": 24.118844,
+        "image": "http://lh4.ggpht.com/Zm4bw4FY2tNF5UmNaqfACg85PwQukm0_wLSbBLfGfd4KTAjQ9fxxVVjYrepBliYX2CGY0CRAnUv_tKois-IR",
+        "name": "Kaņepes kultūras centrs"
+    },
+    "69b586d6e2b544899146953402398cb1.16": {
+        "codename": "E6",
+        "cluster": "E",
+        "lat": 56.957716,
+        "lng": 24.118916,
+        "image": "http://lh5.ggpht.com/DbLW_icEvovqciZOFfurHngXKFeJ492rcZng-5WEbz_ZiXPHj4g0B4-zY78U5a3NbKffmEOGEkHJHEgC_xI8",
+        "name": "Stabu Skolas"
+    },
+    "08b66eff901e4dbabc01eadb0008ed4b.16": {
+        "codename": "E7",
+        "cluster": "E",
+        "lat": 56.959096,
+        "lng": 24.119727,
+        "image": "http://lh5.ggpht.com/uNQqdmmMrJcaqmXvhjLCmsztdCNElthQ70l_bbJaqB0x1HTHP5ckPHgE0Un0NV5UBO5bTIZclUSVi18bC9T-",
+        "name": "Vītols Jāzeps "
+    },
+    "905553db1cbe4f6599201d96eb10e3f6.16": {
+        "codename": "E8",
+        "cluster": "E",
+        "lat": 56.957675,
+        "lng": 24.118217,
+        "image": "http://lh6.ggpht.com/igZDuyb2Jfukr_HrJLgorReyPMdlHQ2Jje0-HKoa-aXlUrGO_RISOXOXXC34xYfxBXcAQw0Z6zN-aSND4LYUBw",
+        "name": "Igaunijas Vestnieciba"
+    },
+    "f673dca1b6a54bcaa0eba6cabbb58add.16": {
+        "codename": "E9",
+        "cluster": "E",
+        "lat": 56.958228,
+        "lng": 24.119643,
+        "image": "http://lh5.ggpht.com/Z4K3oxVDRzcdwawiRRUkMr2f_klCJ4woHvBH7cpxVYHf1s2577qPSTFOKcHzBL-JmyUwneON_6PTj6alO_arHQ",
+        "name": "Skursteņslauķis"
+    },
+    "a09d9532f7334fbf89ca18ecf39c849a.16": {
+        "codename": "E10",
+        "cluster": "E",
+        "lat": 56.957661,
+        "lng": 24.118448,
+        "image": "http://lh6.ggpht.com/GMlPZOck1ARVhVazvvwXEw671VBtYX7d0F4gWXQ4A2kqgAlIm3cOR46UC6MV0mP4V7448odKrisXpxEWB3cQ",
+        "name": "Ernst Jakson"
+    },
+    "95c46b2028a14c558097f3f733ab6e07.16": {
+        "codename": "E11",
+        "cluster": "E",
+        "lat": 56.957445,
+        "lng": 24.118926,
+        "image": "http://lh6.ggpht.com/9150zwiPshxsgen2vDD_dG2oktfY2y7HVTBxDK_oMkzhQQYTaD1houR0vSWuFoUKS6ZwU9EvSR1kofzJ0sKW",
+        "name": "Art Nova "
+    },
+    "fd3b149fee9d48cd8763f1e3a36bbc61.16": {
+        "codename": "E12",
+        "cluster": "E",
+        "lat": 56.957558,
+        "lng": 24.120791,
+        "image": "http://lh6.ggpht.com/v31sVDLzKa5_V35oCb6LGBOgyZwfXhoGbsWdjn1peKch_V6t9jLxJq__6DV98saol2wL9fsbPn3TPSC89dw",
+        "name": "Art on Door Wall "
+    },
+    "c2e8d7a1f4534b1399cf4024e1053d93.16": {
+        "codename": "E13",
+        "cluster": "E",
+        "lat": 56.959208,
+        "lng": 24.12107,
+        "image": "http://lh4.ggpht.com/bGtHa0VHsr_ol4we5ZlkUM8gt_WLFbTaJkFtt1U0qrsX7VbAZ7cQpZge0UDfmHqgiSrq5kJ_v-fQMgi-ndU",
+        "name": "Sieviete Un Vīrietis"
+    },
+    "c5b7a0505f6b42d1bfc31e386ce89ea7.16": {
+        "codename": "E14",
+        "cluster": "E",
+        "lat": 56.958057,
+        "lng": 24.121665,
+        "image": "http://lh3.ggpht.com/pcjVzxIiEo4La4WFyAjL8MdvI8ceWXKmBfsd4xSAtzxcxLxUWFbEZDKCry8enuZiRPbjQnvp04vFJIp_Eous_A",
+        "name": "Building Decor"
+    },
+    "dc490cb6e29b4c099a084618b34baaae.16": {
+        "codename": "E15",
+        "cluster": "E",
+        "lat": 56.958374,
+        "lng": 24.122263,
+        "image": "http://lh6.ggpht.com/rmd_VACl3g2mPvGYU4Mx2qtyzMhQgLTthG8F-0KctbvwibbdoJdn-dxKMFw8O1EoT4J4R3xDr_W0BtGHx7R2",
+        "name": "Murmulis Uz Sienas "
+    },
+    "cff23d64e2d540fd91fb33e364be9edf.16": {
+        "codename": "E16",
+        "cluster": "E",
+        "lat": 56.957736,
+        "lng": 24.122066,
+        "image": "http://lh5.ggpht.com/pzyQY-4EQmDFv-X9NS_0f22nubUS8nouyOpz-kTcgkncdLLacp6EXfkWG5GdHMZvNG2owrCtIe0iiTNA69eg",
+        "name": "Sv Gertrudes Baznīca"
+    },
+    "3c350a17c5c94d60b076f30db6bb5ab2.16": {
+        "codename": "E17",
+        "cluster": "E",
+        "lat": 56.958958,
+        "lng": 24.122714,
+        "image": "http://lh4.ggpht.com/fd5xhVeBp-9iAudwVpWlVexBdPnbgDWtdQmCz9dNvJmh044kU9s50H1MHmaj-jebPtSBYsHW7LPA0SSkuFEI",
+        "name": "Hole Decor"
+    },
+    "0e8ee0294a154f5eaffd5982c0a115fe.16": {
+        "codename": "E18",
+        "cluster": "E",
+        "lat": 56.957299,
+        "lng": 24.120362,
+        "image": "http://lh5.ggpht.com/3UozpCYrjDPFN_kCeYLPD1jZd_gNaktKKRawsZ8SvzrX1Gj_AUg71EIcxSuGRQKfYFoNM4eHq5FG1AIxLuY",
+        "name": "Pie Kristapa Kunga"
+    },
+    "45bad4d60d2342548774e99bb6662d30.16": {
+        "codename": "E19",
+        "cluster": "E",
+        "lat": 56.958926,
+        "lng": 24.122194,
+        "image": "http://lh6.ggpht.com/Sy4wPw1OAKFpULNpppnj8RmduOg9byPhJBhAJ8EUbKmk8CrnRY-o91KFuxxiRPFr6Ge1YXM9Hsp0eOnyFgo",
+        "name": "Medieval Building"
+    },
+    "3a58f3e94d7e420a96b0c5d46ead34d3.16": {
+        "codename": "E20",
+        "cluster": "E",
+        "lat": 56.958499,
+        "lng": 24.122535,
+        "image": "http://lh6.ggpht.com/XMi5vd55W09QjlOS1JcixPpTAQ0bWYmjhFYqr9jSEKaq3gJh_N96EkbtP045DOIkYt0huo4birx1r43R9Fk",
+        "name": "Face Of Art Noveuo"
+    },
+    "b2e3c0ea321340bb9dddb3d3bcc6f5fd.16": {
+        "codename": "E21",
+        "cluster": "E",
+        "lat": 56.957789,
+        "lng": 24.122484,
+        "image": "http://lh5.ggpht.com/BwO_yeTi1opA6SejPv6uOk9zP2pwQmWeH1Sz6OOBQVtQEGni2c9xSrTRsKUwhAGH_B_Xry6D6yVR6HeY2atbQg",
+        "name": "Art Noveau"
+    },
+    "81041a522ddd4ef6823b4dea8ae377b6.16": {
+        "codename": "E22",
+        "cluster": "E",
+        "lat": 56.958197,
+        "lng": 24.1213,
+        "image": "http://lh3.ggpht.com/F_3LDWSWHb0QUPfRQ2ZnFjohVLCB4v9kORkV13zJO5jgulVrW8g1r-PWgZ9FNTaXLTHCMU0MmPdXjqDIZnBU",
+        "name": "Sight Tower"
+    },
+    "a1a8b3a458514e1fbd86ef27f71dc5d5.16": {
+        "codename": "F1",
+        "cluster": "F",
+        "lat": 56.960375,
+        "lng": 24.114306,
+        "image": "http://lh4.ggpht.com/cYXotTatuI9vZbs6GfBWm5azreRHwxGD6BH-U1Mtz7lncMlphBUf2SzPV4mjngPbmv6cd9vq83JZNTzX6qkx",
+        "name": "Magdalēnas Vārti"
+    },
+    "d5048c8fbedb4d4e9256405bdddfc7b5.16": {
+        "codename": "F2",
+        "cluster": "F",
+        "lat": 56.960576,
+        "lng": 24.115032,
+        "image": "http://lh4.ggpht.com/23xebP9Rb1M7jYjpnJpIZ8ejvLPQPdv-xkW25s6GH7w6c6mpQPaswYNKqXQumHOlih24Sxn4WQe40MqsIJxR",
+        "name": "Vase Of Flover"
+    },
+    "54b8b6aec1504963837cf038b48caa90.16": {
+        "codename": "F3",
+        "cluster": "F",
+        "lat": 56.96048,
+        "lng": 24.119775,
+        "image": "http://lh5.ggpht.com/7lYMkQIx-VPWxTrs9SytJF0nwFE1ti0nk9tltu-orgj6b1dS_kFMd1ipDSkZhDefuv6EvYEFkuYdyAr9UqU",
+        "name": "Union"
+    },
+    "bc369b3dc0e144df85ff56daa23062a8.16": {
+        "codename": "F4",
+        "cluster": "F",
+        "lat": 56.96042,
+        "lng": 24.115454,
+        "image": "http://lh6.ggpht.com/vyEOl44J2Yt1qb0aueMjOW0Oh98LRIriVMh6i5z3fWZ7ntv3wHSrVVWOFAOyeBhiqe_zevBUCRHRqU_sli_Z",
+        "name": "Faces Under Window"
+    },
+    "c22f795d36b8476fa75a921192742c79.16": {
+        "codename": "F5",
+        "cluster": "F",
+        "lat": 56.961233,
+        "lng": 24.117389,
+        "image": "http://lh3.ggpht.com/2L6vKtzJcYA0uGyPSd63a04wVsHbPMJu0pNjTpesfX657hX4NEEikIx4OgOnlw_rx78o9X8xuwLUEIFLgTIl",
+        "name": "Skonto Stadions"
+    },
+    "e2157220cbc5477b9e9111031654f34a.16": {
+        "codename": "F6",
+        "cluster": "F",
+        "lat": 56.958174,
+        "lng": 24.113281,
+        "image": "http://lh6.ggpht.com/oaXyWmLsmQJIsWAN8vbAXu3qxVEmUcRB6U9RXg6vaf2vpi6ee2oX3DR3ra5Q420GDttQMACOnw7BuYauQ__h",
+        "name": "Jagermeister Pub"
+    },
+    "878e6ac974aa46908d465019af8ed1ce.16": {
+        "codename": "F7",
+        "cluster": "F",
+        "lat": 56.958005,
+        "lng": 24.116246,
+        "image": "http://lh4.ggpht.com/I12e_vE6eYBhK8dMoMiDcb_93ZLb-6s8gkCpaJ0q5wqODQAlX7IIszHhGsj4xkqLaAqUF0OVI-wcuXaaouGmMQ",
+        "name": "Wall Decor Griffin Art"
+    },
+    "fd9d31fecc9540ca913e9545ee07c4c8.16": {
+        "codename": "F8",
+        "cluster": "F",
+        "lat": 56.95818,
+        "lng": 24.117033,
+        "image": "http://lh3.ggpht.com/SUpdnApuJcCR38p7i4uIzXMc9x3tmH1w8qKrvGCWzawxoWHvjJ-WeOh7gkPUU3101DlX5VEmb7yithtonRNj0A",
+        "name": "Mighty Eagle"
+    },
+    "0f139df0edf94611bfcf8adb09a41d02.16": {
+        "codename": "F9",
+        "cluster": "F",
+        "lat": 56.957468,
+        "lng": 24.115346,
+        "image": "http://lh3.ggpht.com/zZ6Rt9Qo9CPLYZjGmP9talJBLcbT1JTy8Khi4oKttUkIRL1jwm0S414XEf0z6hZfxeXb3R5CfefOAVuezCFN",
+        "name": "Soldier Head on Wall"
+    },
+    "3c593e0f820e440e85944c035fc05154.16": {
+        "codename": "F10",
+        "cluster": "F",
+        "lat": 56.959629,
+        "lng": 24.113446,
+        "image": "http://lh4.ggpht.com/1pBFf1pziB1QRMqv1xlvdkaJMNy7Pr-yxfV4ePoi1yIBN9iizL3tZZJR4C6CpV9kR_--wcVRvvxQfBqL8OHe",
+        "name": "Oval Window Door"
+    },
+    "53921ec17b6944bc9442eb3aa27118ac.16": {
+        "codename": "F11",
+        "cluster": "F",
+        "lat": 56.95757,
+        "lng": 24.114758,
+        "image": "http://lh3.ggpht.com/QPsuVHnwOomstFl2cwQy1ENisi2EugDsfWVxdCKDWwbXPxFmwbhlxTILi0A-q7DgJKMVY4-_8dBQyPh0tPes",
+        "name": "1893"
+    },
+    "6ec35302e7324cfd8ae3fd8ae79c8ca6.16": {
+        "codename": "F12",
+        "cluster": "F",
+        "lat": 56.959826,
+        "lng": 24.113619,
+        "image": "http://lh4.ggpht.com/xCISRkeSkSARpttVJm742vFojLPaTMskT1j9Z_8VXW2DwUflZcsFDxKfewopugQ7j6CYo5hkNlBgBSErvge1",
+        "name": "MI Wall Decoration"
+    },
+    "5d4cab3456124ed8825f6de432763093.16": {
+        "codename": "F13",
+        "cluster": "F",
+        "lat": 56.960109,
+        "lng": 24.114164,
+        "image": "http://lh3.ggpht.com/L_tQqyPBu02Kj-4gjiHDjP6axKc-yBF7cqmfziaJ8UCesYn7u4hJ8Ee_M1hZ_fQHoZuMXroXnP_4aVSOkjLg",
+        "name": "Renesance Balcony"
+    },
+    "26f695dd90ce4edfa59409ca1ac10f9f.16": {
+        "codename": "F14",
+        "cluster": "F",
+        "lat": 56.958334,
+        "lng": 24.117369,
+        "image": "http://lh6.ggpht.com/sA9HxlCa1VJHEdO8sSUEtKUCxZi6_RktFXEK2aY13lPkMFsmVgrApJJ05hKHQAhMrjym6qwtGpmCNJxXhVKy",
+        "name": "Balcony"
+    },
+    "a1cb13b5d274478ca022246836e340d4.16": {
+        "codename": "F15",
+        "cluster": "F",
+        "lat": 56.958928,
+        "lng": 24.118316,
+        "image": "http://lh4.ggpht.com/54fg5aohjfubSY9U06qhwzIiHkNZGrhudtNiZadqobHEMZx8yz72LUOxQu5cV0nVHwt6aJxIENZ6Qx4gIKz6",
+        "name": "Mihails Tāls"
+    },
+    "480f891005a64d6aab6895a036bf3b19.16": {
+        "codename": "F16",
+        "cluster": "F",
+        "lat": 56.957743,
+        "lng": 24.116304,
+        "image": "http://lh5.ggpht.com/6CkUAzdQVf6w5cA6zy05W9hkv9bu14MbGiyev4LNMD60TtdSBnswXN0W1r8aWES93TWRwpc42ZlDA11HkvI5",
+        "name": "Divas Meičas"
+    },
+    "f360d1a860d344ecafc78576b5fc463b.16": {
+        "codename": "F17",
+        "cluster": "F",
+        "lat": 56.959367,
+        "lng": 24.118857,
+        "image": "http://lh6.ggpht.com/SOdrka76UZQJNAGEkjA1EustP3iOkaFrZMpf978zqOuhs391S1QH4Le2tWFJnyugFkSGzfFkBqWa8DZrKUk",
+        "name": "Rooftop Decor"
+    },
+    "0f2c141c7c9445028ba7948e09563916.16": {
+        "codename": "F18",
+        "cluster": "F",
+        "lat": 56.958219,
+        "lng": 24.116655,
+        "image": "http://lh6.ggpht.com/bML7aZorJfH1ZzA_K8jLPHSRCBPtfhcx6NEuzvJ1WFIe5prO-qCgfcu4bmnj2Pe3x5FJMQlSqeneESGmjYHIPQ",
+        "name": "Dragons Art"
+    },
+    "a42e509acdb14e668f8b5a2762433812.16": {
+        "codename": "F19",
+        "cluster": "F",
+        "lat": 56.957742,
+        "lng": 24.115861,
+        "image": "http://lh6.ggpht.com/ARu9dLjG4hYI_vpcel3DJUbiMGmceRseUN_4QIA5QvPEjrJoZmTbThnWKnEivuGcH-iv4QA_GxahqnAXTl0",
+        "name": "Single Lady"
+    },
+    "e2effefc6332444ba174256e350e2385.16": {
+        "codename": "F20",
+        "cluster": "F",
+        "lat": 56.9579,
+        "lng": 24.114286,
+        "image": "http://lh4.ggpht.com/-Gdlm46kfNvxqHSe4M3knSvBh7HBx4OgmbrqRuWyz_qZDEph0QRwsSvLG84qEuuQZ8IiaKIMcYbqAuXUStDREw",
+        "name": "Māja Ar Jocīgu Jumtu"
+    },
+    "92861e3da3c0451191c398778785be7c.16": {
+        "codename": "F21",
+        "cluster": "F",
+        "lat": 56.959239,
+        "lng": 24.112883,
+        "image": "http://lh3.ggpht.com/5EtFU11aWY6iejJhyWodSvYBGjHzORZdZUsxPXmq3G978XqvPrdlpCJa3umPEM7DEJYjpVZUhjwOxMopr9k",
+        "name": "Helios Man"
+    },
+    "d58deaec83b940b084e2d13307c440c9.16": {
+        "codename": "F22",
+        "cluster": "F",
+        "lat": 56.960099,
+        "lng": 24.120032,
+        "image": "http://lh4.ggpht.com/5M0dCzhXFePuBckB7vZLrOf38CnhhmuFzwa8qAvcrTqCrz_hKeEhMDrm76VaYSF6PeZ62FDToq0ggb8MhSAl",
+        "name": "Apeirons"
+    },
+    "9e57dc8a7e834244b8b41a2661fbaa25.16": {
+        "codename": "G1",
+        "cluster": "G",
+        "lat": 56.956665,
+        "lng": 24.119549,
+        "image": "http://lh6.ggpht.com/gNlc6Ert86LnZLPR4TV_9o7wIdb1A3tJBftkhP-dt60TGZJMoAgxXRy6J4cIL5BFKSG8pD6XbZJBqrmDUhkPdQ",
+        "name": "Woman Decor"
+    },
+    "03a2a402caaa47d785cf3910c75855e9.16": {
+        "codename": "G2",
+        "cluster": "G",
+        "lat": 56.955938,
+        "lng": 24.117944,
+        "image": "http://lh4.ggpht.com/PH2JPIFlryeUMqKnp9rheprUBTXO871voZRW6vk5DuOPHaDdcc-UPOVWp-b1RAeceuhQpOh10yG8us8QOKIJjw",
+        "name": "Male body on Baznīcas 7"
+    },
+    "09ce499c1ad54f78b02bfffb55f58e22.16": {
+        "codename": "G3",
+        "cluster": "G",
+        "lat": 56.956348,
+        "lng": 24.116053,
+        "image": "http://lh4.ggpht.com/PPacpJ72Wr61kWCuyQKGe4gSQbBh8E4JJRchPQQe1stQXk7gfiFmUGbHrPQKuE0tbQNs1VmKpjRgbq_I_HYt",
+        "name": "M B"
+    },
+    "801484b83f8d410f9ca58107446d21ff.16": {
+        "codename": "G4",
+        "cluster": "G",
+        "lat": 56.95681,
+        "lng": 24.116786,
+        "image": "http://lh4.ggpht.com/o8Uye_tc3mwgDh5_g3AtUdJV9iQfRzRx2SBKlD7FGbEUjkazECKyDirl3ti4iY4AKjNoFjDaymN7Xp1w27_4Vg",
+        "name": "Roberts Books"
+    },
+    "ef84c667b4724fd09f5b4465ec8c842b.16": {
+        "codename": "G5",
+        "cluster": "G",
+        "lat": 56.956664,
+        "lng": 24.11861,
+        "image": "http://lh4.ggpht.com/oXwlVa_vXyORDHPvVea3tgbdCFSZvmHOAz1otibElFoFCoYtVhJX8SLyx6lRl6DpohUkGzDhuOYiXuWdVt0",
+        "name": "Poliklīnika"
+    },
+    "3e9628de7f2d4f70a5dbdec9c81e6bb0.16": {
+        "codename": "G6",
+        "cluster": "G",
+        "lat": 56.956265,
+        "lng": 24.118871,
+        "image": "http://lh3.ggpht.com/X-Mzl0L6GzV5FpNRQ5awOBMFLJzj_N8b3JJfAGgNTuJaDCCFViwsP5LCwdh4_tt7kQtRU3evY_ol0U1eQVRX",
+        "name": "Plaque For Ernsts Stalbergs"
+    },
+    "9affa49b4b0043b3937b4e47e2cb7eec.11": {
+        "codename": "G7",
+        "cluster": "G",
+        "lat": 56.956041,
+        "lng": 24.118388,
+        "image": "http://lh4.ggpht.com/8SzifjKoGN6fEg6DZgENMuCJtHuB72ZSYT_OWE9sao5IpHlLDyOyLEjJmHPGUb37Xcq11XC5LpI-ilYnD19EBV_uHJIe2LayIsJB17HZbjWgF-hH",
+        "name": "Dominante Building"
+    },
+    "dc124f57ed344fb5b0c4a2e49f085894.16": {
+        "codename": "G8",
+        "cluster": "G",
+        "lat": 56.957408,
+        "lng": 24.117996,
+        "image": "http://lh3.ggpht.com/CmB4w278iRyV80YmUhvlVYS89TQIYvLegEx6ulY3Todk36z54fYRLL43QwmKFE1T4XREuZLYTTnyQ9PvxFSa9w",
+        "name": "1912"
+    },
+    "6af0014c3c25462190e2c84a7ae48f2f.16": {
+        "codename": "G9",
+        "cluster": "G",
+        "lat": 56.955601,
+        "lng": 24.118854,
+        "image": "http://lh4.ggpht.com/IKsUPi4LztOsQuO_t9WKVCAo4fSk_TsA0S3o9RTt1uGDQ53Ym6eTuEPPJPX7miyQnCvjAk3zRrIVyKUXeok",
+        "name": "Mexican Style Building"
+    },
+    "0b88d06748e140a1ae28b4eecd322f2b.16": {
+        "codename": "G10",
+        "cluster": "G",
+        "lat": 56.956176,
+        "lng": 24.117463,
+        "image": "http://lh6.ggpht.com/0ViD2d1Ot8s32DuDGahpBapqCV3wF-mUh5qp8FMRHKsMtNVaCMxI-DAcmBa0zYTrKAeDQtQKnoySHJeYarQ",
+        "name": "Zirgu Pasts"
+    },
+    "ddde82c959894500bb828b16832e4cd8.16": {
+        "codename": "G11",
+        "cluster": "G",
+        "lat": 56.955833,
+        "lng": 24.116944,
+        "image": "http://lh5.ggpht.com/tqjJpATKdMDrbh33fiQyBctXMIHZZm3Z2NUBclqUPAt-JNmk0V3kC28LVKrfSjlTb2igJJW8jYYq1edwQFUD",
+        "name": "Ernests Štālbergs"
+    },
+    "50744d403a1142c286aa6d67f51e9e66.16": {
+        "codename": "G12",
+        "cluster": "G",
+        "lat": 56.95554,
+        "lng": 24.117224,
+        "image": "http://lh3.ggpht.com/KzT-oGO6-mvsgZJOsdoeLg9C885Gqy4Nrq2svSMkOfglh_slPdJbR48D2KeDi2nE-WJYf2pKtOXOyREOOmkq",
+        "name": "Old Man Face Over Entrance "
+    },
+    "fed2dac3bbe64462a5bb93fa7d0198f8.16": {
+        "codename": "G13",
+        "cluster": "G",
+        "lat": 56.957186,
+        "lng": 24.117803,
+        "image": "http://lh4.ggpht.com/SAZXRuHYoZ-ilCXrbLaqXofUz0Ia4RGTP79zo24vuNrGVZ0y_pizk9oQEPYBnji4snNDH04e7YAtQMKhGXmDFg",
+        "name": "Sitting Demon"
+    },
+    "3630b945c2374ea98f53b1817cd94e2b.16": {
+        "codename": "G14",
+        "cluster": "G",
+        "lat": 56.955634,
+        "lng": 24.117759,
+        "image": "http://lh3.ggpht.com/j0RZ58ANIUkyxyFsHIpLvUt4Ro9tyic-mjcjTQU9RelvP3TAGSUv5h3AU7-ZXrD722YBLXcnEs5ecPhvSw",
+        "name": "Girl Over Doors"
+    },
+    "fd2c7d8ffcae4848b40013bc20325e8c.16": {
+        "codename": "G15",
+        "cluster": "G",
+        "lat": 56.956416,
+        "lng": 24.116569,
+        "image": "http://lh3.googleusercontent.com/2aLUKJCZf1f-UUD2vm54ewKxommCuibbe8KrnbgTZUWdd4X7XCqxGBz9IP8p2uoYY0JpYDP-v4y0VkBL3lX7ig",
+        "name": "Riga Jewish Community"
+    },
+    "3af106af24a845079e507f3f61ec25cb.16": {
+        "codename": "G16",
+        "cluster": "G",
+        "lat": 56.956425,
+        "lng": 24.117107,
+        "image": "http://lh3.ggpht.com/_h6sgbz_eSN_IPp_i1hj91IUqchPnnTtab2PNZZqxqzhB3-WmiI7F0nXQ2KPYDchFusfLOMoS_kcYD4bTfvL",
+        "name": "Bowl of Fruit"
+    },
+    "b0f8f0b7eb0e41d793d96d789d7ff8d7.16": {
+        "codename": "G17",
+        "cluster": "G",
+        "lat": 56.956021,
+        "lng": 24.116315,
+        "image": "http://lh3.googleusercontent.com/2UV0pjtgg_TzFlWmAmg3DS4ErKxEqxM17byJ4d_c3UNmdiuTENm2IuxIQauYJRCB0nsevPTWOexhsUNwfj2S",
+        "name": "Morduhais Dubins"
+    },
+    "9d63d2b8cb544187b58a88f4338d4343.16": {
+        "codename": "G18",
+        "cluster": "G",
+        "lat": 56.956684,
+        "lng": 24.119784,
+        "image": "http://lh5.ggpht.com/gmRQu-GLCtuuwr8w0hIHNIUrhmuqmzkLIULnGB6WU_j1wIGqw4QsvfSYAlagqWLvjnwLMDq2kQ0r575wzf0",
+        "name": "Septitas Dienas Adventu Draudze"
+    },
+    "bc72feb5044242a58b6972f4314c0a2a.16": {
+        "codename": "G19",
+        "cluster": "G",
+        "lat": 56.956811,
+        "lng": 24.120258,
+        "image": "http://lh6.ggpht.com/qV5MgkKr9Cmbg02PgfZJaDZ46kesgrbZc_SlUv-t52-WtI0CkIu_GVpwikPANw6Jp5yN5qW2XrWzeAxyOio6Sw",
+        "name": "Kiwie Tron Ride Bikes"
+    },
+    "aa3d1377d9804c729f821d78e77d810d.16": {
+        "codename": "G20",
+        "cluster": "G",
+        "lat": 56.956942,
+        "lng": 24.120555,
+        "image": "http://lh5.ggpht.com/1SF9BGDmGqak2EuvAzXeXtkHMRYP_CvMuo8YK-6vqIDrRU_QeV0P_vklsnDPfXLmWDr4xNZ9bpvBgBUspeFudw",
+        "name": "Door Decor"
+    },
+    "33de8d0e62a74d2c8de9c35dd897a5f6.16": {
+        "codename": "G21",
+        "cluster": "G",
+        "lat": 56.95658,
+        "lng": 24.120715,
+        "image": "http://lh4.ggpht.com/q8QzMKhnw0jb4LV_uY23jpKWCNwvO5uTyQvYiJKWvw7o8M0RAJ9Y034uzOMfihdDGyh_iQY9b2E-gHGglAod",
+        "name": "Ale House"
+    },
+    "5554b0b0b4e14a2bbfc4cdbdc8b131ae.16": {
+        "codename": "G22",
+        "cluster": "G",
+        "lat": 56.956764,
+        "lng": 24.120648,
+        "image": "http://lh6.ggpht.com/A-n_vO-DjRoArRq9RIUgume0mqfSeiD9l86VePKxRnGOBkY3LDk5tVmqU1JtsBPpmGAmgzIcduahgFXIyGo",
+        "name": "Teodor Spade Plaque"
+    },
+    "dea1aa91651744e8b8e3abbb501e4ff6.16": {
+        "codename": "G23",
+        "cluster": "G",
+        "lat": 56.956604,
+        "lng": 24.120109,
+        "image": "http://lh4.ggpht.com/CzMjCTKEFFTMjAp4QE-wdMJhsz55umHAxDkhVI3B8Sy9PlNqhPkcKfCwdcZsO-yBPXefAgu4NTBTVApAH7Jn",
+        "name": "Kiwie Ride Bikes. "
+    },
+    "4d59b1a9094d49399128c282dc7dfdad.16": {
+        "codename": "H1",
+        "cluster": "H",
+        "lat": 56.953539,
+        "lng": 24.125525,
+        "image": "http://lh3.ggpht.com/lWVKiCvHqbdrqgwMACa7cM1i4AKRXdDU1aQYc_MhsOP3FQfVkeG_SlJVE-T6BWe-j2RI5DPPj4w-gTa1gwVN",
+        "name": "Daile "
+    },
+    "1940f6e762554545b3bffe3de2ebc551.16": {
+        "codename": "H2",
+        "cluster": "H",
+        "lat": 56.954176,
+        "lng": 24.125853,
+        "image": "http://lh5.ggpht.com/dc70vwy7XmGHcLr9EiXkQPuSWehSriY98mA5irU7hU76dG3sxdhmBW_zdOFGE5wuPTbrZic0-GWp-O0ergXYDA",
+        "name": "Hercs Franks"
+    },
+    "2d27f66e70ab42db8485b288fc394d65.16": {
+        "codename": "H3",
+        "cluster": "H",
+        "lat": 56.954137,
+        "lng": 24.123337,
+        "image": "http://lh4.ggpht.com/zTNYgeuilrh71-q_rwboFDxXt4785xDSPWTgI-NGxbfH4mqbIwx-7ipo1w6IQgbvDMJ11IyFAF2hckRtNXr0",
+        "name": "R.Bēms & T.Kalniņš"
+    },
+    "fb30a2e19afc4de59e88ef9363f9e1ec.16": {
+        "codename": "H4",
+        "cluster": "H",
+        "lat": 56.954071,
+        "lng": 24.126904,
+        "image": "http://lh4.ggpht.com/eNdiWSqpq0Iyeo0SXzx44311Y_cpEA1A66o8Nf6vTQq9p6QjA0-JkPC09dR-DiWTOcJdwOSk0jjdV1sCDqE",
+        "name": "Gallery Istaba"
+    },
+    "61c6e79a3fa74fb0af93d539269e20cc.16": {
+        "codename": "H5",
+        "cluster": "H",
+        "lat": 56.953274,
+        "lng": 24.12612,
+        "image": "http://lh4.ggpht.com/Xr_l8Wcu95Po7y97ux8gYmNMZ0iaIxUqZ4i_6S-fbPNbCLjkBe-dquckoX6VWS4r_NTDxvInY4c76u99YVTHrA",
+        "name": "Butterfly Weathervane"
+    },
+    "7989b022c2d64a25917d01a5a2c2f0e8.16": {
+        "codename": "H6",
+        "cluster": "H",
+        "lat": 56.953765,
+        "lng": 24.126095,
+        "image": "http://lh4.ggpht.com/FTGqTWyT27dRhUCN-XlV970IaUIIG04LzzCWAfrNmtjs0qa240K-j2KMlLnTNmBbw-kDsPIBlzvghXIE1win2Q",
+        "name": "Kafe Osiriss"
+    },
+    "a3fd084e5f514a9f863539c86a1c65fa.16": {
+        "codename": "H7",
+        "cluster": "H",
+        "lat": 56.953844,
+        "lng": 24.123786,
+        "image": "http://lh3.ggpht.com/CYz7devvRchZaEOgwDir-5_2M0asA4j1jHsMjq_hFCzmQFvuZ8_-S-4IUAWKrb3WzmI4IkzupccHXrPScLqgQA",
+        "name": "Devil"
+    },
+    "aeec3f23f6e5495e83e6d4614274ce9f.16": {
+        "codename": "H8",
+        "cluster": "H",
+        "lat": 56.95356,
+        "lng": 24.124016,
+        "image": "http://lh3.googleusercontent.com/C24jhrRzopm7moGgr74VYBw1rV9bUTOtUxUSLXg7prxT2rio-tibYqiDigCw4pRiblsQPtUpPnE-kxc7dpTj",
+        "name": "Tukšas Acis "
+    },
+    "7c34f5cc7b24491f83d4bb746c0a8ca5.16": {
+        "codename": "H9",
+        "cluster": "H",
+        "lat": 56.953251,
+        "lng": 24.12413,
+        "image": "http://lh3.ggpht.com/EBNMN0qvmgcKzi86Dvnl_amOJIsI9duVvCI-tg0gxXNxvAMjXai1Y_BMM_BGI7C_Ly7vC-WSlNrlbkLZkwM",
+        "name": "PA-Angels on Blaumaņa 26"
+    },
+    "8714d71a23d9424386c3f3418b30c206.16": {
+        "codename": "H10",
+        "cluster": "H",
+        "lat": 56.954123,
+        "lng": 24.127531,
+        "image": "http://lh5.ggpht.com/r4YWkaXzL3ewqsGBKOquzT2HXf4GmGmv9oWOWIJ6-CHHpr6FvGi9aIO7V5xfTq-VNoMYu0m4m_xkHDJyrlRp",
+        "name": "Hermanis Liepiņš"
+    },
+    "c395142db89d4ae0876cb8d3b6e0c3dd.16": {
+        "codename": "H11",
+        "cluster": "H",
+        "lat": 56.955366,
+        "lng": 24.123333,
+        "image": "http://lh4.ggpht.com/uPWIj_A_r8MLWRfMhYguMQxWbgqw-VTlWwbuP7lDbRyIbdaMMXiYB-Oz4y0Bn83m4BQv-AopbKzgffdtl-OW",
+        "name": "No Entrance For Ladies "
+    },
+    "713150db1bf1444b8918ad7c1c04e949.16": {
+        "codename": "H12",
+        "cluster": "H",
+        "lat": 56.954214,
+        "lng": 24.122891,
+        "image": "http://lh6.ggpht.com/Z-CSeV59Gv96mJ-APKoVRpqJn1nl4axd6i6Ps4ovJ3DbeK_9NDz7T-JqcqXCyBC7fboalKDLdYr5xZUvbIQ",
+        "name": "Banāns "
+    },
+    "95453e63bfdb4fe8a8aef848d86a0041.16": {
+        "codename": "H13",
+        "cluster": "H",
+        "lat": 56.954742,
+        "lng": 24.12464,
+        "image": "http://lh5.ggpht.com/NrK45e0oGDgSsFM7wFXP7grLaA6jnoGVUv2-eV3dsG_Qj_ZdZGBMX6UXTYd2WWM6cMXvrG94AqC3mvRhu9E",
+        "name": "Smiļģa Māja"
+    },
+    "156055f1ee4f425f87389bcbf6c7f4d3.16": {
+        "codename": "H14",
+        "cluster": "H",
+        "lat": 56.955537,
+        "lng": 24.123133,
+        "image": "http://lh5.ggpht.com/VMDcUI601JksvCImFElmY3fkAtqa1KifaAffJhUWLCs2eKHNJvFwrcAIniaRAaZeUHLKK4BBNIgSwgKm_KkI4A",
+        "name": "Akas Tower building"
+    },
+    "5bde6fd0361949f7941f6e4420370ac3.16": {
+        "codename": "H15",
+        "cluster": "H",
+        "lat": 56.954477,
+        "lng": 24.124361,
+        "image": "http://lh3.googleusercontent.com/9cRb5MLvMmrLRbVIQQOupiXjr-8rC3Kh2kRKVxipYt61NSDwnmna-AHf_4y1gkiFBMuZWLG28gSjolp01mQ",
+        "name": "Ebreju slēptuve"
+    },
+    "37ffcbfc1767448f91995e370fea0958.16": {
+        "codename": "H16",
+        "cluster": "H",
+        "lat": 56.954431,
+        "lng": 24.125257,
+        "image": "http://lh4.ggpht.com/0nUFN9xlmRcW_e94vEcr2A4tFgscFvEFxqgmwivve-S940zvCJ4LNGaM06ZsSNv1rASQwVNn1S_O-K7BIqbU",
+        "name": "K.Pēkšēns House"
+    },
+    "89d13460828847a9853ec9372b7ba814.16": {
+        "codename": "H17",
+        "cluster": "H",
+        "lat": 56.954428,
+        "lng": 24.124813,
+        "image": "http://lh4.ggpht.com/WP8lVndeYCdPB1Mf7h78WXnabwF9YCttaBLo3e73kDU4MzJyq-ejtROECJEkb8PmC9tbJnFsShCQkGv3SrduMw",
+        "name": "Dragon Under Balcony"
+    },
+    "c803dfbfaf5e41929eda7549a3263ca3.16": {
+        "codename": "H18",
+        "cluster": "H",
+        "lat": 56.955089,
+        "lng": 24.123956,
+        "image": "http://lh5.ggpht.com/hzgFbg-2avF_3IwoVXOMBxy6rOTnl-Ic2BpEUkg1mKLDZZAizQl1-kdRfMoURS244FZj2CfwG3Tie7LH9YiP",
+        "name": "Art Nouveau Terbatas"
+    },
+    "e7654b1e7b6645be9a2a3cc5acc44c9a.16": {
+        "codename": "H19",
+        "cluster": "H",
+        "lat": 56.955239,
+        "lng": 24.123617,
+        "image": "http://lh4.ggpht.com/lxmMnC1SR0608kfJyzYtzO5DCcyxQxN82KsGgsaxvt8C83Au057MwUJU38dZ4HfT67VGeBWod5r2GjsOPoA",
+        "name": "Lāčplēša dragon"
+    },
+    "295d3ba2bfc149818693ac92f4e3e7ef.16": {
+        "codename": "H20",
+        "cluster": "H",
+        "lat": 56.954609,
+        "lng": 24.124881,
+        "image": "http://lh4.ggpht.com/SSfGHi2QTz3gZueURjnvrt9zr3-K3_MAh3q7njLakXCxLN74AcxxgESzrWesA1I_1sij2d6PM-IH9kcPbU9YHA",
+        "name": "Jaunais Rīgas Teātris"
+    },
+    "0586bfccb74d46dfb6f0ea9a8ea7cc20.16": {
+        "codename": "H21",
+        "cluster": "H",
+        "lat": 56.955437,
+        "lng": 24.122843,
+        "image": "http://lh5.ggpht.com/X3adlKK1WVgSrUcOe0owtM5O2pPdKsajfSPORBGCsd4KhRRjVSr2u5FID24LmcqxHG8TjUcLTuKKU9VCm5FT7g",
+        "name": "Glīts Balkons"
+    },
+    "94cb5bbb346b4e0eb7b5f7ec46f367f9.16": {
+        "codename": "H22",
+        "cluster": "H",
+        "lat": 56.954271,
+        "lng": 24.126483,
+        "image": "http://lh6.ggpht.com/qll4iEtMGx7SSn0AU3VGDTlRuSbfhAPFT_1g3ln5oP6QpVpOZuj5_7Xd4I6hZd72cvJCZhOllrIOsDhN-s2adA",
+        "name": "Jānis Laukroze"
+    },
+    "ec872b6e0dbb42f5bd3dd46d85db45c8.16": {
+        "codename": "H23",
+        "cluster": "H",
+        "lat": 56.955708,
+        "lng": 24.122406,
+        "image": "http://lh4.ggpht.com/Z1p3kJWy4FCbJo3jYN_B8gDdR3y6xeesvJsBJeqQkpqDbtD3Kap8SDfQAx7KQEFZMFL-UJIwPdgfR4aaSr9U",
+        "name": "Lauva"
+    },
+    "80701d822f16488287cd800ec40bbb59.16": {
+        "codename": "I1",
+        "cluster": "I",
+        "lat": 56.953695,
+        "lng": 24.119676,
+        "image": "http://lh5.ggpht.com/oalPojozwHPV6FmoNw9WlE2003L-vzjNfhCOrIDf1hFCOakzAAnyypdaFRmHY3Uolm3ZylCqYeIJ6j6WELyV",
+        "name": "Splendid Palace"
+    },
+    "e6531da0517c4c689b684ecb9b30ab9c.16": {
+        "codename": "I2",
+        "cluster": "I",
+        "lat": 56.953758,
+        "lng": 24.118853,
+        "image": "http://lh3.ggpht.com/jBOb2O0rlLIpysKfuGFnd7_kIwzsimmYpLsx0Z5b_87fr7b3w4p-szq2RBiQtkEAvAtWMwBKVSU7-xmITZARdg",
+        "name": "Institut Francais"
+    },
+    "993254bbd9294ad6962b579e9b30a64b.16": {
+        "codename": "I3",
+        "cluster": "I",
+        "lat": 56.953134,
+        "lng": 24.119525,
+        "image": "http://lh5.ggpht.com/CDXqHXR9iP80b4JiwGkwHFANaamgSJDNoYpYhaIz0nhhhU7ZSfcAdq_n7_r7BHLRD64i5c1_9MjTnYcbunU",
+        "name": "Mārtiņš Zīle"
+    },
+    "4fe976dc1e3a4f77ae9e4db8ae542835.12": {
+        "codename": "I4",
+        "cluster": "I",
+        "lat": 56.953491,
+        "lng": 24.119366,
+        "image": "http://lh6.ggpht.com/BYwSLutlUZFfJt34__hJiexCtM4IpYyHNW0kIuRFKVSZJNGd28ktIbEI-1MWPFZDNZ4drzpGpcDA_c9QCmwb",
+        "name": "Hidden Entrance on Elizabetes "
+    },
+    "8a7f2222f2fd4a88989868dd59cbe108.16": {
+        "codename": "I5",
+        "cluster": "I",
+        "lat": 56.954018,
+        "lng": 24.11861,
+        "image": "http://lh6.ggpht.com/OLK4C3__KMgkS7HTgrn5c6x-Tsusveal0WlEUntyRjEKeNGFQO1Shz6xD3Ay0BSJ7O0J_UG3kGdIci1YF7g3iw",
+        "name": "Muzejs"
+    },
+    "e9f3408cb97a4307aab0cb559401b08c.16": {
+        "codename": "I6",
+        "cluster": "I",
+        "lat": 56.953838,
+        "lng": 24.121763,
+        "image": "http://lh6.ggpht.com/2MJe1sm2OfkIjwOtU3z118CqsY6LT9uzNWKHNqnFHH0ZNMiLJbpSQtx6rs5VdqEcqDs6Ci6zrOFYS_Pt-Ws",
+        "name": "Audumi "
+    },
+    "39bb8357f7004bc0ab53670fdf8643a9.16": {
+        "codename": "I7",
+        "cluster": "I",
+        "lat": 56.953301,
+        "lng": 24.120006,
+        "image": "http://lh3.googleusercontent.com/Uji6mCLlM5sLmqe8XRbKLji6_Zbrj8RPqgZYRT1gaDYxCgbVv2GuGC4mIB4cKldcNHFvxj60x5a4N1NW9NU",
+        "name": "Angels On The Wall"
+    },
+    "74c6bcc53412406d9eebeaf7ac752424.16": {
+        "codename": "I8",
+        "cluster": "I",
+        "lat": 56.953744,
+        "lng": 24.120843,
+        "image": "http://lh3.ggpht.com/H_EYZ09vd4pHKEAi45v-JCEiJeXpKqrXv2ciRyRM-IJtCHa6_NnpJZb6JdzLQ2FoErJ2PaVRvp3D3PTbTcNr",
+        "name": "P 1900"
+    },
+    "33efe69b163d4e8f8b165d45695ad661.16": {
+        "codename": "I9",
+        "cluster": "I",
+        "lat": 56.953619,
+        "lng": 24.12129,
+        "image": "http://lh6.ggpht.com/WyvS32pf1OQZMUdvolfJGb2Eh_dV1XYDaYaY8Z4NAuwlwsry3t_FTZHWKu-TqRNuQuqiQRMPw1P9ZrRq93GDjvzAH7B8TzZ5ygNebpRRH-c4O9M",
+        "name": "Regus Business Center Riga - Clock"
+    },
+    "55e2bd693c8b4b96be27cf939f1394d8.16": {
+        "codename": "I10",
+        "cluster": "I",
+        "lat": 56.954094,
+        "lng": 24.120682,
+        "image": "http://lh4.ggpht.com/D4VlR9t-M6z7PR8oEydoIUFPbeWx-hJBGLDShKznJdH1blWh4WIC9oDxVrKpzzhExl5Ome7G-o2X9v3EKyo",
+        "name": "Sculpture of a Man"
+    },
+    "accc5c8bb78d4b75a55a6eca92726d43.16": {
+        "codename": "I11",
+        "cluster": "I",
+        "lat": 56.955215,
+        "lng": 24.119679,
+        "image": "http://lh3.ggpht.com/IFG6hDSyboXigFAdnrwz6XrmMp5GVdKmqnEazAB6u-Z4021eowBeMurxRjKScwav3AfrQWSJ2EFjr5FF3ESaXw",
+        "name": "Lion on a Wall"
+    },
+    "5511fed6424f49768afdc3344a837883.16": {
+        "codename": "I12",
+        "cluster": "I",
+        "lat": 56.954302,
+        "lng": 24.118312,
+        "image": "http://lh3.ggpht.com/eOC3IhULL9NMbgvbYGKoZJm6mJTFRYu2xvNbbtyZY2sI3GVmRRNiFY88fAnHpIvv8iMacuDtgJknDjMgpPIi",
+        "name": "Brīvības 38"
+    },
+    "aff34628e0e641918124fb1a2ca0010e.16": {
+        "codename": "I13",
+        "cluster": "I",
+        "lat": 56.954199,
+        "lng": 24.122105,
+        "image": "http://lh5.ggpht.com/Fm3WJpHwsqB37ocro_XU2FvtGcHoGPWzpKU6SK7gpEew3Cpg7s7pmoFSnhmSjMX4kRmhfe4CBPyamqira-I",
+        "name": "Rīgas 40. vidusskola"
+    },
+    "0f6a9809eb134faa8d56fee6454aac1c.16": {
+        "codename": "I14",
+        "cluster": "I",
+        "lat": 56.955792,
+        "lng": 24.12025,
+        "image": "http://lh6.ggpht.com/0V3q1MeCFGurBRIoNkmZnaV1cAciijb8zvueLimcA7lf_gzRkCy8DtD6i0NMPTiKb3xdGRhyfKm9nnmxcZ-z",
+        "name": "Plaque for Peteris Snikeris"
+    },
+    "69589af0a67b4251b848c7e175d989e2.16": {
+        "codename": "I15",
+        "cluster": "I",
+        "lat": 56.955314,
+        "lng": 24.121995,
+        "image": "http://lh4.ggpht.com/dPVpuG58jKYrM6OA8cz8obM823QLICqWc7wROn8sewiiuBXSe5417kqwTXFzIMC7II3arwsQlfyb9zr2hexi6Q",
+        "name": "Empty Crest"
+    },
+    "38a66a726e504ec0ad91c4e1facfb6b2.16": {
+        "codename": "I16",
+        "cluster": "I",
+        "lat": 56.955479,
+        "lng": 24.120152,
+        "image": "http://lh5.ggpht.com/Dek5qfU5Kf5-ndR2lvz9NhKJtqINVo3hF1ZYQsNBh0p5knSvTYb8-7ALYur5Q-3kSDVbrz7UGIeanpUp1PEi",
+        "name": "Honor Plaque"
+    },
+    "23ad068b7a954872a145ec76a5b48c10.16": {
+        "codename": "I17",
+        "cluster": "I",
+        "lat": 56.955109,
+        "lng": 24.12226,
+        "image": "http://lh4.ggpht.com/LaRMDj51kUXUqtFuXzov33af3lSMXiFe_kvX14LMq1DbX0othLDWOyoEFhUce71SmW5dRHzukegkvCrIz09l",
+        "name": "Decors on wall"
+    },
+    "7831914fb9e34b42a073ec4e35f3bde7.16": {
+        "codename": "I18",
+        "cluster": "I",
+        "lat": 56.954722,
+        "lng": 24.122426,
+        "image": "http://lh5.ggpht.com/kzd0FZv7fa5gaf2Np9yYKgfH52ol8kbCeTTVuzsZGfoBnGboyEgV4zNPcKKHHYzogvaFJpm2M144erfV0WfK",
+        "name": "Hermanis Buduls"
+    },
+    "0f12c06788f743ffbc3b1bd76b1c6d8a.16": {
+        "codename": "I19",
+        "cluster": "I",
+        "lat": 56.954578,
+        "lng": 24.121385,
+        "image": "http://lh4.ggpht.com/Fvy2VmyoyNh4xTlTNs0uGhjGs-c-vJ8mINenzyRqCi55Z70A3FQ5tOjr0SB4HHqExdm7MWlfV9iVlGlStHGu",
+        "name": "Old Ship "
+    },
+    "b708163d1dff438c8184aaf9ba3c307e.16": {
+        "codename": "I20",
+        "cluster": "I",
+        "lat": 56.954662,
+        "lng": 24.123153,
+        "image": "http://lh6.ggpht.com/WjYh_cKkAmmboZpPgZu-mMGTXhrze3iD1CYm-51WledroHjzaXA8hdDS8XtcMtJGdy86fiRNTIAkEnqo-GI",
+        "name": "Tērbatas 5a Roof Decor "
+    },
+    "7bfd48884ae640159a585e1f38783750.16": {
+        "codename": "I21",
+        "cluster": "I",
+        "lat": 56.954488,
+        "lng": 24.120148,
+        "image": "http://lh4.ggpht.com/sfErcny_DhCUlXgfnclCS53Um-nD34LJUll_KX8-CXR5ooQELEbQ5CFPiNbA0lSvILsMFLuEte2bTHzHO1Cjqw",
+        "name": "Two Heads on a Wall"
+    },
+    "7e0d6f68de6048d182324f1a12d03177.16": {
+        "codename": "I22",
+        "cluster": "I",
+        "lat": 56.95542,
+        "lng": 24.121561,
+        "image": "http://lh6.ggpht.com/NJQ9xBLPgMYKzwRDFf8MsnbWJB7GF-7PiS4Fu36gIIugGssptrtQGGz7HffMZX59H29Ep8A0KPpc_2JT4zfxGA",
+        "name": "Mark Razumnij"
+    },
+    "1c433c1d74b74d99adef3979109e578d.16": {
+        "codename": "I23",
+        "cluster": "I",
+        "lat": 56.95455,
+        "lng": 24.122835,
+        "image": "http://lh4.ggpht.com/-n9PButS-n8rggY96jFnxb6YZ8dfXcAkPvnd9BlbEFmBSxtVWMUEa8pPQx3GIMvplGTFib7uSWy9cCyBHIw",
+        "name": "Tornis Ar Karogu"
+    },
+    "6729a9dc6ac94c0380ddedc0ef7662d0.16": {
+        "codename": "J1",
+        "cluster": "J",
+        "lat": 56.950759,
+        "lng": 24.118855,
+        "image": "http://lh3.googleusercontent.com/Mg0p26sxtfhIq8rvivy9EnxsYcZwzmCD6y_UoR4W53sDpxH5Fl5QjLAjK5qf7R99kRXf6ffUCK1pSJPO0EU",
+        "name": "Krišjānis Barons"
+    },
+    "69eb5c964d724262a7a02d752afc4a6d.16": {
+        "codename": "J2",
+        "cluster": "J",
+        "lat": 56.952554,
+        "lng": 24.119985,
+        "image": "http://lh6.ggpht.com/JFqaSDJzEZwKRGx_7aUd1BZNUArvoNae9RxhN8Xiv-uSbKdLOZwmnFn-YmdMWrsMiu0nLg0V0EURRXZMfW2Y",
+        "name": "Three Sculptures"
+    },
+    "d79a725e67ed413faadfe9a30ef85346.16": {
+        "codename": "J3",
+        "cluster": "J",
+        "lat": 56.952028,
+        "lng": 24.119604,
+        "image": "http://lh3.googleusercontent.com/p4x4qWPoWhkpElEta7HDWOr2OV524HrEhoCFZRQ0cpu0z8Ad1agXCcYQZoAyfde1wlfbmB2Pj4_nWbLGFdU",
+        "name": "Trīs Joka Laivas"
+    },
+    "6c643fcdc9a447f891eef24cd74b030d.16": {
+        "codename": "J4",
+        "cluster": "J",
+        "lat": 56.952622,
+        "lng": 24.119421,
+        "image": "http://lh5.ggpht.com/6KKG4-xaXuhl-PYhGBH6ReSfHnt59mC_2meWaC-AOMqPDSbsG-tzoJ8wvMUS7aAEV3ZoJ2_ZFsMyDQ0w3cE",
+        "name": "sarkans"
+    },
+    "377ae2567c9e4621afde0157528057d5.16": {
+        "codename": "J5",
+        "cluster": "J",
+        "lat": 56.952162,
+        "lng": 24.119303,
+        "image": "http://lh3.googleusercontent.com/X5Jn2F8tAY7VSGsbnL9Km7ytTZkZkJYaOFlipzhXgYbUg10Tw3194Eb9P7lh5Foxkj7nOFfXCOtcaJkHlZ1bkg",
+        "name": "Open-air stage."
+    },
+    "74aae093028f4996a375747b80e624a5.12": {
+        "codename": "J6",
+        "cluster": "J",
+        "lat": 56.95146,
+        "lng": 24.119329,
+        "image": "http://lh3.googleusercontent.com/J8NoXqIX1Iv7pc-alnLFJ5x5de4vxyKRU86ZUjlMsSXoAU1HPZrlhesR3n8wcVYOd_rbjCYlw7ivd3ouU1U",
+        "name": "Memorial to  Marquis de Filipo"
+    },
+    "45a5036a7c72459bb65baf12cb9107ad.12": {
+        "codename": "J7",
+        "cluster": "J",
+        "lat": 56.951797,
+        "lng": 24.11881,
+        "image": "http://lh3.googleusercontent.com/vKJnUDaM_fwSV_i2K0FwAl_yaVAAMy-bZ0HuGbmMChf58BwPMVu71oSs4DXMVzxwjePzD1KClILPKBtYxSjs",
+        "name": "Vērmanes Dārza Strūklaka"
+    },
+    "49aa4d2c0924475c8082186766730bcb.16": {
+        "codename": "J8",
+        "cluster": "J",
+        "lat": 56.952777,
+        "lng": 24.118934,
+        "image": "http://lh6.ggpht.com/ciqdNwnzj-tA8Q1PEosh5_7y2ad4Tdd6w_DQkzB5Fva_pdJ2zYuSlyzWJRqj_dQpxHLuj4sWvr4YUvzW254",
+        "name": "Coffee Tower"
+    },
+    "1970914c12154d2a9383fac412a401fd.16": {
+        "codename": "J9",
+        "cluster": "J",
+        "lat": 56.951533,
+        "lng": 24.120878,
+        "image": "http://lh3.ggpht.com/x8o9Z6IIaagOnbZlD0ZaS7LATyGTswFtOdxho8SqSkd9Tm4DsyNwKBUsGsAQGhL-I0tgeIIj-BvoulEXL_xhfA",
+        "name": "Art Nouveau Riga"
+    },
+    "4aea780be6514c089e636253a3077e27.16": {
+        "codename": "J10",
+        "cluster": "J",
+        "lat": 56.95131,
+        "lng": 24.120947,
+        "image": "http://lh6.ggpht.com/3t8S3pTU54ytNpBzpYd2Kc_e74zJVns4NZvI3n3KmieuOX1lwwJoYw7M3jQ-P2qx56iLpmrBMpdR3B8PA8wJ5A",
+        "name": "Sculptures on Roof"
+    },
+    "9e517a0103c24f31b3a08093c1298770.16": {
+        "codename": "J11",
+        "cluster": "J",
+        "lat": 56.952244,
+        "lng": 24.122587,
+        "image": "http://lh3.ggpht.com/ZpDHJlCDAqs8P3J3tCNasCojstUJRN7TMDJClm2dkeLm74YcanaPSBm8V69j4qmm6bTUpnhdD266-C6KbWrIrQ",
+        "name": "Balodīši"
+    },
+    "b90f1cb955734bd6aaf4854ee493b2dc.16": {
+        "codename": "J12",
+        "cluster": "J",
+        "lat": 56.95241,
+        "lng": 24.122445,
+        "image": "http://lh6.ggpht.com/RoGPZM4-yOtvOJSam9RmXER3MshoIIv4YLYvm2J_XN5htcSbgQXExo6u693Qu7xz0T7YHPzinquG4Itm2d3h",
+        "name": "A Face Only a Mother Could Love"
+    },
+    "2d40ccafd8b84fd3b056419935f813d5.16": {
+        "codename": "J13",
+        "cluster": "J",
+        "lat": 56.951691,
+        "lng": 24.121976,
+        "image": "http://lh3.ggpht.com/QT2HMYlWIjyY3aECUNBNPHG7rUA3UEJiRjys8sq7KbwSjeKQfywh9oqXgJeRIQrHjadzXiWt6_kw-HbonN5N6Q",
+        "name": "Dzelzs Puķe"
+    },
+    "a5bc205e41b4498698e33dfa9aa52c2c.16": {
+        "codename": "J14",
+        "cluster": "J",
+        "lat": 56.951815,
+        "lng": 24.120586,
+        "image": "http://lh5.ggpht.com/3l7zoDqepLdR2uc2Vit-o9s-EiS0mOPs_EuTG81C_7a6mM35DnyHKYk7rnRb0rC7YTSp0EY5o3hnssOHJWs",
+        "name": "Family Portrait "
+    },
+    "f12046d56cd34450ab4df3a33460b2c7.16": {
+        "codename": "J15",
+        "cluster": "J",
+        "lat": 56.952047,
+        "lng": 24.120479,
+        "image": "http://lh4.ggpht.com/9moDNuh5otnEFBtSq0OilDyQamYEQRtaq8wZFnoUMkFndppss-9Npy7V6CYskqpkB_P69LqKDxZ3XMlrRJm5",
+        "name": "Writings on the Wall"
+    },
+    "6bc1dbef983c4d4fa44b555e8bacfe7c.16": {
+        "codename": "J16",
+        "cluster": "J",
+        "lat": 56.951281,
+        "lng": 24.121563,
+        "image": "http://lh3.ggpht.com/RzJ95zuFfo5T-jvAJzUkhoi4zO676L2zeM5nIfPZiv47iqeVqxcUpDK8eOO9jFlhvLWxsZzaC0wNIry57fVd",
+        "name": "Latvijas Leļļu Teātris"
+    },
+    "6340b2f474934992b4b39216518d3d96.16": {
+        "codename": "J17",
+        "cluster": "J",
+        "lat": 56.952637,
+        "lng": 24.124641,
+        "image": "http://lh3.ggpht.com/riJvE_LTI0FoPsv1viuFPN4mGD5HdhbCrbWdtaUY-afdIIEDHQvZKqgFkUTiO1mOr2Q8VdFbX6Lx4H5113w1",
+        "name": "Historic Building"
+    },
+    "9b8497d27f08444eacbbbc5403df1827.16": {
+        "codename": "J18",
+        "cluster": "J",
+        "lat": 56.9515,
+        "lng": 24.12165,
+        "image": "http://lh6.ggpht.com/C17F8YEb-RAcAJEP_6hM_g_Z5_NJA3ExZPmzFKdTNpQbExXTWzEnQOo_Uajr1tX3EaHDqgQPszvotCEgK3PrsA",
+        "name": "Grāmatnieks Jānis Roze"
+    },
+    "9324f428f3cd46b9a53bfc94db1befc2.16": {
+        "codename": "J19",
+        "cluster": "J",
+        "lat": 56.950931,
+        "lng": 24.121041,
+        "image": "http://lh3.googleusercontent.com/TFhhTQ9oClM6Ydb9yzpcppxblyLa7MJiCSN4c4bcc5NBEN7eoa1yVwNKmiLHk6p9qcbl97rJVVKOm8vKXZuR",
+        "name": "LNB vecā ēka"
+    },
+    "14ee351e387943a790bc1f8245d854c1.16": {
+        "codename": "J20",
+        "cluster": "J",
+        "lat": 56.952387,
+        "lng": 24.123468,
+        "image": "http://lh6.ggpht.com/dyks140nv2GKMGaTWFDJkllh3Yo51LYD8UKkw1Vj08zRnEBd7WBmgZjpqqSYKEmapG97JVsVWu7cifgayPQ",
+        "name": "Little Chair on a House Wall"
+    },
+    "79b92c820a334e3ebc3a83832ffbfb38.16": {
+        "codename": "J21",
+        "cluster": "J",
+        "lat": 56.95199,
+        "lng": 24.1231,
+        "image": "http://lh5.ggpht.com/NEB6bv_5h4tdb77n--CjFd4eHJnvUkgCS_UPme19uwEY7P-ZtYaJ0iXkKyUxvtQgH3V6-VgmcMwHim-wCTBLaA",
+        "name": "Minna Matilde Vilhelmine Patkevica Plaque"
+    },
+    "3e739da5fdf24698b2d95f2a527af92a.16": {
+        "codename": "J22",
+        "cluster": "J",
+        "lat": 56.952031,
+        "lng": 24.122631,
+        "image": "http://lh3.ggpht.com/K6npoTtFSCsZN7mpp-EFZzziB56_hMS_jYkSZLzQxupXK0fiSXLIqp8C5iiLV_YWSDfjmx7db4RoyhTT40eCig",
+        "name": "Angel on Building"
+    },
+    "98e9c3457fda4dd09aacd9b64d9a23b4.12": {
+        "codename": "J23",
+        "cluster": "J",
+        "lat": 56.950842,
+        "lng": 24.12023,
+        "image": "http://lh3.googleusercontent.com/G2PJQgLjhgsOxPQAkLKoKhFW_sT7Dl4RA7a7Tc0gx5GixdoHpJc63_S8oMukRmvOAvovlCa3LizmS1lwGoQ",
+        "name": "Monument to Chemist Wilhelm Ostvalds"
+    },
+    "a0da84cd9fb0464a8e14de5b498dd7ab.16": {
+        "codename": "K1",
+        "cluster": "K",
+        "lat": 56.951564,
+        "lng": 24.118218,
+        "image": "http://lh6.ggpht.com/h3TlepP88jDPFjLfFgz01A33U0weOXPeVvr9AwydNN8CcuLWz3kXBcWPSAFon4gRzgccIydZScsVyGRQB-J4",
+        "name": "Modern Art"
+    },
+    "c6b7749c627140f5aa296147c25bace5.16": {
+        "codename": "K2",
+        "cluster": "K",
+        "lat": 56.952811,
+        "lng": 24.116142,
+        "image": "http://lh6.ggpht.com/rKVEsfW7-zjWt4s0y1W7Q8Pui112lbpbQY78K5vOs7O4-_M-WXtacWmGn_vFXywjOCBVLuD0beMVH9xL749-ww",
+        "name": "Wi-Fi Statue"
+    },
+    "0eeba124d4fe43d98e81524e6ac6f482.12": {
+        "codename": "K3",
+        "cluster": "K",
+        "lat": 56.952341,
+        "lng": 24.118198,
+        "image": "http://lh6.ggpht.com/ftivS4j5PrtJGjpvbAo_bA3YR4LpWuwcSJkwbRpag3-SkTw6McKohlQ81bNwQ1cmZJg8d0KDGVcHFbx9hY88uw",
+        "name": "Mihails Tāls"
+    },
+    "2fdb524bdcdb46988967a80e3962bb52.16": {
+        "codename": "K4",
+        "cluster": "K",
+        "lat": 56.952801,
+        "lng": 24.117072,
+        "image": "http://lh4.ggpht.com/i9dgUbPd3BK1zuzxFStxmiHe0hI5B7wILdn0nqibVCSNlPjdC1wp6yFG-3rR-XZ1_fgvtyOMpJZ1JLNLkmJw",
+        "name": "Plaque For Arhitect Janis Fridrihs Baumanis"
+    },
+    "c4a0a2b8dff94831805b1cf5e10246bf.16": {
+        "codename": "K5",
+        "cluster": "K",
+        "lat": 56.952115,
+        "lng": 24.116193,
+        "image": "http://lh3.ggpht.com/HfFucw0XLY_LlyBua1Bz2yoFolHmHRipSivUkAWFQmVuANUmiyyQfSXMoSya9_ESVyRUm3jaQ1N9ClgD4G4T",
+        "name": "Vernisāža"
+    },
+    "f92a6d9e66d840699ea3187b1e09a266.16": {
+        "codename": "K6",
+        "cluster": "K",
+        "lat": 56.950984,
+        "lng": 24.116736,
+        "image": "http://lh5.ggpht.com/DwZkdWKOJX8OjlNU9oUx1M8Z4NaTxkVK4RHf0J9GA9tVHNXo2PCJD9GV2uDV59qyQEv1oQo6fSiOWMYUsY0",
+        "name": "Stoned Ornaments"
+    },
+    "531d7e5a887447928e8ded13f06ebf72.16": {
+        "codename": "K7",
+        "cluster": "K",
+        "lat": 56.951827,
+        "lng": 24.117666,
+        "image": "http://lh5.ggpht.com/cxUgefNJ2IxELI22OlOJYO22NEenWavsAcwgB2oYvvL_kMPhUkK1ZCA68L3nIrV7vEb-KO-MbocWYXIzDJ5O",
+        "name": "Dusmīgā Lauva"
+    },
+    "a5192938ed3c4b0faf1801ce1fe43a59.16": {
+        "codename": "K8",
+        "cluster": "K",
+        "lat": 56.952088,
+        "lng": 24.115398,
+        "image": "http://lh5.ggpht.com/IdOEsk6_GwbdxgiI93T1AaGXIyzK9V_Iw_6dwMm7BGyqCGRBGRWfutvU1YSWzayfgqvfLMFM-0Io-Mhs9PI",
+        "name": "Pasts Sakta"
+    },
+    "511733d7c21a4a4d9a57c71d59fc0386.16": {
+        "codename": "K9",
+        "cluster": "K",
+        "lat": 56.952863,
+        "lng": 24.116714,
+        "image": "http://lh4.ggpht.com/meC5h_yu4qYUY_pwrrUTcYwhebBZ0DzwE8_1DZny2nh_AQfwlJ14GDGDEdqdGe8ySSKWdlO_Izf-sPKMWbT0",
+        "name": "Law Courts"
+    },
+    "c0cdd17033f149778a6bd9f79291037c.16": {
+        "codename": "K10",
+        "cluster": "K",
+        "lat": 56.950818,
+        "lng": 24.116517,
+        "image": "http://lh6.ggpht.com/AauhhQ7BNXgXt91UJoH0j7sXtrw-MipMs8y-2BLjcgyKf0_QJCHQIyq-B8I7P3MpxxlryyQVee6jinwYgOCRcg",
+        "name": "Temīdas skulptūra"
+    },
+    "685041ef38824eba8605f177c1a18c20.12": {
+        "codename": "K11",
+        "cluster": "K",
+        "lat": 56.950855,
+        "lng": 24.117788,
+        "image": "http://lh3.googleusercontent.com/4JCoJCYykEHYNzKBn6nfYJ68VKaF9MZkfvKubi5-MK474FOWVUoIy5SRFbtLyjqeOhkQDDoZgIRsk70ieVH9",
+        "name": "Monument to Garlīb Merķelis 17"
+    },
+    "a89bf14ad6a74607ae67a58e6483f342.16": {
+        "codename": "K12",
+        "cluster": "K",
+        "lat": 56.951657,
+        "lng": 24.117259,
+        "image": "http://lh4.ggpht.com/davVy4-QnHjKdqe2to4LcyHLYKDMSkUd5IUbjIfcNMhmpK4O3NX2ITj0MKt6cykMXn_VV1lTTpcRXbtB0W613g",
+        "name": "Monument"
+    },
+    "cb61ced84b1f48c4880248f81923c37d.16": {
+        "codename": "K13",
+        "cluster": "K",
+        "lat": 56.951207,
+        "lng": 24.118606,
+        "image": "http://lh3.ggpht.com/SVeTZ7OiMPes0xcNBdY4nlTGuhubBbEBt6rxCiVTW9Q1zAJfhZdX5aKH_9rF55HZPSwtEARSsQsA__1-kAT63A",
+        "name": "Beaver Family"
+    },
+    "82b01c2c684b4e6dafe2de4d7cd74c71.16": {
+        "codename": "K14",
+        "cluster": "K",
+        "lat": 56.952094,
+        "lng": 24.114888,
+        "image": "http://lh6.ggpht.com/caNiFXJT4hjKnYedUE_F35zCVXoGO5vUoIu3OlWX4TOX0X8Am_gelMjNuQaLW8-1ndEkTY5IcWFIseUR166V",
+        "name": "Studentu Rota"
+    },
+    "e03de4b23e8f4eb291168d561c95ee61.16": {
+        "codename": "K15",
+        "cluster": "K",
+        "lat": 56.950312,
+        "lng": 24.118205,
+        "image": "http://lh3.ggpht.com/5hLRkflkNBS188bgwnsQe0zcu6CSwnZCPq1F6ijh0lh4P8GJe9J5EXPYXcYKm3hVRxokP0EllvaACvU9dPhj",
+        "name": "V.Kuze"
+    },
+    "716bfb720e2a46d7960f75dfeef3e8e2.16": {
+        "codename": "K16",
+        "cluster": "K",
+        "lat": 56.951966,
+        "lng": 24.118285,
+        "image": "http://lh6.ggpht.com/eu7Yv4_Cr279iosRYoXHC4jKrgfWJzHsZD52BM9C5rPo4UJ1pX8DqOY0pfeTjDsQ_YQhi9b4CVzZgEGqYFh9",
+        "name": "Zīme Uz Griestiem"
+    },
+    "20592fe42bfb4b7faa98ef62655a8bfd.16": {
+        "codename": "K17",
+        "cluster": "K",
+        "lat": 56.949969,
+        "lng": 24.118372,
+        "image": "http://lh5.ggpht.com/8XIq8esx1y9YZeWDfoT7zKAwz1R8uD-hH-D4RpT7vtFBK97em8dT-q8VFkFtHhfF6ypnyc5sOBBugzEe1G5g_g",
+        "name": "Afišas Kolonna"
+    },
+    "639c6b5b60b04f4b8177989120a715ab.16": {
+        "codename": "K18",
+        "cluster": "K",
+        "lat": 56.951629,
+        "lng": 24.116092,
+        "image": "http://lh3.ggpht.com/WfneTsGD8F-4XcYmS9pum0JddsFsJhKCpFXTBxCBrSSAVexH-d5di-2j0IQEkC08a1gQqXjOzCaEid43sJczMw",
+        "name": "Unique Architecture"
+    },
+    "d7d77478d23b484685982c9b2a0b9a45.16": {
+        "codename": "K19",
+        "cluster": "K",
+        "lat": 56.953725,
+        "lng": 24.117508,
+        "image": "http://lh3.ggpht.com/acJpEiP9_-NpeAwwnCKjHhDF7Ph3AWTm6YyPDvNdc4mZgnxBrX3bxEjWQ8tHwQbJerVjvNw_xqEHmUyU48yGcA",
+        "name": "Latvijas Republikas Ministru kabinets"
+    },
+    "46ebb228cc0247cdb6823a7af8ace613.12": {
+        "codename": "K20",
+        "cluster": "K",
+        "lat": 56.950686,
+        "lng": 24.117585,
+        "image": "http://lh3.googleusercontent.com/F21ZOPrX4-ZpiWE_CgKQ7vLH_zPebL0deL1HdFrix1oPo32g8sX5xE10PXd8aHWuUZGHj-8M6rpH1aiLmuY2",
+        "name": "Monument of the painter Karlis"
+    },
+    "5c7d2a66f4654cf580b35f6a8145abcd.16": {
+        "codename": "K21",
+        "cluster": "K",
+        "lat": 56.953222,
+        "lng": 24.116892,
+        "image": "http://lh4.ggpht.com/3voruzZcQnRJQktq3p10g9uzrlzTZKb_5jjynoVfeMPNAsnx5MV0zIF3e03PNv6ksu3rJXHq_nLNrUkUhXAF",
+        "name": "Gunārs Astra Memorial Plaque"
+    },
+    "5102f7dbfcca4e92a5f88d0a8fde9863.16": {
+        "codename": "K22",
+        "cluster": "K",
+        "lat": 56.950204,
+        "lng": 24.117691,
+        "image": "http://lh4.ggpht.com/bWlS14y7Jp62vH-RRzDFMrxAU6CGISnQ9P49Q-5e_KEntxUMbBV3QadhYB_84Bd3U-2aV7OWZzxvK_zsx50w",
+        "name": "Nacionala Armija"
+    },
+    "ad83a7eae5164cacaa8fabd61a90ffbc.16": {
+        "codename": "K23",
+        "cluster": "K",
+        "lat": 56.954221,
+        "lng": 24.1177,
+        "image": "http://lh5.ggpht.com/R2xFhskvhVmUwfGNKGjvXc2HGN-mwydy5_2QNBzeKoAbRhpddu88pru7TQie-0I9okkAbcMHJdjAQ3aG-YZi",
+        "name": "Piemineklu Kari"
+    },
+    "fd1f2f6fd44d4210ae534dd251222d2a.16": {
+        "codename": "L1",
+        "cluster": "L",
+        "lat": 56.958308,
+        "lng": 24.106737,
+        "image": "http://lh5.ggpht.com/2O9kWEZfJhuLCTpskN4KOMeS8ZoeC0XWptPv0omIC3UR5fbPT2QAKlOmrqUVMJ0voMtMSSDfLo3N4FEjE9F2",
+        "name": "Nikolaja Rēriha Gleznu Muzejs"
+    },
+    "f77a5af896c347d0851589763f45f1bc.16": {
+        "codename": "L2",
+        "cluster": "L",
+        "lat": 56.958157,
+        "lng": 24.106976,
+        "image": "http://lh3.ggpht.com/i8QIhvN_mJdWPkM2qkJ-RC1YNqXIte1ajsxj0xjp7iGkD7OEbrS5TxO4e9qCZYhMx8IQwNvYoPSfOdMJfyAi",
+        "name": "ABLV"
+    },
+    "abf97e511d9b48c6b57fc5b5d0cbdd4c.16": {
+        "codename": "L3",
+        "cluster": "L",
+        "lat": 56.959354,
+        "lng": 24.1083,
+        "image": "http://lh4.ggpht.com/3ZkclMMnhZ2Je6u25PwQPT9iDQQ-gAl1NBAZ0jtA4FnoZCaUw3ghhLgxXDHLp8v7CsgInxzjAKVpjsb9nrY9",
+        "name": "Art Deco Detail"
+    },
+    "599a5c0ef37941b6a6f6c9491a9e9518.12": {
+        "codename": "L4",
+        "cluster": "L",
+        "lat": 56.959291,
+        "lng": 24.107727,
+        "image": "http://lh3.ggpht.com/qtnxS8axYk7x07JYXobX3GAmpxgWlHjXRAh4jKRPTFPtIcEX1oklZ08fkzENlOAj1GGyTm2tNZFUau0bQck",
+        "name": "Riga_Art Nouveau"
+    },
+    "74a1c6f3a4bf472b84a924596bfa0e3c.16": {
+        "codename": "L5",
+        "cluster": "L",
+        "lat": 56.957985,
+        "lng": 24.106641,
+        "image": "http://lh4.ggpht.com/JomqYLcAnwze-rauEylWPHFQHuyE2q8qr1r-qaRYHFm5KXVbhmPzmtFBGB3mYAK9UYTLtng8octoQ8nqO2LA",
+        "name": "Embassy of Finland "
+    },
+    "74fc62155aec4917af14be64880136f9.12": {
+        "codename": "L6",
+        "cluster": "L",
+        "lat": 56.959039,
+        "lng": 24.107343,
+        "image": "http://lh3.ggpht.com/epJglDYXHLilTMTUnfXNl9nZleXsNjk_eVEAwjE8whEyRKhcXOYTeLIGI5LzFAzaT_LTuveUZ5eiA8XsaVU9FA",
+        "name": "Bust of George Armitstead"
+    },
+    "1a7c84df08904362b80f976ad02bf52a.16": {
+        "codename": "L7",
+        "cluster": "L",
+        "lat": 56.958485,
+        "lng": 24.106659,
+        "image": "http://lh3.ggpht.com/bBwlWuYZJ8hImrGf0qTdP7WdSQ80YU6Qv1n-0mDdBhuBTMnMeCVHQiM2s-3oGJSC1XPaFywxJvi55wuSd5fk4Q",
+        "name": "Mārtiņš Ņukša"
+    },
+    "1a689f5d6c7842fa99bed4d1848e5cde.12": {
+        "codename": "L8",
+        "cluster": "L",
+        "lat": 56.959531,
+        "lng": 24.107995,
+        "image": "http://lh6.ggpht.com/E4aZURJsEU4dyQ7biV3hdhHUVJLzwChTCUzVh1y1XWCf0JgSL_LAaDzU7hDohCxpSYyOLxIKu0DJAHZOuS1j",
+        "name": "Blaumaņa/Jūgendstila Muzejs"
+    },
+    "d72962f99c114ff4a3016f7ce1140817.16": {
+        "codename": "L9",
+        "cluster": "L",
+        "lat": 56.958748,
+        "lng": 24.106352,
+        "image": "http://lh5.ggpht.com/KrWdTYlYvzcQWArVMWIOPdBRTj2u_boLgYmJbDMMrE6wp0Uaszj6lyjcleVIYX6h2KvhIX9etxwcQKOlhrDK",
+        "name": "Sculptures on Strelnieku Street"
+    },
+    "08d277da32d64c14b93c6805a0b543d8.16": {
+        "codename": "L10",
+        "cluster": "L",
+        "lat": 56.958514,
+        "lng": 24.106287,
+        "image": "http://lh3.googleusercontent.com/KPH20qOcOY1ZXMRtINhHW0wNrq1_6DJdzCmvolzWqFbmNSd1CuYGSPn_ABCUXn_i9Y-OIlZF2Hc8HNW5Np0a",
+        "name": "Egyptian Farm"
+    },
+    "1d304b8637574123bc24266280f042d6.16": {
+        "codename": "L11",
+        "cluster": "L",
+        "lat": 56.961376,
+        "lng": 24.113407,
+        "image": "http://lh6.ggpht.com/tuPc_8U9FyLLHuxRcbeUeaz05rkzmcQiH8SkwQ3rP6liRAjGVrtKBQj73eQEfHMvveGzeX6Z5pyce7VOX12Z",
+        "name": "Graffiti On Wall "
+    },
+    "7686d3f9bb5e4e30afb587d59574ba18.16": {
+        "codename": "L12",
+        "cluster": "L",
+        "lat": 56.961437,
+        "lng": 24.112296,
+        "image": "http://lh5.ggpht.com/9IhmtIuwHMEmwi_JLQ6bivcwD2knCJZPpMSjhKjmAcnMPAxXv63vMPHDLCF2_iEXH-heBp2W8OAayGfbNNy_vA",
+        "name": "Screaming Men Heads"
+    },
+    "7ec090f2e1694523ae567e69dc6cb55d.16": {
+        "codename": "L13",
+        "cluster": "L",
+        "lat": 56.960781,
+        "lng": 24.110402,
+        "image": "http://lh6.ggpht.com/CN6Ehg1baQSyWJvcd1x_SeYI1CsHW3lAfoYgN1VJrs0lQYmrZbz1bFAgY2MqAtY6rUK9BG_xPOoLYa70ePQ",
+        "name": "Grifi Pie Durvim"
+    },
+    "31d8615127474b82b4ac5f6abd03c1d1.16": {
+        "codename": "L14",
+        "cluster": "L",
+        "lat": 56.961283,
+        "lng": 24.111972,
+        "image": "http://lh3.ggpht.com/eRPhSfUf_N7m7hMqJ6uNptWVSdQ_bLOr1Tj-njq2EldLEx11AH0S3CsiCi_dmwt0TeQHl86Pj6LGjIOEIAlENA",
+        "name": "Wall Decor Serpent "
+    },
+    "9ec01277d67c45d7a2b7ef9973192443.16": {
+        "codename": "L15",
+        "cluster": "L",
+        "lat": 56.958666,
+        "lng": 24.112215,
+        "image": "http://lh3.ggpht.com/A--bfeTkGPUPcgXK5GyXTH-SnP9g0xU_GRQmJ9BoyimvHWRhkwiDpVwTBUSm-OewsfKES4zCUvdCarIfJNY4",
+        "name": "Vitraza."
+    },
+    "9db7e46553f648b4979ff80d2f6463ba.16": {
+        "codename": "L16",
+        "cluster": "L",
+        "lat": 56.959781,
+        "lng": 24.108794,
+        "image": "http://lh4.ggpht.com/TQ0jyXvce7z0m6GczL-udVwhV3nzL-H3Jpkg7oPCOhcXZlBm0QYbH_GjoEH3EIyAl1ub_zpTRFKtGOrb__s",
+        "name": "Pāva Ornaments"
+    },
+    "3736f27ba3ce47439cdfe48d576d5979.12": {
+        "codename": "L17",
+        "cluster": "L",
+        "lat": 56.958677,
+        "lng": 24.111463,
+        "image": "http://lh6.ggpht.com/e4_QzwPz28zCNPmKTshRGRdhH_R1tYr1f_vFlZL8vY4jvAVeCxfwld5f-Hjja74syr3QbWdobh68_BJe6SPY",
+        "name": "Alberta iela, Sculpture on the"
+    },
+    "02ba9c8943e54c0c957acb4b6659ad6b.16": {
+        "codename": "L18",
+        "cluster": "L",
+        "lat": 56.958974,
+        "lng": 24.109883,
+        "image": "http://lh6.ggpht.com/Oz-MnaoMXguwLI_qwKtvtCC6H0EBRHPM7KbyulkqHsVUnTPw-VZ0_iCy9kECuvrOXdwUhopeeLU_2EFkR1g",
+        "name": "Screaming Men"
+    },
+    "e3b0b7379e5f47e480c0c050d2604312.16": {
+        "codename": "L19",
+        "cluster": "L",
+        "lat": 56.958949,
+        "lng": 24.112303,
+        "image": "http://lh5.ggpht.com/qUWSBR4Y4sxZyKa-LKjkLp5cFJ4_VUcKbuXFhxm8GEVVnWr_Q7XZI7i4ZnhV8QhW_3NSf6m_0HilN0yVj6UN",
+        "name": "Austrums"
+    },
+    "25f12a646a4a4f8b849d3421318c497c.12": {
+        "codename": "L20",
+        "cluster": "L",
+        "lat": 56.959157,
+        "lng": 24.10924,
+        "image": "http://lh4.ggpht.com/AdkHw3ovkegMEHbLMp-vSgcB9NWSynTDwM1Xsg2V9dTW_7-AGRiuWSM1kGYZTojDyHuelNQiT7C-9gWcevt4",
+        "name": "Riga_Art Nouveau"
+    },
+    "1c794507f5e3495cb5cfe5d83fb48e82.16": {
+        "codename": "L21",
+        "cluster": "L",
+        "lat": 56.95849,
+        "lng": 24.111979,
+        "image": "http://lh3.ggpht.com/Y8b9-e0WMyoh8lczVQWnVCUR3g_3AMYJalNTrsRFIjvyah_W-C7XKnItDXCL0VvV5Rg0UesCbIEFRZowR7Q5PA",
+        "name": "Traktir"
+    },
+    "5135c0d5289245608a3b68f117be6bb3.16": {
+        "codename": "L22",
+        "cluster": "L",
+        "lat": 56.959046,
+        "lng": 24.110222,
+        "image": "http://lh4.ggpht.com/dcHtQ33siErzcS_Jf4DjLajDGCfGjSHw8RZk0d3zvSPRmRdX6zqTAtKja6BTsRUJTFLJhwvqSxhS-X-bC9QWBw",
+        "name": "Mihails Eizenšteins"
+    },
+    "b649c1c8e8b64197b2670f54205451b5.16": {
+        "codename": "L23",
+        "cluster": "L",
+        "lat": 56.959226,
+        "lng": 24.108839,
+        "image": "http://lh4.ggpht.com/7_GxgjhXtNGgIehW4JT6kR7yRCTsGndCm6WUW-zlPNp8YnZWWwnzyGGGGEV8KiDzmkHcs7sGnO7UIRuKCYaI",
+        "name": "The Sun Guardian gate"
+    },
+    "3d5e9cafec594712962a7339c4823d32.12": {
+        "codename": "L24",
+        "cluster": "L",
+        "lat": 56.959152,
+        "lng": 24.10965,
+        "image": "http://lh3.ggpht.com/pfhhXoaDltpBukbw_wT26ptRMexcSXzwdLKVpAzMIZdmVSfey5BfBH6Faj5BfNGHlqnj6I-ahFqJg0P4FUVh",
+        "name": "Riga Art Nouveau"
+    },
+    "a7ce2718d12a4a8b820bf6e39a79c6ab.16": {
+        "codename": "L25",
+        "cluster": "L",
+        "lat": 56.958799,
+        "lng": 24.111039,
+        "image": "http://lh3.ggpht.com/MJ6OJ-TezexrKz4HZU4zqGu-6EB7DQxAHjBjtBeGIXAGrc8szo7dg9Zme62Wbc0IEQcdhMwDkvcnUGuSfs8",
+        "name": "Art Noveau - Sphinx Portal"
+    },
+    "026163e8048b4cad8bb7efd0faf85172.12": {
+        "codename": "L26",
+        "cluster": "L",
+        "lat": 56.958953,
+        "lng": 24.110539,
+        "image": "http://lh4.ggpht.com/hWumgx4e99wv5k8XBmM_gXu4fAYFodxeDI9ydMt9o9NsW-ocwkT0aXQIc8Qp73Hm7j0Jb1OUaPo6Glal0qMu",
+        "name": "Roaring Lion Sculpture"
+    },
+    "4624849b7fe34c09b869a878c623ec01.16": {
+        "codename": "M1",
+        "cluster": "M",
+        "lat": 56.95838,
+        "lng": 24.107732,
+        "image": "http://lh6.ggpht.com/1TfMhfm5XWprBwU1Crxf9sukoNDN9JaMkL16pmTiTg5CZ3lG7sAqBNmgvjN7o9S2hlaBw0qOhfHlb53LyRwxsQ",
+        "name": "Faces on Elizabetes Street"
+    },
+    "bbfb37272ffe479986384fc09e15cb84.16": {
+        "codename": "M2",
+        "cluster": "M",
+        "lat": 56.958336,
+        "lng": 24.108142,
+        "image": "http://lh6.ggpht.com/azsrURGiQsp9oI-rsI9fAvSKx7uWBRhu4zk6PAEvXJP0LjbkoR7vVk0H1Y-OHQ7XhKJDGvySNtUh1gnauv_G2g",
+        "name": "Flower Gallery Elizete"
+    },
+    "e2fbad7a1b344761987327ce22c215ef.12": {
+        "codename": "M3",
+        "cluster": "M",
+        "lat": 56.958339,
+        "lng": 24.107337,
+        "image": "http://lh3.googleusercontent.com/-kxQNUGHzUWlUdWIY4U43qtNGRafXwsCJodHN3K1grDdHGvsJn0fmN_Wk_M9CKdURAdCiHT60qkWKkS3j8rN",
+        "name": "Art Deco Detail, Riga"
+    },
+    "3fe1ebb0ff4047afac709bb42d8fa53f.12": {
+        "codename": "M4",
+        "cluster": "M",
+        "lat": 56.958196,
+        "lng": 24.108458,
+        "image": "http://lh3.ggpht.com/EVtwTQ9MEsiAI8Rzr2FVoIBGVf-gIb4fOcJWzrxIrAFQVvD0Q3Oj_LU6GZqCaX7qJ8TI_1AzaF1UScD-DtA",
+        "name": "Art Deco Detail, Riga"
+    },
+    "558841e870ee44a6a83da0d4807d0d15.16": {
+        "codename": "M5",
+        "cluster": "M",
+        "lat": 56.958079,
+        "lng": 24.110611,
+        "image": "http://lh5.ggpht.com/g9Por5ZmauPz7xsExNG5ktzFUyyQRiPePXDDo3R-jZiZ4-COOAijAVYxZOtCevrERqZgmm187iVGSXvhcxaI",
+        "name": "Lidojošā Varde"
+    },
+    "37d2d4363be944b78148d1dd4a9af9ba.16": {
+        "codename": "M6",
+        "cluster": "M",
+        "lat": 56.958134,
+        "lng": 24.1101,
+        "image": "http://lh6.ggpht.com/1VsAiJsUvECdeoFH8RVgpKCKgUtG4rr36cGqehM7fX5q-PIdedxHgVYqc3J8OcapZFQvom6rbx5fbu5IbZCA5Q",
+        "name": "Children Sculpture on Building"
+    },
+    "7f89f8c026b747a1907a2c1e584c89b9.16": {
+        "codename": "M7",
+        "cluster": "M",
+        "lat": 56.957894,
+        "lng": 24.111915,
+        "image": "http://lh3.ggpht.com/OrStfq0Tb55c9vUqXkYnm0EGzrOAAwrNtIi21Yyfb0EueO2-ZKAmvAalJe78H4DSYO5tD6SAqOANdrpRe6A",
+        "name": "Art Decor Pūce"
+    },
+    "f19c2efdae8344a5acfa4bf07d91daaa.16": {
+        "codename": "M8",
+        "cluster": "M",
+        "lat": 56.958186,
+        "lng": 24.111189,
+        "image": "http://lh5.ggpht.com/x8nvJY4sU69o1uXTj_BqaC3r9wHsiqYGfgRpojn1kNDINEPv86XpYcugf1sccFamUsITsfRhtX1WimtqD4k",
+        "name": "Faces on Facade"
+    },
+    "a3dd3419a40146d798d88b765b41791f.16": {
+        "codename": "M9",
+        "cluster": "M",
+        "lat": 56.956826,
+        "lng": 24.112738,
+        "image": "http://lh6.ggpht.com/JVS8GN38dZ5Td9BD_oLhVWZSGPawJTEfwYiiLI5iUtX3iOyejhjhOm_0Jo-48JvQdtcDC8n_v9bibvrWOfft",
+        "name": "Stop Slavery Art"
+    },
+    "5c841c5a882242458ace888bd86f3d72.16": {
+        "codename": "M10",
+        "cluster": "M",
+        "lat": 56.956992,
+        "lng": 24.110535,
+        "image": "http://lh4.ggpht.com/ZS5N2zVPXpz1VmuTeE0ISrTFk5JLoRqWL96obYpCg_-FPnwkReuFcaB_T1k3IZbWA3ij9M3p7a9PTb0pfM8",
+        "name": "Zviedrijas vēstniecība "
+    },
+    "66a0c816f92d4b908fd86ffbfde20d4e.16": {
+        "codename": "M11",
+        "cluster": "M",
+        "lat": 56.958194,
+        "lng": 24.109472,
+        "image": "http://lh3.ggpht.com/Tg-jIuniyTJnz-GVCxPpZrztF6pg99MFQJ5bmo9xnGEAKDeNHZHWHNwU2wfLnr6d5Np6kgisffnHm3459gEF",
+        "name": "Czech Republic Embassy"
+    },
+    "12df79fb7af443d885aafedf96f0418f.16": {
+        "codename": "M12",
+        "cluster": "M",
+        "lat": 56.957119,
+        "lng": 24.112624,
+        "image": "http://lh4.ggpht.com/FfOLa0eGQ37m885uk3X6Z6LceF4G4-xVhELKcGf227TOYxzrT5sed0Rf1BBtrejSXVMC7AArm1bcHIS8HJA",
+        "name": "10. Pasta nodala"
+    },
+    "815cb6100490490d8db5600fbaacb8d7.12": {
+        "codename": "M13",
+        "cluster": "M",
+        "lat": 56.957877,
+        "lng": 24.11094,
+        "image": "http://lh4.ggpht.com/GxgcvqNEQWbIW9YVjey6joQWixnljnkgmBa_tc_6EV6OXvC9foP6q6p9cI2byl-lU74WBGlcfaIVX_41SOu1",
+        "name": "Sculptures on Elizabetes iela "
+    },
+    "5b73cc5bcac6479fa3d4ba83b0c6c0f5.16": {
+        "codename": "M14",
+        "cluster": "M",
+        "lat": 56.956778,
+        "lng": 24.111363,
+        "image": "http://lh6.ggpht.com/nJnG_H2jssbeXeWYyRiJExZjduX6sNBZ2is19jReV_NZD1fsuj219jgQPjSzCsOBKlgRmB4MiM6-k8hbdL5HUA",
+        "name": "Karlis Johans Felsko"
+    },
+    "fb6a46e6bcb240ee96557f0a9e883d7c.16": {
+        "codename": "M15",
+        "cluster": "M",
+        "lat": 56.958059,
+        "lng": 24.10899,
+        "image": "http://lh5.ggpht.com/El-pdiUXlAw9Py01_dVqYyXFJaFvw2qyShDmaN5BjS-qR4d3SF2XzvKgpe76em9UYN3gzl6p_QH5r2fWBLPZ",
+        "name": "Art Noveau on Elizabetes Str"
+    },
+    "f285e4dee70c4f2ca7d9592a5ed89f8d.16": {
+        "codename": "M16",
+        "cluster": "M",
+        "lat": 56.956225,
+        "lng": 24.109818,
+        "image": "http://lh6.ggpht.com/oGshp4NwfkqzjELcJtORBt3sqzQWivgyN96GkqO_0h9mJaImjEfkRHRwbSWnO6ly-89rBHsAbamJhnHun3k",
+        "name": "Women statues"
+    },
+    "7a23bff465c64d96a1902b7db2c31a8e.16": {
+        "codename": "M17",
+        "cluster": "M",
+        "lat": 56.957763,
+        "lng": 24.110448,
+        "image": "http://lh5.ggpht.com/qSs7wwD4KHl0uFiK9SK7zJq42OSe36YjLNd0nlVTbfWBdNSNWSWN7LCjiFBipcbXFOdCtKIlp6t227oPU0h3",
+        "name": "Mošeja"
+    },
+    "1c4092825f204a29a2b221e08eaedc98.16": {
+        "codename": "M18",
+        "cluster": "M",
+        "lat": 56.957002,
+        "lng": 24.114551,
+        "image": "http://lh6.ggpht.com/BPrvpIs2VxAyXefm7rOabl0eJUN-YbbDp1kZZaVeWL7y_mYZ92XwIK8E43x995tjBMdXjsoTCA94ufF1PDI",
+        "name": "Pēteris Radziņš"
+    },
+    "c27078f0d75c4fd4baf7e77eab1b2a37.12": {
+        "codename": "M19",
+        "cluster": "M",
+        "lat": 56.958354,
+        "lng": 24.111529,
+        "image": "http://lh3.ggpht.com/wRg7aMNeOXArwI3xlWSUlHDlsop8pQ-mDxgxUtuoFHO0-jhNUZv8sGO8IfK9iIIdUF-wYweHhJRYVC5Ue_7_nQ",
+        "name": "Dragon Sculpture"
+    },
+    "46b6fb4de0db402ea01828adfbc73e10.16": {
+        "codename": "M20",
+        "cluster": "M",
+        "lat": 56.956492,
+        "lng": 24.110096,
+        "image": "http://lh4.ggpht.com/9l8z18IRAoQwsvNeEV4TNWcq8SH3WUPp9Jw4DnMCZMyjIA390drvnwH9IfxuOITHprbLdLh1E0AHNX9jNSoT",
+        "name": "Lielbritānijas Vēstniecība"
+    },
+    "7b1ff1e22729412795e9ea572ace1708.16": {
+        "codename": "M21",
+        "cluster": "M",
+        "lat": 56.957229,
+        "lng": 24.11243,
+        "image": "http://lh5.ggpht.com/B_KsvoWXnXrwcyA_BYBt7QTpUxfV3JmyhdHpo2ARUcbnm71VhLdkZmFQ8TGDWZgZ7hPS-kJiLwmmpjhONCjx",
+        "name": "Faces on Building"
+    },
+    "72e51ab98fbb46ff9197f13342cacbf2.16": {
+        "codename": "M22",
+        "cluster": "M",
+        "lat": 56.957543,
+        "lng": 24.111326,
+        "image": "http://lh5.ggpht.com/RSi5IVPeOyFHWO3ff6Frp9pXlBd-RsqwLo5hbHmtxqgUkO7QqVyxyLem-wY0kbVPWcw6tMYCBepNKEi2t1zmmQ",
+        "name": "Riga Art Nouveau"
+    },
+    "6e7845192a894fcfbd947a66820de882.16": {
+        "codename": "M23",
+        "cluster": "M",
+        "lat": 56.957086,
+        "lng": 24.111756,
+        "image": "http://lh3.ggpht.com/RBBuoNgXxrc7n58gTeyDyySfCCrzTM4ZInz7MRb08o1toOuVfdJCeRngH2y4F1UvYeMH_U6HCKqRqz4xsN0",
+        "name": "Lion Heads"
+    },
+    "61afc2860d84418aa968823c9ed9428e.16": {
+        "codename": "M24",
+        "cluster": "M",
+        "lat": 56.957365,
+        "lng": 24.113376,
+        "image": "http://lh5.ggpht.com/Fv1M-lDudgA5vaRD6ZKB-dykvn6LeVu7uor-ItCr_VrYxKPDWujaNdKUHIn7KQgO6zxFXIQtRx4deumpwlQ",
+        "name": "Jeruzalemea 2/4"
+    },
+    "b7c830beeaf940a6aac31c28fdabe79f.16": {
+        "codename": "M25",
+        "cluster": "M",
+        "lat": 56.95652,
+        "lng": 24.110676,
+        "image": "http://lh4.ggpht.com/sRM2o1TU8oliwqSDrcY-wV7ZHIJ_n9UQIcxl4rNvyCUPg9s4_mVQ40uUQDs3O-HtM6SNkdbF-bhVl9bcjTBS",
+        "name": "Pumpura Columns"
+    },
+    "077528b833824edea7d9e9f8ab47c25e.16": {
+        "codename": "M26",
+        "cluster": "M",
+        "lat": 56.957288,
+        "lng": 24.112956,
+        "image": "http://lh4.ggpht.com/jDyBm5WNYQ-46p41ME78JpENpWh_DC_9G4mpZSWpzMz4vwXrg99xRplD2Sg7kL3L5uH1IluMI5y9Q9HC847_",
+        "name": "Cilnis Virs Vārtiem "
+    },
+    "8188eed76e3c4cd1b098d630d3455b1b.16": {
+        "codename": "M27",
+        "cluster": "M",
+        "lat": 56.955864,
+        "lng": 24.109299,
+        "image": "http://lh3.ggpht.com/p3Rz8c3jpNGkpsKOEqAS0J2o9iYUZaBQ7VFLPOA7qKd8Zln-Y-4hZ9H_KDqKT-MWbMvLB09iqJ2ej0e9CXg",
+        "name": "Kalpaka Strūklaka"
+    },
+    "e4372803d00d47febc586db264844b11.16": {
+        "codename": "M28",
+        "cluster": "M",
+        "lat": 56.956931,
+        "lng": 24.114033,
+        "image": "http://lh4.ggpht.com/C6wQ7syBYzvf5ubW0KTTRz07HNnoMTAYJlQRZ8pA31W91ifG6t_tKqHboG7h33nqlIUliLBDly1Z4L6uAvAB1g",
+        "name": "Two Towers"
+    },
+    "e25ef16ec8e64cb5b247514cb3d30e46.16": {
+        "codename": "N1",
+        "cluster": "N",
+        "lat": 56.953545,
+        "lng": 24.112627,
+        "image": "http://lh4.ggpht.com/kzu-JGliBZ486x1ePENCNkL6AaVf7kR1LNTKf4yJNGoF66YZx61i5-vvSpB0HOnfv_NhpC5bAveK0iPI7DxvDA",
+        "name": "Radison Blue Piramīda "
+    },
+    "3a910a37564b40e6ba0af0932ce4228e.16": {
+        "codename": "N2",
+        "cluster": "N",
+        "lat": 56.953973,
+        "lng": 24.11602,
+        "image": "http://lh4.ggpht.com/q0AuCzSTJDJ5KAgozsImpE9_ISYUIWfvZ2xoaqj6jYvP_E29aKF43-HqSTyQDiduqylGidxmZuhuwSC936A",
+        "name": "Small House"
+    },
+    "0f5d09c8df204b47a5b603c3859e60cc.16": {
+        "codename": "N3",
+        "cluster": "N",
+        "lat": 56.953342,
+        "lng": 24.114897,
+        "image": "http://lh4.ggpht.com/Z1QdYGj4JViQ13DML5-GRYJ_KVorYvv4cyDS4EGbnKS7CXZ8II-3y8tnannAmXmUD-hvtrG0ls_S8ZaXb7Y",
+        "name": "Twin Fountains at Esplanade"
+    },
+    "d6b6b0d9b57b465c8200081f890d7663.16": {
+        "codename": "N4",
+        "cluster": "N",
+        "lat": 56.952064,
+        "lng": 24.113736,
+        "image": "http://lh3.ggpht.com/RYDRUmkNQA5e_6ucO0bfrP_dILmXmWEsSOmDp7U56aczs_o5-JmxwrtBnyR4zChwqf2lFUNx3pevjUOBbgZrTQ",
+        "name": "Siegfried von Vegesack"
+    },
+    "b888e9ae7d814d22b76a9d468fa31c05.16": {
+        "codename": "N5",
+        "cluster": "N",
+        "lat": 56.952408,
+        "lng": 24.114259,
+        "image": "http://lh4.ggpht.com/H3lWEc-4iMuqgDi227dnHTb8WftHbwMhRD_giAcVbaighbTF7_nFoDPX2sbzND79U1Z2V-p3XyxfltCAuwM-8A",
+        "name": "Window Decor"
+    },
+    "94102f5613a84b69abc0c880cb9c89ba.16": {
+        "codename": "N6",
+        "cluster": "N",
+        "lat": 56.953415,
+        "lng": 24.114176,
+        "image": "http://lh4.ggpht.com/WdCe67N7lN9KxP7xN_ae1oGI6rBiSWTIroD_gDYrExQUjwrBvToipENTm2P-SCAM9ZnoO9u9nH4p9uCuJeKf",
+        "name": "Ascendum"
+    },
+    "af876d06975444e2b53767d495455ef9.16": {
+        "codename": "N7",
+        "cluster": "N",
+        "lat": 56.953838,
+        "lng": 24.113664,
+        "image": "http://lh5.ggpht.com/Hkm9M5E3PUFSjSkoNPiGiakpkubpuyq-FSmQj_Ir8tMGzpbqWaQn_HHjsKEh0dAFzkiro9zoqISJ989xEsZ7",
+        "name": "White Cube"
+    },
+    "e4bedf53ed6f46b498479b76c6b99f66.12": {
+        "codename": "N8",
+        "cluster": "N",
+        "lat": 56.952253,
+        "lng": 24.113177,
+        "image": "http://lh4.ggpht.com/B0IBlo_Hbr3HK5bfIGu2tHkkUAVmd0tx2_-xGNWAGFVSr6WDjUSWhFOoGcWsjHa_kgA4fPy3EMH8fkQ1QiQ",
+        "name": "Riga Houses (French Ambassey)"
+    },
+    "58a444d1df194b65825d4f3eb1a85afb.16": {
+        "codename": "N9",
+        "cluster": "N",
+        "lat": 56.952651,
+        "lng": 24.112467,
+        "image": "http://lh3.googleusercontent.com/B-k6ED7S1vEjFs1hnZFwZtqFnkGLRKIuQEOtF3RKjFMKx-dhnvLEZFrt6Z1BhtRFqnUUo6yzTUpy0rCtvY8I",
+        "name": "Rīgas Valsts 1. ģimnāzija"
+    },
+    "67669052414641d19d8beee7812af394.16": {
+        "codename": "N10",
+        "cluster": "N",
+        "lat": 56.953058,
+        "lng": 24.113799,
+        "image": "http://lh4.ggpht.com/fqqLyccmIY07oFmbOEuENNXZx8YtShznQIe5zA7Kqb0invNChngyJiJUo45gW_g9m0s8zYoIY8hGtKySr_79",
+        "name": "Oraņdžais Tornis"
+    },
+    "34f41c95edae4b9ca3282ad95d4fdb28.12": {
+        "codename": "N11",
+        "cluster": "N",
+        "lat": 56.953652,
+        "lng": 24.1161,
+        "image": "http://lh3.googleusercontent.com/mU7n0WA2oG115HTiS6YMt_hcaoTyrINNZxcOVDiPJ45dfPOgk280eYM6NmIXyHu0_XAY8SCGpYEEq-Ff6HSgoA",
+        "name": "Kristus Piedzimšanas Pareizticīgo  Katedrāle"
+    },
+    "e85467c8a09042ada9b1a5cc20bc4e64.16": {
+        "codename": "N12",
+        "cluster": "N",
+        "lat": 56.952899,
+        "lng": 24.114134,
+        "image": "http://lh3.ggpht.com/XL6B3og0HgF3F_aKZSXug3PJYVTrZKXCV08KwBQwVDSG6njuULg8QDorfPilXltZpuAXzohw_gYAnDImXgPn",
+        "name": "Humanitāro Un Sociālo Zinātņu Centrs"
+    },
+    "eec8673570c444668b5460005ff602cf.16": {
+        "codename": "N13",
+        "cluster": "N",
+        "lat": 56.955345,
+        "lng": 24.116982,
+        "image": "http://lh5.ggpht.com/oC02ATYRRuOdGPtEY5NJ-LfgrqSXLRNo3DeUuJrzK1QLFq69npUz8XrlRk70KPXA8y_OUyokbq4OCqXlW36utQ",
+        "name": "Orange Building"
+    },
+    "f53bfcdd56dc46cca0ab306cd3eb5d9f.12": {
+        "codename": "N14",
+        "cluster": "N",
+        "lat": 56.955369,
+        "lng": 24.115608,
+        "image": "http://lh3.ggpht.com/d2L5q9f2B-TJajJGHoZjHD4GlHdONWhTyMMo4IYjs_H2fkV19qitsppjtaNqN1lT4pH25pd6azHf89y9xnFr",
+        "name": "Monument to Oscar Kalpak"
+    },
+    "082cd136f3ac4e04a6d37b35b1011676.16": {
+        "codename": "N15",
+        "cluster": "N",
+        "lat": 56.955173,
+        "lng": 24.116772,
+        "image": "http://lh5.ggpht.com/oMYdT71nZBJnfTgcMy0twVKIbEsB24bW2itc0Zy0rqGkeTz0BrDST4hGk3nbmUQNQ9DptejCv3sFh7YmLjke",
+        "name": "Face Decor"
+    },
+    "5acf4449c8d84bc68aa97aed0a0c48e6.16": {
+        "codename": "N16",
+        "cluster": "N",
+        "lat": 56.955966,
+        "lng": 24.113433,
+        "image": "http://lh5.ggpht.com/8gaEadyNDDu19aL43hqGwVrpBfNWs794ubM4TSvV2pRyZwnWeHZZSKbvOaix9IK8ZrPWKYBzStuUIC0dVghQdQ",
+        "name": "Riga Art"
+    },
+    "6071ce746304424f87296470e9ac0386.16": {
+        "codename": "N17",
+        "cluster": "N",
+        "lat": 56.955453,
+        "lng": 24.116048,
+        "image": "http://lh5.ggpht.com/PmmIz2XTPYw8HYxiwwRW3P9gnKgRUFQtEgvcGoLu1UsjnMQDi6w_qGwOkhihg52JRLS-CDmRSAHu5mPVTIo",
+        "name": "Latvian Olympic Comitty"
+    },
+    "25cc2d74907248c29766fdc744dce335.12": {
+        "codename": "N18",
+        "cluster": "N",
+        "lat": 56.954772,
+        "lng": 24.11491,
+        "image": "http://lh6.ggpht.com/8IBB-Ts2VHJ0Pl1MReXxE8Vn88GHC1T49IRKetQIkbwQWFjZEUchItpbBAAvZ-aV9IvmS7qDDKNFiuH93iPG",
+        "name": "The Niderlande Bicycle Statue"
+    },
+    "15373034470641a0894aa14d9f1e3989.12": {
+        "codename": "N19",
+        "cluster": "N",
+        "lat": 56.954609,
+        "lng": 24.116336,
+        "image": "http://lh3.googleusercontent.com/tQ7s-iC3K490X9NwAt5S2Dv8qBcXc2Cqu7atp8CZlHzcnodTeC7eomhoUSTKXCS6Ex-zKu1j45-KB2EyrgUc",
+        "name": "Barklai de Tolli"
+    },
+    "9114fa7c80114c7e87761f4e29e9290b.12": {
+        "codename": "N20",
+        "cluster": "N",
+        "lat": 56.954178,
+        "lng": 24.113016,
+        "image": "http://lh6.ggpht.com/uUjsnLd1tYAUFyAWxTFTy0_Juth0cC9XuLiVt24bBa3ULEJhFxT6WbME8IDGMucxEFPujl6eqmTfoEgcZkVf",
+        "name": "Jānis Rainis"
+    },
+    "5b8dbfc4aa394a0dad68ce9e02531a88.11": {
+        "codename": "N21",
+        "cluster": "N",
+        "lat": 56.956414,
+        "lng": 24.114166,
+        "image": "http://lh5.ggpht.com/jmfarmbc8UMpstbu-FhXx33MyIDx8vV2iNvgWQmVp8qG5yKCjSsIEx6kcj8k0ZWhfLr3lKm2Tq0qEBcWoMBW97Kp4v5dsFg5rkmqK6-qP1kZvGmR",
+        "name": "Ministry of Defence"
+    },
+    "d3c543141abd419eb37eb2f3928c2936.16": {
+        "codename": "N22",
+        "cluster": "N",
+        "lat": 56.955938,
+        "lng": 24.115249,
+        "image": "http://lh3.ggpht.com/_P1BSLpuLoH5l7ij24zn891jCPtb0-GzxPQjDdIleYt5SIypq06QapKr8yFKFALqWn_VJ-L96uCZpmKl9v8",
+        "name": "Lions over windows "
+    },
+    "e06f74ad1f5343f5876fffc8e5738c38.16": {
+        "codename": "N23",
+        "cluster": "N",
+        "lat": 56.95467,
+        "lng": 24.118044,
+        "image": "http://lh6.ggpht.com/wtRYPgVwOd8jE3jpDFVhegzW-IjJkYzq7uoDYRFctzohj0IIfVAhPaawTg8flEKSIkINRpFEtogJEzVh-v25",
+        "name": "Viesnīcas Latvija dekors"
+    },
+    "4aa36c2c11894a5d84ba33f9370015a3.16": {
+        "codename": "O1",
+        "cluster": "O",
+        "lat": 56.953551,
+        "lng": 24.110552,
+        "image": "http://lh6.ggpht.com/m1Bh4XkRG8IeGLmXcH8WQjLuqR_lV1okFrAR2UbAQsuTU63cA6TKPVg9WngJG1uJpR2I7PqrfGBS0HkCgmc",
+        "name": "Flowers On Buildīng"
+    },
+    "14cfee59734c4f67b795094fffea3f6d.16": {
+        "codename": "O2",
+        "cluster": "O",
+        "lat": 56.953847,
+        "lng": 24.109854,
+        "image": "http://lh5.ggpht.com/zlaJp1UEBeV1tHERI5tx3korXjt5Ehf7SKo6H9UxiD_ZuWfS_XmILbNHF5tTb3Pn0M-r1TGfJ8rybHl-1TVAuQ",
+        "name": "Building Decor"
+    },
+    "7eba82de5ff44ea883b4a05d365e514e.16": {
+        "codename": "O3",
+        "cluster": "O",
+        "lat": 56.953605,
+        "lng": 24.111769,
+        "image": "http://lh6.ggpht.com/0xwHIpZf_qB5gCB5p7cU1RK2c2z_h9cVGX00Z12GGIFTa_jJvCCYkk3yzZfYaeV_cWapfp0W-0KChjdReyqP",
+        "name": "Rotary Club"
+    },
+    "d245065d74624bb19e32fca31e552fd3.16": {
+        "codename": "O4",
+        "cluster": "O",
+        "lat": 56.954,
+        "lng": 24.109491,
+        "image": "http://lh4.ggpht.com/J-cHdVkdefAUkgeti9YIRGFht5dBAcWkGEOSxJkSjsvEI5QozSW9zMegGTOOT9YghY8wBIi7FS5WxBACFyAT",
+        "name": "Temple"
+    },
+    "84b2eaafcdd8436abf3c751c862e1ed9.16": {
+        "codename": "O5",
+        "cluster": "O",
+        "lat": 56.953567,
+        "lng": 24.111333,
+        "image": "http://lh3.ggpht.com/ncj7GTul6V0BjkL0DxAX5ddlkX8R1v89rw7xiaZ78peSYAeZnC7wPFTICScY3XyxMAC-9NCtn4-sF-VuBV97QQ",
+        "name": "Memorial Plaque For Attack On Ministry Of Inner Affairs"
+    },
+    "64bc4d7f6ff74d6f9fd3f15b5bb4f69d.16": {
+        "codename": "O6",
+        "cluster": "O",
+        "lat": 56.95395,
+        "lng": 24.111937,
+        "image": "http://lh3.googleusercontent.com/lXkru2Go1Efpp6H0NwYBOJjPBB7a43NbKys8jDw7wrc2AFv1Hm7mOomp_rzWE28RY93QhuTP0_vkPktHaPcGyw",
+        "name": "Corner"
+    },
+    "775bce20944141f0a64cd8afa028ab0a.16": {
+        "codename": "O7",
+        "cluster": "O",
+        "lat": 56.953093,
+        "lng": 24.111619,
+        "image": "http://lh3.ggpht.com/QNctnvECEa5Gpw-wUv19514JdDKWXWDS48--24N3-qsGJR-smI5qyZlf5SPpGiIshmDbIBkBjQ3m-IojhCCy0Q",
+        "name": "Okupācijas Muzejs"
+    },
+    "6895aff9bc064a4799f9005d019a7a33.16": {
+        "codename": "O8",
+        "cluster": "O",
+        "lat": 56.953311,
+        "lng": 24.110893,
+        "image": "http://lh5.ggpht.com/475N2twKwP7SPpB5b1v_ThIvfx-Mlb29Q224F6ZexjhGJ5zK2wQB6lnJ_3Lu-zp4ud4QP1RNR9H1eUpXTgA",
+        "name": "Tower"
+    },
+    "7db66e402dda4366a4a216931c8cfabc.16": {
+        "codename": "O9",
+        "cluster": "O",
+        "lat": 56.953876,
+        "lng": 24.109204,
+        "image": "http://lh4.ggpht.com/1roDsGWlKgw88kNxT4p5gFXtZIBRHvGtxmffR9Gm15Z09qSY38ywenfzZHFpndIeCjZnkgezkXJsj5h6Kzw",
+        "name": "Water Pump"
+    },
+    "40dcb9d99c88415f9f2ec37b33190ee5.11": {
+        "codename": "O10",
+        "cluster": "O",
+        "lat": 56.955277,
+        "lng": 24.110555,
+        "image": "http://lh6.ggpht.com/Cb7ZtbH4JOoKoK694bkZTkeXdi3xOR0bIGZj4wotjeRVpFpzYWWa_D6aWKgpRcWwchVyNGLFstPtQiXDAJWOWb-6M3iUHzxzfwWuHuMgj6PH4jc",
+        "name": "Mākslas Kubs"
+    },
+    "f606138291824873865ef35dafb3def6.16": {
+        "codename": "O11",
+        "cluster": "O",
+        "lat": 56.955377,
+        "lng": 24.109612,
+        "image": "http://lh3.ggpht.com/4PKSXOsGo3BC4Kke7_30iOzu1RCHfZmTFd_RrLRi9Qg54Zk7iYY_IMAfkH-rByX33rBXz0YsbXtrlWsHXRhcqw",
+        "name": "Angels On The Building"
+    },
+    "9f7bb94eaa5b4196ace134941179b828.16": {
+        "codename": "O12",
+        "cluster": "O",
+        "lat": 56.955439,
+        "lng": 24.111618,
+        "image": "http://lh3.googleusercontent.com/6mYWFS0rKIlwZ83DhW3l5ciaw4nUmMIOggL3nnGvj0G2A4cOEI1wS1fEVUa-YSlUTrAAw1XRz4P0m0LmGiE",
+        "name": "Rīgas Lauva"
+    },
+    "d6341d882e724768bde4bc21433fc450.12": {
+        "codename": "O13",
+        "cluster": "O",
+        "lat": 56.954652,
+        "lng": 24.111085,
+        "image": "http://lh3.googleusercontent.com/3or8RJLsk8j2Udz-2nkQkE7TNuIlHGYZVJ1IIfyFC7LG46Dju6Lj3l8xwhFs3iZlNTRsWYfRne89zYveR42f",
+        "name": "\"Villendorfas Venera'' ,21 cen"
+    },
+    "b500ed6b5f27416585251798f19750f8.16": {
+        "codename": "O14",
+        "cluster": "O",
+        "lat": 56.954966,
+        "lng": 24.10973,
+        "image": "http://lh3.ggpht.com/dCrJ_RaddqaIH_Sx4qYHskqQsMGmkmgY49YJXYAYaUIPz8HP2L1rMq218b3HWPLLcERS4r2LSGKfKdE-ZTO3TA",
+        "name": "Balcony"
+    },
+    "b82d72e49e5a4dcf8eddb03d02a42a1a.16": {
+        "codename": "O15",
+        "cluster": "O",
+        "lat": 56.954659,
+        "lng": 24.111267,
+        "image": "http://lh3.ggpht.com/MXoOgXCmc4VWPGOTBsnzS3GQSY1y9Hvp0tqjcNYxfo2Bh05QCbttNP79KwFrT0kHbOVrA0qNjZ_qcnU1a9M",
+        "name": "Latvijas mākslas akadēmija"
+    },
+    "c9bace6ee7414b12bb64696dbf49f555.16": {
+        "codename": "O16",
+        "cluster": "O",
+        "lat": 56.954637,
+        "lng": 24.109173,
+        "image": "http://lh4.ggpht.com/CSMAczvLULw47gZXM_0RC0bAjaDee8dtHhzCODy2Vejr0ooWvsjKTBQrC_BpU55diiNpXctbw6ebKVVhdiA",
+        "name": "Margaritas Stārastes plaukstas nospiedums"
+    },
+    "2645dc1b4b0a45d69615d485485ed7bb.16": {
+        "codename": "O17",
+        "cluster": "O",
+        "lat": 56.955758,
+        "lng": 24.112893,
+        "image": "http://lh5.ggpht.com/Y-9RcdyDXS5ouETVf9JJMVZg8Rcl9MnA-KYtM-bnFH-eBY8b3u3k6qdKno37emzKPKXFPJKEey2LM0dL6KXc",
+        "name": "Athena"
+    },
+    "db2b2261a4644dc497f6a3af801f14a8.16": {
+        "codename": "O18",
+        "cluster": "O",
+        "lat": 56.954809,
+        "lng": 24.109392,
+        "image": "http://lh6.ggpht.com/77VINS1Jewy9aMXPKuAs-qsUVH9dpwWGz9WW7_I6zMCGs7QmQH-qYoxBzwm7wTQLfMg3EcP95ssruz2q7mB-Lg",
+        "name": "Sergejs Eizenšteins"
+    },
+    "c8fe4fb1d5a2402f98aeb87d5655abeb.16": {
+        "codename": "O19",
+        "cluster": "O",
+        "lat": 56.955402,
+        "lng": 24.110228,
+        "image": "http://lh6.ggpht.com/hryf0RiZzpmsO9ReJotGNL3fqGDbWcAWnqYU4HSI5AjUJzoGHkikKE0st_LYcZXotLc-3Ar7apL7JRb2O5lD",
+        "name": "Lions"
+    },
+    "3308be39317e49b09fdb4649160c6dfb.11": {
+        "codename": "O20",
+        "cluster": "O",
+        "lat": 56.955122,
+        "lng": 24.110075,
+        "image": "http://lh4.ggpht.com/ygqNkA6p7mUscZX7nxVHydtinRL_Fo-8KNgO_z-KCSZMaai3EQR1BdXdq0c3TeV5FG8EcNE3ruszRxlH4ps",
+        "name": "Gift Clock from Kobe"
+    },
+    "f92c849c9df94269b7cd0d8d1f2b57a6.12": {
+        "codename": "O21",
+        "cluster": "O",
+        "lat": 56.95574,
+        "lng": 24.112469,
+        "image": "http://lh3.googleusercontent.com/5I89LZyLb0Vghg9Ql2t-w7wGg8TsuqIbG7cTxskm604JQJ-qmjHoXxQ7cKKPCeDyLDT2MjfLwxbjqkVbDsI4jA",
+        "name": "Jānis Rozentāls"
+    },
+    "6df88349d3c440bbbcdc437bf1b0e9c7.16": {
+        "codename": "O22",
+        "cluster": "O",
+        "lat": 56.955116,
+        "lng": 24.109313,
+        "image": "http://lh3.ggpht.com/3b_ZXEiEfQ7jsy8sBEpm1GGLSdTIyRrXvPLMBO3qbOa6xYCzYjj6m5cqyPbR1U_wRssiLb6QjJekF0vBMlQ",
+        "name": "Old Pillar of Wisdom"
+    },
+    "7344729e9d6f46f6867b44fbdb505ece.16": {
+        "codename": "O23",
+        "cluster": "O",
+        "lat": 56.954279,
+        "lng": 24.108845,
+        "image": "http://lh5.ggpht.com/OyY46IW_hHgY01x7E5tkqm61y01bPIcV-QO3iidhqZfrSGB49pZqDguKgtxqULs6Err4LLUA5dLu_m0yE48r",
+        "name": "Brīvmūrnieki"
+    },
+    "1b1df724e08f4b4587adb4e0589e64fe.16": {
+        "codename": "O24",
+        "cluster": "O",
+        "lat": 56.954464,
+        "lng": 24.110944,
+        "image": "http://lh4.ggpht.com/GJVWnxx96b_Z29_JizSQXcZFmCwvAEMhgg62V48mWVa2O7C9Jq3WslzMWp3Lpe7iUHEhPkuTHjNK7hmqsVjn6g",
+        "name": "Statuja pie prokuratūras"
+    },
+    "8009b6117a1240a4b217d430c0d128f2.16": {
+        "codename": "O25",
+        "cluster": "O",
+        "lat": 56.955486,
+        "lng": 24.111137,
+        "image": "http://lh3.ggpht.com/0w3rMUMBBldXvanTTfMV9Si8SQMg43AyVnDo_dsCGQdUzcq7GMOV6yAAE0PBdK_hOcmtmojR6ACJ6l-EZFCk7Q",
+        "name": "IDEJA"
+    },
+    "1f039537ae1d4f9ebd6047a943e98a8e.16": {
+        "codename": "P1",
+        "cluster": "P",
+        "lat": 56.95334,
+        "lng": 24.102721,
+        "image": "http://lh5.ggpht.com/MQ4avR5GugwgTjSyuuHhRsPWbvRYt-zMZFXyXeWpDl3Wg7RusEfnVNBCi1AQOi1TM5wkBqq_fTeLyWON4oU",
+        "name": "1905 Sign"
+    },
+    "10ac23136bdf4436973e43af7b014f27.16": {
+        "codename": "P2",
+        "cluster": "P",
+        "lat": 56.953976,
+        "lng": 24.106273,
+        "image": "http://lh3.ggpht.com/Zqy8wt6AflOzRnziUXliinu1Ver7rsZ0QEfsQ1yNmrzisCgOx9jphDSMf62NGwDLVjLmSHinFAY8aJHGsbr_",
+        "name": "Alfrēds Amtmans-Briedītis"
+    },
+    "17a44df2313e4f39a202b88f562d5c2d.16": {
+        "codename": "P3",
+        "cluster": "P",
+        "lat": 56.952993,
+        "lng": 24.101752,
+        "image": "http://lh3.ggpht.com/NXZenL_ay3kqGQXVhfdr5e5BB6H25esHithEAAUh-cD21qNny9I93sPSzTneDxN5vWN2t6EM1v_n7wvIum4jiQ",
+        "name": "Music Factory \"A Nice Place\""
+    },
+    "ce75b14ac1ac422a86a3dacd6194dcd7.16": {
+        "codename": "P4",
+        "cluster": "P",
+        "lat": 56.95415,
+        "lng": 24.106673,
+        "image": "http://lh4.ggpht.com/mzDGUeVRHZ5Ukd9Yn1OVCBNmTzc8eqv37CwmsXVoX6QSu037U--TQxViDjZFL4vrXXkKWs0hHH7RLiKeIKW1",
+        "name": "Wall Sculpture"
+    },
+    "b99f3536f9c64b789afc6d61596fd2f6.16": {
+        "codename": "P5",
+        "cluster": "P",
+        "lat": 56.952872,
+        "lng": 24.104102,
+        "image": "http://lh6.ggpht.com/Vgvy_dg9lkjRLd90SB4CQ6QRr1c8JPT6OKhS-xhhE_2zLM5CU1e0dJcK3o_zZ2fF8iFY-Qq9FIhAT6XOkRCQ",
+        "name": "Portrait Of Intellectual Man"
+    },
+    "4b20ebb098054b1084a1ae925cdb6d5a.16": {
+        "codename": "P6",
+        "cluster": "P",
+        "lat": 56.952568,
+        "lng": 24.102563,
+        "image": "http://lh6.ggpht.com/VEszcPwWP2UBA7DbTxQUND2jJA80IrHJgFSMbRAmMsFuHEkeXrKVmzeGJOaGJHFfiD6pwyT62LE2iGfJY5hX",
+        "name": "Ox Heads"
+    },
+    "1b905ae901de4befbc240d62ea0c668d.16": {
+        "codename": "P7",
+        "cluster": "P",
+        "lat": 56.954034,
+        "lng": 24.103809,
+        "image": "http://lh4.ggpht.com/vXDpHdM4v7TjIC1og5suiRjENByvDLfOMyyjGPElGy27-4PCeQUsLbDll_4orMe6jQ_Mvvkp-k8Z0KZgHhLUPA",
+        "name": "Fabrikants"
+    },
+    "293319a01a7d4d3f8b298be8c4e85b98.16": {
+        "codename": "P8",
+        "cluster": "P",
+        "lat": 56.953572,
+        "lng": 24.105806,
+        "image": "http://lh5.ggpht.com/Mz5S-Acpw-vi2wjnCU4NAU9dN9-VytnS4Ikxqe6jwmlUjzTQySxdn4h_RltqDKtIOzieuqEIZ3vBnYw0q5LhAw",
+        "name": "Valdemāra Bridge "
+    },
+    "779037544cd447a0b8bb42e2d5d251b8.16": {
+        "codename": "P9",
+        "cluster": "P",
+        "lat": 56.95336,
+        "lng": 24.104673,
+        "image": "http://lh4.ggpht.com/CV6Esc2gB4ffiPyG7cT0DPuLjb9k_iSM1b_tqrEgzoGPuR8ao3Y_sZoX9fv-5VDMHB8ZhwzasA1jsPT45Ek",
+        "name": "Rainis Memorial Plaque"
+    },
+    "4de12d772a924683ae03206abad1a4d0.16": {
+        "codename": "P10",
+        "cluster": "P",
+        "lat": 56.952991,
+        "lng": 24.103282,
+        "image": "http://lh5.ggpht.com/9iws_sjuTxXaeOVHZbyVjeZJC3_-7ZAubXlZVw6LPfewg5fGc-11VPTp2mNBqVjv_2TeY1vZ5P8K4yTTtL_Q",
+        "name": "RTV"
+    },
+    "463b0ea549cf41459fc599df23131cc2.16": {
+        "codename": "P11",
+        "cluster": "P",
+        "lat": 56.953604,
+        "lng": 24.102535,
+        "image": "http://lh5.ggpht.com/rmw4MzGcc-FtF7IxnqByJbZjYa-ScllnWp4CO3Wkrf6NAb_t68BUKyfjNy578naTPjAbOBhRbLWnORKRqAHq",
+        "name": "Roof Top"
+    },
+    "376ab0414e5f4277abec93ecce3e1153.16": {
+        "codename": "P12",
+        "cluster": "P",
+        "lat": 56.954105,
+        "lng": 24.105998,
+        "image": "http://lh3.ggpht.com/kZm3RTF7JMRhJokwG1fcJt1JlgWUP4vWE5TTFa1ytoE3NjNcxehL2hHjJMpakbwAqQuhzdsxNlQT2tYcL0DG",
+        "name": "Sculpture in Wall"
+    },
+    "54d3a29c9ba0496a96812aef947d49d3.12": {
+        "codename": "P13",
+        "cluster": "P",
+        "lat": 56.95333,
+        "lng": 24.105206,
+        "image": "http://lh3.googleusercontent.com/WWDeUVZMvUEHjfIx5q8I-RSy-rE2DYBu-IM1k420pCz-_IeeMzyx-Hs1eEvqffppQeSs_XmGwWBJK-3EKG4",
+        "name": "Latvian National Theatre"
+    },
+    "a2fcbedca08f48b3a84429405ea76833.16": {
+        "codename": "P14",
+        "cluster": "P",
+        "lat": 56.954919,
+        "lng": 24.10619,
+        "image": "http://lh4.ggpht.com/LDSVVm-Gc17zkN4jVrxozIB3_64dJjHn_od_xMzUgWMNRcbffIY7RsO6HitCxoam3XHSc0OPWxflJWHmfY4",
+        "name": "Rigaer Turn-Verein"
+    },
+    "2e233c24c3ea4572beeca3c9cd37331b.16": {
+        "codename": "P15",
+        "cluster": "P",
+        "lat": 56.954548,
+        "lng": 24.106873,
+        "image": "http://lh5.ggpht.com/p5IBQAHH_Pc_W5LmhfGs8Gh7o2_dYIXtCDAhV-VR9XcsE1Un42C1K08BfblLQeqcrg3w_SNaJYJnwLRiu5wq",
+        "name": "Šiva"
+    },
+    "e36c9663bcf34d969c481ebcede69c13.11": {
+        "codename": "P16",
+        "cluster": "P",
+        "lat": 56.955306,
+        "lng": 24.107808,
+        "image": "http://lh3.ggpht.com/xnx9TXixK3oJXF-uc6TgwedNiLyEUqd0OFY7fdidLaDe1_sz7CAnuOHLMA2tn_z-UXtFoi0oFfVhmbJPyt8",
+        "name": "Pyramids"
+    },
+    "a9b4bb5427e043a6ac5f2165d4ec86de.16": {
+        "codename": "P17",
+        "cluster": "P",
+        "lat": 56.954283,
+        "lng": 24.103444,
+        "image": "http://lh3.ggpht.com/Tr_kRNCEoOjNA-2hZ5LrDU-laRoRSzJC1vhNHKgkuTYDN8MqO6Bgn3FoFoszmd-uUidEICu_x0gwhlYOs0YCjw",
+        "name": "Energetikas Un Elektrotehnikas Fakultate"
+    },
+    "779b5fde5b594c95aedde1c9eab21d05.16": {
+        "codename": "P18",
+        "cluster": "P",
+        "lat": 56.954981,
+        "lng": 24.104409,
+        "image": "http://lh3.ggpht.com/GsytZhubF0pZQQ95MSAN12cy34wp-m3jcVuxsZnz769g1N8BjII2wTC0CFFcqj88VFsA4C0_k0lACsw-pk7MlQ",
+        "name": "Physicist Fricis Gulbis "
+    },
+    "6af864f72d314fec8accc9652502837c.16": {
+        "codename": "P19",
+        "cluster": "P",
+        "lat": 56.955191,
+        "lng": 24.108395,
+        "image": "http://lh4.ggpht.com/CG7NpdR9s2FlDt3JJcc5p7FTDCLqUdYtC1L_1nUJpYUSrLwzuATUSuUvcF7cUCCcUslvrQ5l8wH7WH4i2XA",
+        "name": "Congress Hall Fountain"
+    },
+    "02f6d21314ba4942a85f8709fd99aad4.12": {
+        "codename": "P20",
+        "cluster": "P",
+        "lat": 56.954983,
+        "lng": 24.108333,
+        "image": "http://lh6.ggpht.com/AGz6VOES18F41P9Za13fxWXuZkm_reijN3PLfzHKmsRtluds8ioJjZ3pcSg3JpcQIqwfWlW8lsJ2eFh1uFO2",
+        "name": "Monument stone of Latvian Theatra"
+    },
+    "292eb4f45b4a4f34a6272f86b0c24f8f.16": {
+        "codename": "P21",
+        "cluster": "P",
+        "lat": 56.955282,
+        "lng": 24.104139,
+        "image": "http://lh6.ggpht.com/QUMmZH4qpPhNtiWsM9zwY1IJSt4zH5BWw0FlCe70ZwfpGiKhueown1KRrgHpuAZnFLD-O_cLE_ffvvK1gCqiiw",
+        "name": "Chemist Moscicki"
+    },
+    "d2658aaff6ae4047800d31add9ad6db7.16": {
+        "codename": "P22",
+        "cluster": "P",
+        "lat": 56.954496,
+        "lng": 24.107644,
+        "image": "http://lh5.ggpht.com/o5NvlgVneBPKUc5X4To4_TqUyTZDivTiVgtNpP4S0KApVp5DJuhgnIjej_8V_Ve-u1oKnbNUoMxWIlr6oNj5",
+        "name": "Latvijas Ārlietu Ministrija"
+    },
+    "80a5a5db036c4b6ba220e453216ed20b.12": {
+        "codename": "P23",
+        "cluster": "P",
+        "lat": 56.955026,
+        "lng": 24.103633,
+        "image": "http://lh4.ggpht.com/SqRQAIOkMZ7A7a5CsF4CZWwLZUsPRWOmudHsHnhRezMIvUOt6JJxDzn7UY5-Ygi5BhUMcHlQ4QRwIrxl0GQf",
+        "name": "Science Statue"
+    },
+    "c5b491109c814ad9acc514afb8f67386.16": {
+        "codename": "P24",
+        "cluster": "P",
+        "lat": 56.955102,
+        "lng": 24.104181,
+        "image": "http://lh3.googleusercontent.com/Z19QlHv3sq9Kz-vzKAtkuL_1j3iIZ3ud1FTMWfKguKrSV-FClMLLLPSv6bfamwkioDpYMsNzNXWmtBuUKDhe",
+        "name": "Bioloģijas Fakultāte"
+    },
+    "3975ed6974fc4cd88645968228b757f1.16": {
+        "codename": "Q1",
+        "cluster": "Q",
+        "lat": 56.950997,
+        "lng": 24.110757,
+        "image": "http://lh6.ggpht.com/zkUvqLk_XL7F1b1BReZuuemF0mUDYxQZpUF78ZZAJoqTvRh6maMiZ6KMXEPu9gkXDJVHJ-e0anMGV3vcp7bhKA",
+        "name": "Karkulkine Okno"
+    },
+    "f89ce7e8b25f4a0ebe5fdff975ec96e8.16": {
+        "codename": "Q2",
+        "cluster": "Q",
+        "lat": 56.951501,
+        "lng": 24.111227,
+        "image": "http://lh3.googleusercontent.com/XWM25sdfwI40JzaF5mTcCaLEY2nCu749oqq18XmVFN6lv0dXbDq8ZbpUNoyJl_3x_KEsphOH-PkgPygzpMjn",
+        "name": "Mother And Child"
+    },
+    "8bc9a158e47e452db33348ec976caaf2.12": {
+        "codename": "Q3",
+        "cluster": "Q",
+        "lat": 56.951595,
+        "lng": 24.109305,
+        "image": "http://lh3.googleusercontent.com/v8Hs-90z2MEDXRrgFsc6MokOIAyKb7SeOLvL-OIXaSaLGxeEXtX92prl0osGRqe1lrrzX-6NuMjAAzbFS78z",
+        "name": "Monument Hachkar"
+    },
+    "67b7113141064c0998dd7c47b7ba2ead.16": {
+        "codename": "Q4",
+        "cluster": "Q",
+        "lat": 56.95223,
+        "lng": 24.110464,
+        "image": "http://lh3.ggpht.com/vVKtxpHWcAy7tvzqv1aS268h0Fknp6do0GsRvfTfL_olD7awR2csWEYBPypFcMq0WV30DCGVcagowhhL31l7oQ",
+        "name": "Swan House"
+    },
+    "f12063696d5140b898033ecdc0c3ee50.16": {
+        "codename": "Q5",
+        "cluster": "Q",
+        "lat": 56.952946,
+        "lng": 24.110307,
+        "image": "http://lh6.ggpht.com/KOnSvoeMg4H4Z2-jwhrEyQSt2e3oj8pVp1oUXvEc3oYTcmOLqQDUXSob7IkG_EM81nVHpotRPpaS-oc_PDk",
+        "name": "Sergejs Kononenko"
+    },
+    "14d3362d1222419b8c8fe3610268fb38.12": {
+        "codename": "Q6",
+        "cluster": "Q",
+        "lat": 56.952522,
+        "lng": 24.111943,
+        "image": "http://lh3.googleusercontent.com/Kh4WTl1I36MCjZj4LkOz2W0R0fnbS7kqn7ryMG6ijDaaORSKPsHw8e2d1Rqjh0ig_rei31Dt22qskRy83x0y",
+        "name": "\"Flight over the City\"(Rigas b"
+    },
+    "388662bec6ed44d389a7a9a634727458.16": {
+        "codename": "Q7",
+        "cluster": "Q",
+        "lat": 56.950945,
+        "lng": 24.111683,
+        "image": "http://lh3.ggpht.com/Nxqe8GNFz39mxLDDvVwlqMB7DNdVXFmAlQNNssJntOTwJ1lq-FdPWGEgQ_BLtBJ0j3wvAmz65IlEB0UUfwlS",
+        "name": "Brieži"
+    },
+    "c47a22f229e941cf9cddcff2aaaa44dc.16": {
+        "codename": "Q8",
+        "cluster": "Q",
+        "lat": 56.952008,
+        "lng": 24.111438,
+        "image": "http://lh6.ggpht.com/2B-ga7T9w2XMzeMi2Wf1GED6qQ7I1RCVK-jhCnaGLdgilB884KjooV8AJ006f844DzQ1htx-AeuISWrayJXk",
+        "name": "Girl"
+    },
+    "16eb3284705d43348d94793719b83d91.16": {
+        "codename": "Q9",
+        "cluster": "Q",
+        "lat": 56.953151,
+        "lng": 24.109086,
+        "image": "http://lh6.ggpht.com/HHyxpbCJxHziQDRrjnSEBtH1Xu33pPu16dCZRDvLvN5FoIF2HZ8dNmsAUcqGcHNUZv5SjDxLHX5ItoUaWYg",
+        "name": "Memorial Stone"
+    },
+    "1aa6bacd75ce4c8e9b79565719c2c69e.16": {
+        "codename": "Q10",
+        "cluster": "Q",
+        "lat": 56.952202,
+        "lng": 24.110913,
+        "image": "http://lh4.ggpht.com/7BH-9uhZkEHtkGlkZ9dYAcPembJFnETeIH8MvjvW7o9YmidhDE8AcZQwDFCYKaSD6aX87ThS3VqwA23MKlVQ",
+        "name": "Sexy Girl"
+    },
+    "242c1af93cef41fe9930a79187a93433.12": {
+        "codename": "Q11",
+        "cluster": "Q",
+        "lat": 56.952846,
+        "lng": 24.110112,
+        "image": "http://lh3.googleusercontent.com/pEiMHVfxJR9qY2BiylzmHozZHNX_0Iy3fSBrUNUR2lX3iMr3Rs5YJc2Pb9BNgdUufcKj60E4cIlUiDfTrIrc",
+        "name": "Dance of Peace"
+    },
+    "c0220176cb22497db425ef2e5d65af59.12": {
+        "codename": "Q12",
+        "cluster": "Q",
+        "lat": 56.951478,
+        "lng": 24.111805,
+        "image": "http://lh6.ggpht.com/8dn8_QChS2qMMyGXE277JbIW26g8xSoyvIvPb7hWgSrDn1B_7taHnj8g7yEMvvpGa_PWzdNHmWBsZ6rTrLAs",
+        "name": "Padlock Bridge"
+    },
+    "2cf7a5cb75f54a23b6dadad1e4c60a69.16": {
+        "codename": "Q13",
+        "cluster": "Q",
+        "lat": 56.9511,
+        "lng": 24.110409,
+        "image": "http://lh6.ggpht.com/coULWzKaR0_nVaye1p4TAnPUslaiGfvkB4cd_lye1t-yJANCxaCS0nN33xX9P67JGCWDJCP3AkCKiPZ4q_M",
+        "name": "Zutis"
+    },
+    "7cd43a3d14b1404287fcbbcce7228f0d.16": {
+        "codename": "Q14",
+        "cluster": "Q",
+        "lat": 56.951735,
+        "lng": 24.111808,
+        "image": "http://lh3.googleusercontent.com/9L7EVI3QolEBmVpmjzOPNi9lVlvtHjGl7m5MjmBSkBaEdLMeWztOWuPq2s6X-LRb1mVALCmBrrXdApWGVgGpzA",
+        "name": "Bastejkalns"
+    },
+    "7c12e87c697344c29d2e0eb935527c88.16": {
+        "codename": "Q15",
+        "cluster": "Q",
+        "lat": 56.952293,
+        "lng": 24.110077,
+        "image": "http://lh5.ggpht.com/gxFmbu8iQf_trjW28cjOTuG1p6PYud2qLmsfZOwtFhsWXFvM3padcLbkKsxEY_OOaT8xhL5_maXcgzC85WQX",
+        "name": "Gvido Zvaigzne Memorial Stone"
+    },
+    "7d40fbada6fe45ec8e47ccdcd3c2e804.12": {
+        "codename": "Q16",
+        "cluster": "Q",
+        "lat": 56.951323,
+        "lng": 24.111589,
+        "image": "http://lh3.googleusercontent.com/j9Xv1GlG9bji5GEBGDw9Akv0ez8BfVS7dMr63V3D8QwvoBgTWvKHmHjg61Bh3bsaqFVF8YmLb8cwsmo0g0Mn",
+        "name": "Bastejkalna Sieviete"
+    },
+    "c4b14ee4d5f2470fadfd4a06324c8fce.16": {
+        "codename": "Q17",
+        "cluster": "Q",
+        "lat": 56.953219,
+        "lng": 24.109479,
+        "image": "http://lh3.ggpht.com/rsROo7qjBXMHmusBwHO_ZuH64LVQGAmZFNu6uh9HgeZfeUOXIO-59HtzbimaigCCNPhIvKG6r7l9Cth7wiMiEA",
+        "name": "Wood Cows in the Park"
+    },
+    "176fda96719f460d9aa8da65ae9d3977.16": {
+        "codename": "Q18",
+        "cluster": "Q",
+        "lat": 56.951874,
+        "lng": 24.11083,
+        "image": "http://lh6.ggpht.com/wXAX-c21Ylh2bL-SoHHaJGs2bCJIdzX47hRKfo_bw6ZsjgWSR3lapgmQLcpKF_xD8VkI8ZRTI5Msn_QKniOGYQ",
+        "name": "Zelta Zirgs"
+    },
+    "79558d8ccdcb440ca6fc35a46e49d306.16": {
+        "codename": "Q19",
+        "cluster": "Q",
+        "lat": 56.952683,
+        "lng": 24.109762,
+        "image": "http://lh6.ggpht.com/hw1RELKa1Oz3xcJaM99OQ_rkVl8pvWuSSmv_4kXjY7UT0elYEEiQ-hmqkAIGfR53KDL4EbNJqoklGk3zlyQ",
+        "name": "Vladimirs Gomanovics"
+    },
+    "38cf5b17c8744a41b1bb531c665cbe94.16": {
+        "codename": "Q20",
+        "cluster": "Q",
+        "lat": 56.952256,
+        "lng": 24.109415,
+        "image": "http://lh4.ggpht.com/ddfWcPaGShi2Xf1GzR_m3dDMni1-CBcroWdw3CLVlaLUKarxogO4ZdUy16wenMUtdLfZXxpZnx2ZQPx4mI90zw",
+        "name": "Man Фырфыр"
+    },
+    "d20d9fb3a5354948833fd839b2f1cf8c.16": {
+        "codename": "Q21",
+        "cluster": "Q",
+        "lat": 56.951266,
+        "lng": 24.110737,
+        "image": "http://lh5.ggpht.com/4x_XZLUDzesoP-4du30gKb_mK8QovN0NibmmnT9Pvjm-z-WmscNl1abKXllqlzyWvYd_xV5ZOp7w0YBaHJ9G",
+        "name": "The Nose"
+    },
+    "4a8c1641f0bd44ffa7a157953f5e6d96.16": {
+        "codename": "Q22",
+        "cluster": "Q",
+        "lat": 56.952051,
+        "lng": 24.109057,
+        "image": "http://lh6.ggpht.com/4epaObWVYTjkuOJlSTgrEC50Uy6ge113m3NlX7TOFU49Y0Lxv_BqRc785PcfzdSMaz3L_RNrSJdB1B6i9YkS",
+        "name": "Andris Slapins Memorial Stone"
+    },
+    "707767ddf12c4109986e71182e5c9073.12": {
+        "codename": "Q23",
+        "cluster": "Q",
+        "lat": 56.953002,
+        "lng": 24.109803,
+        "image": "http://lh3.googleusercontent.com/_RHmvzuQGyzVKfSmV5IRvg2Xja4dKhm7obiv2rhP_JfMB7WHhPmTXWfZyne_MkX9cBYYI_kX6nVlk_hJiOQFJg",
+        "name": "Monument to Rudolfs Blaumanis"
+    },
+    "2d084abf007e49b0a8d7265122970eea.12": {
+        "codename": "Q24",
+        "cluster": "Q",
+        "lat": 56.954096,
+        "lng": 24.108092,
+        "image": "http://lh3.ggpht.com/zy36ueaar1Oaa1HA2b0XKIaycrs4-DSo9a0a0QbLJp78ocyFft2NIx2cKFFhu_xN5uWvAusZ4oTh-BlRTno",
+        "name": "Kārlis Ulmanis"
+    },
+    "46118203af8049b0a2afc88d98dbfedf.16": {
+        "codename": "R1",
+        "cluster": "R",
+        "lat": 56.950406,
+        "lng": 24.112917,
+        "image": "http://lh4.ggpht.com/F-tFT_hI-yNqx7nR7VhWsOxu_Pe6ozoxiRwz8Ll6LyaMCCA-6P2p9RwbbjwMIEQtE5ZKZZL9TvPrVP8vVTy43g",
+        "name": "Maiva Baltina"
+    },
+    "fc7b277e1fc44962a7fe59a58d4935cb.11": {
+        "codename": "R2",
+        "cluster": "R",
+        "lat": 56.94952,
+        "lng": 24.113935,
+        "image": "http://lh3.ggpht.com/8rl-sW_vnt24UVcgV4i9QmUSPapWjSCObLwstCy95wO4EEIOY8v3WSJnR_Or6il4WcgoRVZJ63bksT7aM8Ltcw",
+        "name": "Latvijas Nacionālā Opera"
+    },
+    "998e3f6c6f7d438e803d05e957662a46.12": {
+        "codename": "R3",
+        "cluster": "R",
+        "lat": 56.950245,
+        "lng": 24.115277,
+        "image": "http://lh5.ggpht.com/eSYkwUCCwueiuS1wa2DqljHlA_vEcj_24qPKdTPzFsWV-BuiNYT6WpOlXwnwmSs-jbu5hSMFm8HFOyhv4Audh91-O6wrlt7jF4pSeJzc0IB3iMU",
+        "name": "Bust of Academician Mstislav K"
+    },
+    "a6af043874c645bf8c6cd78c8c4f4180.16": {
+        "codename": "R4",
+        "cluster": "R",
+        "lat": 56.949689,
+        "lng": 24.114971,
+        "image": "http://lh3.ggpht.com/ihqxxCa6zbsb5vVqM6etX5UPbgcCPLz8OdzZJzjoxPKtHkdgs2Cb_uxh8Tmkox4sLGauamCz70KJWt-fvpRlyA",
+        "name": "Viking Boat"
+    },
+    "4519b00a439045d6b86f6d958816ce48.16": {
+        "codename": "R5",
+        "cluster": "R",
+        "lat": 56.949904,
+        "lng": 24.114484,
+        "image": "http://lh6.ggpht.com/C7ZP7dECmdD9uDsKSeSy8KjCDtNGBUdoRsALRQb1Fl6lwmauqFOMXOTD9jTXkKRo39qLOhwZNQ3N6KEp1Acn",
+        "name": "Monument to Māris Rūdolfs Liepa"
+    },
+    "2d02bef35e054adfa666b16ff4303841.16": {
+        "codename": "R6",
+        "cluster": "R",
+        "lat": 56.950081,
+        "lng": 24.112965,
+        "image": "http://lh3.ggpht.com/BxRAtgKdrIyewyLbD9aLDG8pT89b1kVS3tbkuz23E9bFyY1O8wtMn3XEvW1HYlF0wmx_rjtrT2IAsZ5Yr0xKOw",
+        "name": "Leonīds Vīgners"
+    },
+    "7c06304d247d4479b89b27da51c91129.12": {
+        "codename": "R7",
+        "cluster": "R",
+        "lat": 56.94929,
+        "lng": 24.116191,
+        "image": "http://lh4.ggpht.com/w-rzSVW6gdUPMzT4dsYOMn_HJ8BmuwRmbjcFieaL6QeWfiLEL4Wa_qSPTMta0e5vD31bN4MYV00f3RS-J2bL",
+        "name": "Alfrēds Kalniņš"
+    },
+    "a3b3b83974c74badb89b6e955741e8c8.16": {
+        "codename": "R8",
+        "cluster": "R",
+        "lat": 56.950826,
+        "lng": 24.114583,
+        "image": "http://lh4.ggpht.com/DW4PR7Hg7mUdXk82UgXnXaoSgCPg_J6XKXxfPT2Xo06Xgdn0WPTzmqaK3eBOeMY7kdOUi2dldGbrPTnd6qG_",
+        "name": "Georgs Kufalts"
+    },
+    "0c76b9c6151f4149a50a7e33e58ab647.16": {
+        "codename": "R9",
+        "cluster": "R",
+        "lat": 56.948512,
+        "lng": 24.115243,
+        "image": "http://lh3.ggpht.com/WXnMhz3TARoFGsi_szMNMtXWaUhWD5K7MOpaIq_5k-CPbkmYieVe79IVq4N08fb-yEsh-n3cJYLpJcbi-58",
+        "name": "Gotiņas"
+    },
+    "056d64f9b8514a32bd771329844fadc7.16": {
+        "codename": "R10",
+        "cluster": "R",
+        "lat": 56.949693,
+        "lng": 24.116007,
+        "image": "http://lh4.ggpht.com/6Gax775pgK7YujijKJ-n5eBlWWHcrvw2XBOtrmn8iezeH-ZkSiJYo69j-Z88gOz6Z99ZtyA__eb96MhjEIOc",
+        "name": "Operas Strūklaka"
+    },
+    "a0b7b77c63bc4bbfa4b3c66a3727f915.12": {
+        "codename": "R11",
+        "cluster": "R",
+        "lat": 56.950211,
+        "lng": 24.114,
+        "image": "http://lh3.ggpht.com/Hs7eWV6ou-vaMQat-sJYlm-QPvaJV8BPx2yCg4QqODesX1xBU6yrpCCe68wjklnKqyE62Rjycn0fXKrv-2w0tA",
+        "name": "Monument to George Armitstead "
+    },
+    "bb2808ca9f684886adc96f0fe2018725.16": {
+        "codename": "R12",
+        "cluster": "R",
+        "lat": 56.950686,
+        "lng": 24.115438,
+        "image": "http://lh6.ggpht.com/qiJnFlwzbr_Qld3d7kVBLmy3Bh94yOW4oI4V6IoA9sIakgrY_P17_WzqU8IPSMCCcsk86-pmfMjsDHVizA_O",
+        "name": "University of Latvia"
+    },
+    "1469d34ca8d54e159cca1df15bc3ba0c.16": {
+        "codename": "R13",
+        "cluster": "R",
+        "lat": 56.951018,
+        "lng": 24.1145,
+        "image": "http://lh6.ggpht.com/K6pwtdtW1kJ_gYRwQe2ZTkI5wt3vCerLd2Z96ig3HxtGTBJOqDXsAFCNur4Pan6ZyCpgG-q7gAEr4eLeEaul",
+        "name": "Monument To Gstfdeners"
+    },
+    "e1a50c0d6bfd47ee8681da806362b1e3.12": {
+        "codename": "R14",
+        "cluster": "R",
+        "lat": 56.950235,
+        "lng": 24.113274,
+        "image": "http://lh5.ggpht.com/MC_ym6h-h4rXRgXsfRW_P14kh3JZmA0MgmqNbd_6aqrzkpD_tfXQwKzf3Woz4YJeLFk3dlDnX70r5bxPJS2u",
+        "name": "Fountain near Opera House, Rig"
+    },
+    "e0e324f497e24b6b9bd86059c7c45c9a.16": {
+        "codename": "R15",
+        "cluster": "R",
+        "lat": 56.950955,
+        "lng": 24.112906,
+        "image": "http://lh6.ggpht.com/-4Ehxu1gbXo_ENBxdlO4caUsD_xjCooyH8SraVSL9fr0UKyNfzWynkuaneq3MkbSYwDciU7ueXPPX-xvOY4V",
+        "name": "Lamp "
+    },
+    "d925a0a888b2439aaec9842b425758aa.16": {
+        "codename": "R16",
+        "cluster": "R",
+        "lat": 56.9503,
+        "lng": 24.116431,
+        "image": "http://lh4.ggpht.com/94MM20oVDw3GnbsShdNxnrxN8vgNrHsuH3pGwbSJ9GfF0atPYINQPOxTICsJkjVO2tzbOoUY0QXfg15PF9fS",
+        "name": "Head Of Black Lion "
+    },
+    "118831745bd945d699e7df76a02c8e5c.16": {
+        "codename": "R17",
+        "cluster": "R",
+        "lat": 56.950555,
+        "lng": 24.115724,
+        "image": "http://lh5.ggpht.com/1ZXU3D94ISEjvW2AOvb41RJ50rUr0fDuUQMkLBuSPTSCHqG3Lau_NlG3ogOXj2uLtO0kLKtbFJrrattAdo0rVQ",
+        "name": "Faculty of Computer Science"
+    },
+    "1bd71704e6b84551b46c6cd2ff5ed8ca.16": {
+        "codename": "R18",
+        "cluster": "R",
+        "lat": 56.951171,
+        "lng": 24.114918,
+        "image": "http://lh4.ggpht.com/UQDsHmOTeq0XSDm56fT8cYUUXSw0VAf7W9QOEZ7iYI1niwlEqZfGIGJiNO5-zTKiCsGxOhkeqy7qKb2Q9DaYiA",
+        "name": "Pudeļsieviete"
+    },
+    "5df46f6d3e854b26b14a01ea07216b3d.16": {
+        "codename": "R19",
+        "cluster": "R",
+        "lat": 56.949611,
+        "lng": 24.117431,
+        "image": "http://lh6.ggpht.com/30XOiMy3D7RkPotrM3kGhmeUTj_GJ9Odfk-sCVNrG9tHacwEIVWiamjHP2zmSTGr3uWLSCFW24R5urBZIXs",
+        "name": "Academy of Music"
+    },
+    "0a8dd202db1d4b2b8aa55b58e4801a3d.16": {
+        "codename": "R20",
+        "cluster": "R",
+        "lat": 56.951463,
+        "lng": 24.114656,
+        "image": "http://lh6.ggpht.com/c8yDW1IpA_tgxpFzSgXYIoe5BaKkMjHRmNRIh6PPX8lgreo0I5ExaXi5ydA1d2DhiMCG87JRh_nRvmP5zvJYHQ",
+        "name": "Vācijas Vēstniecība"
+    },
+    "9d7859fc711e4d868d281393c4e89963.16": {
+        "codename": "R21",
+        "cluster": "R",
+        "lat": 56.95104,
+        "lng": 24.112308,
+        "image": "http://lh5.ggpht.com/c4K2CmL-zZEmwLfFJCBt-oQMRMeJUMJ7o1Ie22NhiBbMF9upilO_4ioNmlpVgIL9yqXMEMsUt80fucrqbgQ",
+        "name": "Bridge"
+    },
+    "14356b3309d94094a928467f88340570.16": {
+        "codename": "R22",
+        "cluster": "R",
+        "lat": 56.950819,
+        "lng": 24.112639,
+        "image": "http://lh4.ggpht.com/elH4DMGzImF00QZStEBTwkZnHDLxZOPfRQ5WpAm-J_zVrRH7mhK7D5wB94FYaiAIwTFWI1DjCY904EPdNK4",
+        "name": "Lill"
+    },
+    "21681e2b77bc48f8844b621defd14b64.16": {
+        "codename": "R23",
+        "cluster": "R",
+        "lat": 56.9507,
+        "lng": 24.114193,
+        "image": "http://lh5.ggpht.com/AVdfNO5lHib1uZphCTGvKDbWmopmlIympPzd-hiaSTLvWdfd5LrWv8XIlI4qY2Uji2eNqpnAfdle2SE26F6R",
+        "name": "The Spring Lady in Opera Garden"
+    },
+    "e6eb93804b1f465284bf8f94ba0740ba.16": {
+        "codename": "S1",
+        "cluster": "S",
+        "lat": 56.951677,
+        "lng": 24.105708,
+        "image": "http://lh6.ggpht.com/ASM_HHFWfRN4bhHLz3alNrHnPx6KTIquXRI4JBCjAZ3LPfXQMoVATHmWmxqSb73sidZ9tNM5lxklHX-5kPRVlA",
+        "name": "Ģērbolis uz sienas"
+    },
+    "b1c39620167c4163bfc64666056c73a1.16": {
+        "codename": "S2",
+        "cluster": "S",
+        "lat": 56.95282,
+        "lng": 24.106045,
+        "image": "http://lh3.ggpht.com/Mmm3MFGUdKwYWhTdQMPel6b_4X6r12tw_NRcQnk8SA8tnRsN-8j3EBnB4mlpFLzNGOOEskO8QH62__4GDVON",
+        "name": "Alīda Vāne"
+    },
+    "14a7654f96e44ac6a51fa6ec908da489.16": {
+        "codename": "S3",
+        "cluster": "S",
+        "lat": 56.953401,
+        "lng": 24.106168,
+        "image": "http://lh4.ggpht.com/mZ_QorAMonW84Rl2jFclh__35xdJBRaU1MJOysi09l0A4hsul7DISz2DcFuLNOy6bWImPeZnDQmicPL27OY",
+        "name": "Bas Relief"
+    },
+    "2f59bd45e8cc40a4863af45775273a33.16": {
+        "codename": "S4",
+        "cluster": "S",
+        "lat": 56.951576,
+        "lng": 24.105132,
+        "image": "http://lh4.ggpht.com/0yL75VC079Fr20zU_NO1hGgNotU9uA_LYmJnScZJvlnp0aPnPDakWUgFybxfwf-VhXossPb_-LJM8K9iElPB8A",
+        "name": "Uga Skulme"
+    },
+    "95abc0438fb14661bbdb89fa703c9a68.12": {
+        "codename": "S5",
+        "cluster": "S",
+        "lat": 56.951662,
+        "lng": 24.104294,
+        "image": "http://lh4.ggpht.com/E4bAv0Us09UOtVE61pveDXJRCEt7GnVV-8SeJ19bNoziZgvFZ5jovOPmvFU5L4F95c1lHtpCfhTWd6H9gKAK",
+        "name": "Latvian sculptors exibition"
+    },
+    "263e1f88053a471ab42dc4e87ae17b68.16": {
+        "codename": "S6",
+        "cluster": "S",
+        "lat": 56.951536,
+        "lng": 24.105462,
+        "image": "http://lh4.ggpht.com/MRZtE4IPRx3eY2Yl_9naKj-nFBFxKmM_nOkL-Gw_mbtBrfa6-YujC4_SWBIoOeR6kTfctoiNm9XnCvmAgWad",
+        "name": "Krisanis Barons"
+    },
+    "9beebae1ccb14ed6b051794a39ee8f1e.16": {
+        "codename": "S7",
+        "cluster": "S",
+        "lat": 56.952693,
+        "lng": 24.105109,
+        "image": "http://lh5.ggpht.com/Esf1pr6QThHHPXs-rGo3ayZR4iOOXlXL8BZPwwv8ic51trqzNuaeNkF1s8jDxpPvIvT7YUM4H427CVPHcBGa",
+        "name": "Lily Wall Art "
+    },
+    "68f4911c88fe4303b1a325b3cd4e352b.16": {
+        "codename": "S8",
+        "cluster": "S",
+        "lat": 56.951679,
+        "lng": 24.103755,
+        "image": "http://lh5.ggpht.com/V2E2-KEZitzVl8eqwc_36dhA1nipYJzq52R40zNh3w3jwXXsL8MpXHrjc4ppxv4bPSAQK2YMBXOUpn3VbBk",
+        "name": "Lucijas Garutas portrait"
+    },
+    "c3b661a365664cfe8b1b579d372b0ccd.12": {
+        "codename": "S9",
+        "cluster": "S",
+        "lat": 56.951797,
+        "lng": 24.103371,
+        "image": "http://lh5.ggpht.com/ZhqB13egUpZ0lZ2Iq1-zIWka-2L5KqPl8_gX6hhfJL-a6ayEg0SYOF6E19kMvTmWMFcJ-lB5-IiV6OebTAahbg",
+        "name": "Galvas"
+    },
+    "f60bb3504c5a499bb1ec3e128047e6fe.16": {
+        "codename": "S10",
+        "cluster": "S",
+        "lat": 56.951725,
+        "lng": 24.102866,
+        "image": "http://lh4.ggpht.com/kDfixug1_iOQbJoC90T9jEm-ie7bH_WQB9hue083KkOMZIyvBlVdNLyuL31IpLVVO0hsOhGYZCZ9uP7QN48m",
+        "name": "Wingbells"
+    },
+    "1a296867423747c5a65a236c95b9d3c8.16": {
+        "codename": "S11",
+        "cluster": "S",
+        "lat": 56.95252,
+        "lng": 24.105238,
+        "image": "http://lh3.ggpht.com/8aENz3GSYhMBxXEjJkaQVvGHA2ndpPf0gYAtZwIZEK9n9mOPwiy2kuLUUrydHgFCw-Gvwcw-AgZduEXGvsv1",
+        "name": "Magiccave"
+    },
+    "53e69c71d7124b66a41cf694e56fccae.16": {
+        "codename": "S12",
+        "cluster": "S",
+        "lat": 56.951637,
+        "lng": 24.104772,
+        "image": "http://lh5.ggpht.com/HhFOm4uahTzZpCl7sOLiSKjXsxr4XOyCS73UIsucwQCKqw7wU3GyoqAY-XMHmUQKG8vzZhETK56y_HZSuak",
+        "name": "Boriss Berznis"
+    },
+    "42baa6ef5fc648dba918db2c2a81f610.16": {
+        "codename": "S13",
+        "cluster": "S",
+        "lat": 56.951489,
+        "lng": 24.102555,
+        "image": "http://lh5.ggpht.com/tAmOOk6icTdFZ6ys0BiNKv4zNAQ7C9thrLa69ddbEsVOIQCo1IjkYsJzOa8obsyUyTeR97B70nO7glDxTzk",
+        "name": "Literature And Music Museum"
+    },
+    "c2085f3b716f4e68bc6ec8c489e3927e.12": {
+        "codename": "S14",
+        "cluster": "S",
+        "lat": 56.951913,
+        "lng": 24.102072,
+        "image": "http://lh3.googleusercontent.com/qG1KndYy66_Yvm-8l4a26SVIHCoqrJocNDznkoHHNbYQS0VfHdDoQB_oN2TgMMy2l7EWIqaeftfgdUo8NqmO",
+        "name": "Abstract plastic"
+    },
+    "a331307932f84b31bab11ca25bf9b88d.16": {
+        "codename": "S15",
+        "cluster": "S",
+        "lat": 56.952268,
+        "lng": 24.104395,
+        "image": "http://lh3.googleusercontent.com/FtAY2wpF0fkaflFG1ij9CpQ2TWy9__ql035z51QZVWwRk8GZfm_-bBOesYkHlqGtdW7CcSgO5ODTIiRGMHR0gA",
+        "name": "Energy of Time"
+    },
+    "ac9f752000724f00be8345f39f5113e7.16": {
+        "codename": "S16",
+        "cluster": "S",
+        "lat": 56.952642,
+        "lng": 24.106179,
+        "image": "http://lh4.ggpht.com/4BEb5bc4iw41eJPzKfgYf6GK2XeSl4b6z-epjH-2CEupVZZ76X32CfKSk0nhv8QMzvpmg0TSUI-yr3h0jaU",
+        "name": "Old Building"
+    },
+    "a6fe7c83717e4cb3a7f99eb3151d607b.16": {
+        "codename": "S17",
+        "cluster": "S",
+        "lat": 56.952298,
+        "lng": 24.10528,
+        "image": "http://lh3.ggpht.com/ZTtb7Nwna7Niq1SVceJ7Ax1pzXa-TS21kJVAR3rwxB1nMMuQpn4iYhF6XUZZV9tMhTbzt9-RZimeTUTVrRv_zg",
+        "name": "Jēkaba 24"
+    },
+    "6ed09c7083a9404a9986af838ed4026c.16": {
+        "codename": "S18",
+        "cluster": "S",
+        "lat": 56.952386,
+        "lng": 24.106485,
+        "image": "http://lh6.ggpht.com/-PKTGoV4hAFCzc9UOeXRk8yM4Pr8li7ufjTpIhJhZmf_XrWCC4d8yVP5tDx7krTrAnby2gtmEMq2z00kDavbsQ",
+        "name": "Smuka Māja "
+    },
+    "15fbd31ed57847cc8a1a207887d2862b.16": {
+        "codename": "S19",
+        "cluster": "S",
+        "lat": 56.951191,
+        "lng": 24.102532,
+        "image": "http://lh6.ggpht.com/nOEFkhNYhp2rYXzSk4lUvOS0KcGtZJ3zOpr4nD5Pp0eBRIsEqi9KeNGKRVUZYV7T749uArM-LYHe4TJor46l3w",
+        "name": "Kristjan Peterson Memorial Table"
+    },
+    "8d406912e3914bb1a6b1bfbb9779e20d.16": {
+        "codename": "S20",
+        "cluster": "S",
+        "lat": 56.951335,
+        "lng": 24.105433,
+        "image": "http://lh6.ggpht.com/nl5PxJmWUZwnsZPDXUmAPNiUc07Pqf6FzcOfLRhxvRnsFgjVcSc9EYTCVMDdc6-GulvZUfB4SNK7PGUHYfo",
+        "name": "Horse Stand"
+    },
+    "b03a6b5c7bfe45e1a31ee3aca2b5d2de.16": {
+        "codename": "S21",
+        "cluster": "S",
+        "lat": 56.951858,
+        "lng": 24.10252,
+        "image": "http://lh4.ggpht.com/jhyoonjJW3bU72fjz2O_Rk73ij7WOilUCYqDQvwY6QC4OTb1tbPrpsF5FD9nIKUTkqF3SHRfhpllNW_G2dqbBA",
+        "name": "Latvian Bank Neogothic Style Bulding"
+    },
+    "36d99e11ba70434c8917fd555e2ba611.12": {
+        "codename": "S22",
+        "cluster": "S",
+        "lat": 56.951724,
+        "lng": 24.101182,
+        "image": "http://lh4.ggpht.com/8yLHtLwW3bJfBTMv590zxX-GB4zkQZMq-1ucFcauhBbLd-qCwwXMjib1wMce71P0lBDoFLv-53dSST53YLDMnA",
+        "name": "\"Orphan\", Pils Square"
+    },
+    "728b60468d88405e8b9662b0b6cc5c09.16": {
+        "codename": "S23",
+        "cluster": "S",
+        "lat": 56.95313,
+        "lng": 24.105626,
+        "image": "http://lh5.ggpht.com/ag5kcuHlMWbhSMsFDI6wnMaea0iWWT_NWeGMBHXpPMTL-TwZLmmPpscsO3__R62-pFK-yIUgceJt2pBlbjuu1w",
+        "name": "Historical Building"
+    },
+    "df300d1c95704a68aa2f16aba97ac049.16": {
+        "codename": "T1",
+        "cluster": "T",
+        "lat": 56.950844,
+        "lng": 24.1028,
+        "image": "http://lh6.ggpht.com/kVXFq_GJT5s07HCPFFKbQ6OaU5y1CZv3vogKkIoG6mcPOAWRhKxBpYmnu2grfWZllJqM_ozjfHGxLthAJ54",
+        "name": "Alus Arsenals"
+    },
+    "ee3bfe2c1a97482da46953f60e1a9cc2.16": {
+        "codename": "T2",
+        "cluster": "T",
+        "lat": 56.95122,
+        "lng": 24.09969,
+        "image": "http://lh5.ggpht.com/gPC6hCmb33IsfHB23Yz2EmeI9baFCwA-VIcxEfgUiE8Ot2iq8ibN4cg2MSEp5Y3GJ88nRfCbVHP-n70l0c4U",
+        "name": "Zana Brison"
+    },
+    "6079c406d8da4d139287394802ea87b5.16": {
+        "codename": "T3",
+        "cluster": "T",
+        "lat": 56.9497,
+        "lng": 24.103189,
+        "image": "http://lh5.ggpht.com/g8jOroo4Ra0qR7xVhI8aSmXJF2peuXuXW2fJ5MTKADOkyhkuG2q1JDW6e2-oLfnUgPxxfHIsqFDPX4EUPxUu",
+        "name": "Жилой Дом XIII Века"
+    },
+    "90289dc9b86141f9bdf94cd0496b9892.16": {
+        "codename": "T4",
+        "cluster": "T",
+        "lat": 56.950447,
+        "lng": 24.103513,
+        "image": "http://lh5.ggpht.com/hs2dQVgGMyNYzMvlxwGNblmDDQ2Xcu8K_wXClr4_i5aeQYCh2WmM9LuAKL07j2uPZfMxmBkVCDK1OGZK7dSM",
+        "name": "Old Writer House "
+    },
+    "880619388c66423fa1f86287439bb936.16": {
+        "codename": "T5",
+        "cluster": "T",
+        "lat": 56.950784,
+        "lng": 24.103728,
+        "image": "http://lh4.ggpht.com/S2qpWfhK-4-nDjGYyyFXouab6w-bHlZs8Y_grFKCyleCsHMVkYvdLpYlQdG1QA49imj4I0I3FZd3yaCFARg",
+        "name": "St. Magdalens Church"
+    },
+    "3123c8594753480facc2bd13e691998e.16": {
+        "codename": "T6",
+        "cluster": "T",
+        "lat": 56.950357,
+        "lng": 24.101861,
+        "image": "http://lh3.ggpht.com/bqaJIRajS8p29tGmanDSv4KGHL9OfRMieRYWp3K77-xSmpPdRfi2OV_cyXL5oiOIqYQ_fTanaL1lPxd5xFv9",
+        "name": "Saint Johns Church"
+    },
+    "2903ea2b80c4485fa0744b46803dbf46.16": {
+        "codename": "T7",
+        "cluster": "T",
+        "lat": 56.949523,
+        "lng": 24.102824,
+        "image": "http://lh5.ggpht.com/0NvBd5Wqd0lU33yBOUHJvI5WH8DNgKRFEbAJksqCpvng9LW0v_d6mUohgLJwZ_sUfqeZqQnEt2PmmLfG0D9_",
+        "name": "Жилой Дом"
+    },
+    "75a9905c787f4f62b07260d75c23aca4.16": {
+        "codename": "T8",
+        "cluster": "T",
+        "lat": 56.951064,
+        "lng": 24.102906,
+        "image": "http://lh4.ggpht.com/vRjS8PE2I3nEGsViFI2w6P1jJDTsRWGjz6wrITaLkEfuGjGmntYAgazV0XDa09B6V2kzklBI5QOUB2rMwK7b",
+        "name": "Noliktavas XVIII Gs"
+    },
+    "7cc42b0306414fb88c05771d531f9956.16": {
+        "codename": "T9",
+        "cluster": "T",
+        "lat": 56.949811,
+        "lng": 24.101522,
+        "image": "http://lh6.ggpht.com/6s2X0r9ida1PRwOkD89pGd9y-8fPs_Fd0ZEQPrvYR-i2oRnRObVlrlJN3AZBd4-rEW26m9AbSezA5bZqNdazaw",
+        "name": "Anglikāņu Baznīca"
+    },
+    "061f1ba760004e7a99cbe4451b08e9c7.16": {
+        "codename": "T10",
+        "cluster": "T",
+        "lat": 56.950023,
+        "lng": 24.102313,
+        "image": "http://lh4.ggpht.com/XSGLkLFFGRE9Ojvc68FN1eXfp9xQsl4Y1oFjfMXDshH16vJHhC_tpu_0z_F6S4jikKj9UngW4J6mW-YcpqV2",
+        "name": "Kipiani"
+    },
+    "d8da8d90b9ff431988c051879924b719.16": {
+        "codename": "T11",
+        "cluster": "T",
+        "lat": 56.9507,
+        "lng": 24.10167,
+        "image": "http://lh3.googleusercontent.com/pSbVRdYgUtSAwET4L9OZc02r8Hzz2BnLnHVvmzJmiFXLFwgmkqceLBd-8wdL2lQuOSUK15AQ7l7SjVQLxCbd",
+        "name": "Latvian National History Museum "
+    },
+    "5d30c8422baf495690c8dbc8f2a223f7.16": {
+        "codename": "T12",
+        "cluster": "T",
+        "lat": 56.950876,
+        "lng": 24.105284,
+        "image": "http://lh5.ggpht.com/S_3wK320_jE-7aIkTVym-46oeD7da8vZwV5pR1X-7Ti3R4s8Whv4pISKnnhEPWabFXmtlvv4VFHtogoG57ox",
+        "name": "Barricades"
+    },
+    "e3bd2165fe5147278404d49bb5da0a8a.16": {
+        "codename": "T13",
+        "cluster": "T",
+        "lat": 56.950861,
+        "lng": 24.104879,
+        "image": "http://lh3.ggpht.com/KovOO-aUlf2HnwCQBsOuZA2kp2cipGtn_hnW9L4UbvOG2unGBs7p7jHTxU3m0zI7FflGe8HsePvBUQfzrwfB",
+        "name": "Francis Trasuns"
+    },
+    "e1ab8813e47e46c99ca8ce5ae24e0289.16": {
+        "codename": "T14",
+        "cluster": "T",
+        "lat": 56.950223,
+        "lng": 24.101097,
+        "image": "http://lh6.ggpht.com/W1RkgudDP7iTR0XWmsYkuTaB_LPHto19FyKTrQcZCxQG1UIHBRpti8id3ALkRaPXUle1mjstfloecv_44l1P",
+        "name": "Mary"
+    },
+    "a248ca4ef9f04fa7aae01f1f65d57046.16": {
+        "codename": "T15",
+        "cluster": "T",
+        "lat": 56.951025,
+        "lng": 24.103328,
+        "image": "http://lh3.googleusercontent.com/VLs84YYshLFwntZWJif3vk6tKdvJdFNaccOD_ElSgLX28pWqg6WBTevNL0uNbI7uofK21kQsgyn4mGSeIFSTSQ",
+        "name": "Ķirbītis "
+    },
+    "372a29ca3c13498da8453c751296add7.16": {
+        "codename": "T16",
+        "cluster": "T",
+        "lat": 56.949981,
+        "lng": 24.103537,
+        "image": "http://lh6.ggpht.com/eG3jBr7Y88sJUpC-i-0owcJx4e9_UaUAwYAt-P35jvCojtFsJT9lnZLk2UYQoJUNorTACfI0W0De5hRASaM",
+        "name": "Naked Lady Statue"
+    },
+    "88e2b2877e32419885a4a2bb6352d7ec.16": {
+        "codename": "T17",
+        "cluster": "T",
+        "lat": 56.951023,
+        "lng": 24.103776,
+        "image": "http://lh3.googleusercontent.com/M8H8hCp0B5hhZrf8dRzaIjbgc2nXKPm2NCZ-2ksFcQzVrr__12_q6dPCtzeWKYMTxVv_8E93qMx5SAdBYRE",
+        "name": "Lūgšanu Māte"
+    },
+    "96175ae8278f42d3ae5cb4a32b8e19f4.16": {
+        "codename": "T18",
+        "cluster": "T",
+        "lat": 56.950727,
+        "lng": 24.104115,
+        "image": "http://lh5.ggpht.com/JqL87kf6ZNTf6az_u8HtMGOPydEjvW2FPzo18fe7lLs6nKpG3gn_gv5qc1oR9kAM0RMJTAfCog70TnAUJu5c",
+        "name": "Saimniecības Ēka"
+    },
+    "3786cfeb55f6401690b015f41bd7c58c.16": {
+        "codename": "T19",
+        "cluster": "T",
+        "lat": 56.950482,
+        "lng": 24.10242,
+        "image": "http://lh3.ggpht.com/d8cQFpYL16x0ziBs_SAqmrlpT7w0h9R9YCuLush7kJycXdUHu54DpD7gds2fLxif4BzC0bsdQYMQOWFX6VVA",
+        "name": "Brolalis "
+    },
+    "9fa64acd558f40899365367e8dcd23b4.16": {
+        "codename": "T20",
+        "cluster": "T",
+        "lat": 56.949236,
+        "lng": 24.102922,
+        "image": "http://lh3.ggpht.com/tkzpSzR7Kdef4SORgHvJkYYOk8b_RdAEePiIlt6ySAwftmD5ukBM1oZPECu-l90_qiVzB-VSrb059ZOY25A",
+        "name": "XIII-XVII LIVING HOUSE"
+    },
+    "09f5dd0a20cf44398c8229f4864e3fc6.16": {
+        "codename": "T21",
+        "cluster": "T",
+        "lat": 56.949521,
+        "lng": 24.103468,
+        "image": "http://lh4.ggpht.com/GwtrvQyRxtTHEhgGv6l92fFqOk-pA7iRIge2GaHU3rX1WWNbNu2CFz_4i9STVsSkTUCez5fsCbFzs-gVjEPX",
+        "name": "Lions Ornament"
+    },
+    "6dfbbfc163c748adbed4374c9bfc52a5.16": {
+        "codename": "T22",
+        "cluster": "T",
+        "lat": 56.950492,
+        "lng": 24.104924,
+        "image": "http://lh5.ggpht.com/kDNsggYOYwqGcrEKALApIsjXNcdG2xb7XjxgyCFdkcLxk8-ms3hn4chvAAzhGk4huemHuATm2wreBBkn6DBv",
+        "name": "Johan Christoph Brotze Plaque"
+    },
+    "1d42310486014bd487dae81f8d0944c4.16": {
+        "codename": "T23",
+        "cluster": "T",
+        "lat": 56.950411,
+        "lng": 24.104187,
+        "image": "http://lh3.googleusercontent.com/3UjxXRPev95Yx08-YAcmSHH36u8fGL6MJQQbi4AHHrYI6bHr82_l_zvkhJOua6gfjfHg_OXffnWB4maItXi_",
+        "name": "Trīs brāļi"
+    },
+    "dde81a47cac64517a9d2713f3dc920a2.16": {
+        "codename": "T24",
+        "cluster": "T",
+        "lat": 56.950826,
+        "lng": 24.103316,
+        "image": "http://lh6.ggpht.com/Hp2bBmE3vwxd-KjfcJb1ShBhkQE13Ml4C85jp-wNQIeQgme0gGu7UmMgnxU6TWoCV076raTuXnEDM1wlLqdL",
+        "name": "Funny Ribbon"
+    },
+    "3610b71d769e49b69f45d80857f9fe42.12": {
+        "codename": "T25",
+        "cluster": "T",
+        "lat": 56.950887,
+        "lng": 24.104277,
+        "image": "http://lh3.googleusercontent.com/XL4_eyXkWK_XmeWfbS0xuWoNmw07CzTB06qw_rk0BHI3kOAdnNlVA8c75xhWGQomhAEEmhycKskhum1o1jaa8w",
+        "name": "Old Riga"
+    },
+    "d38123cf9e4f4710bd48af5f87cb36f8.12": {
+        "codename": "U1",
+        "cluster": "U",
+        "lat": 56.951274,
+        "lng": 24.108949,
+        "image": "http://lh3.googleusercontent.com/JDoTsq43JlU0gIP2gQvJyGKnEVQTmJ_IcqoLJA2-YekHFGJcuLFZPTggr5Yex2kYYefmmzrRjvqaR1SCU7b9",
+        "name": "Horseman"
+    },
+    "2d8d261e0a954fe88f486e8c726177e1.16": {
+        "codename": "U2",
+        "cluster": "U",
+        "lat": 56.951042,
+        "lng": 24.109183,
+        "image": "http://lh5.ggpht.com/TWJ1dpq3IT1bkHpM0QTbmVUq_wyoKVyDGqxKioloW3SQrCA5lTfXRYKNSAcS0He26-ikYJmgC7UNZ-ZHgoY",
+        "name": "Statue Of A Man"
+    },
+    "aab4f96bc1ee4a80ac6de8ac6963c2b4.16": {
+        "codename": "U3",
+        "cluster": "U",
+        "lat": 56.951431,
+        "lng": 24.108493,
+        "image": "http://lh3.ggpht.com/zTETiedigFImOH54veHCO7esbX9SWd-S4knuUtwPW7wciey4g075kmu5As3-vFjxE4YjrayXLz1IXotIlpN0",
+        "name": "Shot Cafe"
+    },
+    "7f3b8ca0d03b4a79b56d618d27bf63fa.16": {
+        "codename": "U4",
+        "cluster": "U",
+        "lat": 56.949543,
+        "lng": 24.105166,
+        "image": "http://lh3.googleusercontent.com/94EjgCjZ2jgQ7brskU9Vh_cEfjeQZ9Zb3hP7vtO1BRn_ffBj6_ZdN4lJsNYSIftRqyUyCcNs4cVWVr6CKBCq",
+        "name": "Rīgas Vēsturiskais Centrs"
+    },
+    "49ffcdf4055d4a25912f04c580b9f7c2.16": {
+        "codename": "U5",
+        "cluster": "U",
+        "lat": 56.949885,
+        "lng": 24.104632,
+        "image": "http://lh4.ggpht.com/er0a-J4plR5Z9WtQrcAXH61Dtv-xrQf4xC_RKS3k20MpAgFVZHZkN0y-viu30QzrDhfBw_GsJbny9xGHZPYA",
+        "name": "Birža"
+    },
+    "f1a2a7051579425c9deaf6d37091a025.16": {
+        "codename": "U6",
+        "cluster": "U",
+        "lat": 56.951134,
+        "lng": 24.106458,
+        "image": "http://lh5.ggpht.com/LhOT-OkHXyrhZ-8R1ik5HkqhKi-6g7ta8Y25WtAamkgd0HeTPRYrvW1G3NeR_yJCMiBybDbX_7foHkznY7Yy",
+        "name": "Māte un meita"
+    },
+    "ce1bb05460324e6690af63de7cee36e8.16": {
+        "codename": "U7",
+        "cluster": "U",
+        "lat": 56.94988,
+        "lng": 24.104197,
+        "image": "http://lh3.ggpht.com/raBNG_fltzfzWvymnlHuozPEEuNFomSmumtnYRi08vW64HURYMb2UbakZqG3_eeWZwSyi4fv-17H7M4lwe05",
+        "name": "Вывеска"
+    },
+    "c2991e329e464ae6a3cc14b56dcb7a62.16": {
+        "codename": "U8",
+        "cluster": "U",
+        "lat": 56.950074,
+        "lng": 24.10482,
+        "image": "http://lh5.ggpht.com/CapSnu2fmj5AkFJNysWS9asmUwd5TgZrgtSagVUj08flRas8MLSW7uqA6OY5pPCHb0panOcyfltuSaxTw1vj",
+        "name": "Gondola fragments in Museum Rigas Birza"
+    },
+    "4e5a1c475ae140f085c917cce57b6c71.16": {
+        "codename": "U9",
+        "cluster": "U",
+        "lat": 56.951634,
+        "lng": 24.106634,
+        "image": "http://lh4.ggpht.com/ganLuNrzgk1gZBXDLYsdXrHuTn7yoFqrer_Hif8xSHrK3HN_xL_cUglTCA9s3ThsKavRXxX25RU9dx6LZNs",
+        "name": "Roses"
+    },
+    "7c4d3cc952fa4bc8adc49baca011f09d.16": {
+        "codename": "U10",
+        "cluster": "U",
+        "lat": 56.951091,
+        "lng": 24.108707,
+        "image": "http://lh5.ggpht.com/dV7ZP9BAOFvNUg0_h7-JcD1XEWoo93UP5Viax2xAPtAgAoaUyg3nTLFkViT3vtRm2rSUoRcNZwDQHHHzXcM",
+        "name": "Powder Tower In Old Rīga"
+    },
+    "141e4f9e3a2d47e9900988ec21b8765e.16": {
+        "codename": "U11",
+        "cluster": "U",
+        "lat": 56.950162,
+        "lng": 24.105867,
+        "image": "http://lh4.ggpht.com/XzQx7NePdm5YRpX8dF4Kj6637cokqcpj1EfuUR_0ZeGNXKRFl9_l6q9jy_0FHP1f1RQzZxy0EhQX_Y_b1y5EXg",
+        "name": "Freemasons"
+    },
+    "a8e9e42b2d634a639795f8b1ec084b4e.12": {
+        "codename": "U12",
+        "cluster": "U",
+        "lat": 56.951449,
+        "lng": 24.10726,
+        "image": "http://lh4.ggpht.com/0h0NZTh2MdPZg0-FlZFrz3eQuJtXByq9V-wbnEeZ1tzcOrUcJpOJc71VlPp2b0gvWJNiZVlQRYJvue_PUbbFjQ",
+        "name": "Tower"
+    },
+    "42e3c114942d44988cfd45c4cfb3b5ec.16": {
+        "codename": "U13",
+        "cluster": "U",
+        "lat": 56.949638,
+        "lng": 24.106268,
+        "image": "http://lh4.ggpht.com/77ue0dawr20843r47DKGQy1okKfuATusOL3w1RiuoPTi_rLJXvJng6ZlLt4HB-3M4BbUBkdmSHqTJpYIXHUJ",
+        "name": "Dzivojama Eka 18th-19th Century "
+    },
+    "6ce5fedd729c430bbf0d159bb7a79996.16": {
+        "codename": "U14",
+        "cluster": "U",
+        "lat": 56.950244,
+        "lng": 24.106234,
+        "image": "http://lh6.ggpht.com/mN3OqKWvklgWyITY-9skNNqalIjJrhVrjc1xeaQ-9_76b2PLwZIetGfBMhIgVyBATORJd1xrrLBesdT0cZw",
+        "name": "Roof Decor"
+    },
+    "765c7edc2aa44084a8a6165c8d87e7ba.16": {
+        "codename": "U15",
+        "cluster": "U",
+        "lat": 56.949374,
+        "lng": 24.105034,
+        "image": "http://lh3.googleusercontent.com/gLwtgtKS7IhsHMolEi16xsTzK7dFbGdVRz8m159XJ1yuYDJyoSbggQQVsXnTeOO_-Pw4Z0CDjGTRckVhKNI",
+        "name": "Old Vikund Boat IX Centuri"
+    },
+    "eb1156d1ba824c7fbfc1893d55bdb6e9.12": {
+        "codename": "U16",
+        "cluster": "U",
+        "lat": 56.949811,
+        "lng": 24.105632,
+        "image": "http://lh4.ggpht.com/_c00sEwFCbaW_ew3yewX8XNrzqapmmT7ZWtxPZItmp08XedvlKQS6zAJApvxAY75HL6zugOrhAyPaL_x-hfk",
+        "name": "House on Pils Iela"
+    },
+    "0e282b794c2f4790a9d225befb4fc96d.16": {
+        "codename": "U17",
+        "cluster": "U",
+        "lat": 56.950376,
+        "lng": 24.10655,
+        "image": "http://lh6.ggpht.com/wzO7XqybaBec5LYZXxWOmLfSlphHQwL6rEr1obWjDA_NO_TmjsN7yKxIF3WS14GK3Xk1KljYMtSfvsZYX3ao",
+        "name": "Eņģelis"
+    },
+    "5ad4d4c6ba93417cb5d0658df0ec8141.16": {
+        "codename": "U18",
+        "cluster": "U",
+        "lat": 56.951201,
+        "lng": 24.107814,
+        "image": "http://lh3.googleusercontent.com/608zq8GQeiVLDfCBr_mXBEfUpRkMfZGnayd_mZJtDKIhfNfzcvxk7jFj6xmkDBPwse0vO3u6YVVoEugehJOr",
+        "name": "The Ghost"
+    },
+    "0e654d45e998499dbc2403c7e379a2fc.16": {
+        "codename": "U19",
+        "cluster": "U",
+        "lat": 56.950548,
+        "lng": 24.107108,
+        "image": "http://lh6.ggpht.com/tdnIJU_3bpZrYf3suvLY_Y8B8MFL3hUuzVVlTZWdWP7GC3zsOUd4-PghFzLqTkPzMg-RUqK09lgpgPRMYhNs",
+        "name": "Plaque For Verners Bergengrins "
+    },
+    "2e0eb7626d5e4f8b99f6b36d7ebf00c9.16": {
+        "codename": "U20",
+        "cluster": "U",
+        "lat": 56.951408,
+        "lng": 24.108,
+        "image": "http://lh3.ggpht.com/aJg1JGmPwUOS3SynGhNdhUSPIaGFAuhp0wbVCAaubTZxJArgACuxfKBHoBfz8hNGvM5fDiEtwOstY336o0IS",
+        "name": "Riga Cannon"
+    },
+    "11c5f565daf64ba5b7538377f064a0d9.11": {
+        "codename": "U21",
+        "cluster": "U",
+        "lat": 56.951411,
+        "lng": 24.106312,
+        "image": "http://lh4.ggpht.com/2VR90QxyJI4zmq3jWI-XAls-OPajuX6cwK50ezvgqU1n2qCtJ-7joyWRwuqowN363Zy5adQdkXyaNAQBBwFKBfDTOnOp47oAJ6_mYosN_aS3M0IIkg",
+        "name": "The Swedish Gate"
+    },
+    "0543acab983749659242db9f832634aa.16": {
+        "codename": "U22",
+        "cluster": "U",
+        "lat": 56.949896,
+        "lng": 24.105309,
+        "image": "http://lh5.ggpht.com/K9XkZ0fUcW164sZec_SAZpPQDeYkK2AWbPg4_7zZG8RE_59LE8B4CZzgLsgQqXkZFBk5bOTnXo-fdKpP2NeV",
+        "name": "Bourse"
+    },
+    "e9387f99037044a3adfaf8a42f57b274.12": {
+        "codename": "U23",
+        "cluster": "U",
+        "lat": 56.950078,
+        "lng": 24.105386,
+        "image": "http://lh3.googleusercontent.com/YGq6YYvnb8EWwopyXgwWm293SywjiWAeHD2vHmagSanosxmeGajzsSqOnOuuyC9wSulK74VeV9ufXZYJbT4T",
+        "name": "Rīga Doma sguare"
+    },
+    "4cde61adf98942dfb2544149635d5508.16": {
+        "codename": "U24",
+        "cluster": "U",
+        "lat": 56.950881,
+        "lng": 24.106326,
+        "image": "http://lh6.ggpht.com/JdDgrWFQScEUEnQ_9h8PmF0i1-DN_CLCX9qvOyxdQPbgw_L90sT9uhdcc01nq6EJesKWrthMLrKIiN5nH42AAQ",
+        "name": "Exhibition House Reveal Riga"
+    },
+    "e2e164908a6f401480f2706948c15a06.16": {
+        "codename": "V1",
+        "cluster": "V",
+        "lat": 56.950714,
+        "lng": 24.109508,
+        "image": "http://lh4.ggpht.com/-rtiXYvRfmdccx8-7TgqSYNkG2e1GgAx6N9LRme1xZVd6naMCdocByo8ECff2YeEoe4GsBYWmxy4UPPOwR-aBA",
+        "name": "Herberts Tīmers"
+    },
+    "4730a1b79705495fb4c96d3d8222099a.16": {
+        "codename": "V2",
+        "cluster": "V",
+        "lat": 56.950512,
+        "lng": 24.110145,
+        "image": "http://lh6.ggpht.com/GMRrrRXNjvAhmYBQQeveQbecI19H9lVsgel6Oxp0K09JxjS8RcQXBaEr8u5XFnSCAa8uyxpp-e_NBiv8WJI7",
+        "name": "Simba"
+    },
+    "306e8741e8284be0926775374d9f0619.16": {
+        "codename": "V3",
+        "cluster": "V",
+        "lat": 56.949859,
+        "lng": 24.110792,
+        "image": "http://lh3.ggpht.com/vBYSa5_Vx42BQ-5NTJN0WjFJT-cwaIYvzs3cWXY5y228MLO4P3XNH6I77BaN1EslVQdsV6Y7hmAaqbikxzNe",
+        "name": "Burlesque Cabare"
+    },
+    "7932c654443f4602b0e6c3ee93c72966.16": {
+        "codename": "V4",
+        "cluster": "V",
+        "lat": 56.94976,
+        "lng": 24.108911,
+        "image": "http://lh5.ggpht.com/dXkmVZ6mOVfQemICWWZY32chzHRHFsE_tt7HXmY7Q12-JT4paqUUBWDBqJe-GNS6QNlrBF78rx4AXHtCLWxY",
+        "name": "Face Stone"
+    },
+    "1388e5497d7c44498d6d9301ebc9a95e.16": {
+        "codename": "V5",
+        "cluster": "V",
+        "lat": 56.949481,
+        "lng": 24.110251,
+        "image": "http://lh3.ggpht.com/nOYJ4-rCDvu4NvU57qt4G3bBuHgBP3UFbT1HToU6UjhPxNWmoGOr76jlix-eq6dJWuQbnTKvkfFDRUaptldY",
+        "name": "Lion King"
+    },
+    "8a6eb586807945f494bf8a7b7a92fc81.11": {
+        "codename": "V6",
+        "cluster": "V",
+        "lat": 56.950553,
+        "lng": 24.10907,
+        "image": "http://lh4.ggpht.com/wf720q-XV3ESU-eHd8YOYeGNoqk6AvQLXz8_AQyW46gyas1AJiH7uSG_5yuPAtshIrYH19H611ADPDobPaBKN9EMcug3FL8jXUqjXOEZBI7BbsE",
+        "name": "Golden Knight"
+    },
+    "c0b6989901c1444bb6337d805e7db94c.16": {
+        "codename": "V7",
+        "cluster": "V",
+        "lat": 56.950571,
+        "lng": 24.112326,
+        "image": "http://lh4.ggpht.com/pwyts2G-1HedYES6tNY6h1cVVr9FBVsVbMY-Jf0A-oYa6JQLvVchgks-jcpk50fM8-2Uc8RlYnnvi_kQUkwY",
+        "name": "Kolonāde"
+    },
+    "2971a2dd67f24ec7ba6848dc8eebff87.16": {
+        "codename": "V8",
+        "cluster": "V",
+        "lat": 56.949676,
+        "lng": 24.110436,
+        "image": "http://lh5.ggpht.com/BRgvmQLZ9d8wYAT1XJkTvBEQSEWtp2z0NO2I0QrBc_A1-co_Z27uwAgdqFBsv7kv7NVFkR6zr7yca-iNMWdv",
+        "name": "12"
+    },
+    "263d2e831c244aa3b7f6c800d5a6e944.16": {
+        "codename": "V9",
+        "cluster": "V",
+        "lat": 56.949146,
+        "lng": 24.110151,
+        "image": "http://lh3.ggpht.com/Wz9ZrzFom9X739aE1Hu6QstqGeoMm3LmtawfvrvTu8rBIpZkl7j2jUMdk_mwW71du4AU0aqsASsJFlQYd4A",
+        "name": "Free Space for Your Ad "
+    },
+    "232b0efbfa3243d1b92798a9346e19e7.16": {
+        "codename": "V10",
+        "cluster": "V",
+        "lat": 56.94887,
+        "lng": 24.109115,
+        "image": "http://lh5.ggpht.com/fyVYFkGGv3XhEY5NgMrqbD4bJGP383C06sj0L0awc6nNVA2fE8sl65Zq4Ey7ihdUxJ7oIhD2yYhaAEL4kLXM3g",
+        "name": "Третье Рижское Общество Взаимного Кредита"
+    },
+    "33d3cc65d4d44d8399f994808dfe0644.16": {
+        "codename": "V11",
+        "cluster": "V",
+        "lat": 56.949606,
+        "lng": 24.10966,
+        "image": "http://lh6.ggpht.com/kwdHKDKdl29GONpPU5td4xvPCfdKipOIEBDsTQXiq-GO1yyI8aGPC-G5tM3y_dLjuc2BCxP0eaG3iMj1hsc",
+        "name": "Restorant Kaļķu Vārti"
+    },
+    "1e934a67d5b641fc9aa9136b6216ee82.16": {
+        "codename": "V12",
+        "cluster": "V",
+        "lat": 56.95002,
+        "lng": 24.111024,
+        "image": "http://lh4.ggpht.com/mhvybNWfsc1H-ll_CU4jxccG2oZ0ayEJq1ePWmSHKcMbZUa9wClwniPTABzUoqu_zI-nf3H9k6oO9ztDXk1e",
+        "name": "Baltic Way"
+    },
+    "f82a945a273e4c08ab8c94adcba057a6.12": {
+        "codename": "V13",
+        "cluster": "V",
+        "lat": 56.94902,
+        "lng": 24.109579,
+        "image": "http://lh3.ggpht.com/kLLzWNXHvIX_KbE0KJCotFk2smw_BNZYDoI5xm1EvEpezcbgb3-vn0VuO9GJg1Y17ZoFaUf_A3bSBifuZdO3yg",
+        "name": "Riga Russian Drama Theatre"
+    },
+    "d4ee41d6584b4f83b3680c9709fa2e20.11": {
+        "codename": "V14",
+        "cluster": "V",
+        "lat": 56.950388,
+        "lng": 24.111964,
+        "image": "http://lh5.ggpht.com/PAlMdql61GR6lC1xuMuLPBf2j01aQrGj_oiKxdh1t0wAgXhuArCxb9cPby99NG-9RoQ708ehqZYkztbNTre9pDwNQK5-4qQ_fzC9gmw8Nb663HxMXw",
+        "name": "Laimas Pulkstenis"
+    },
+    "5350f05316df49d6ad85642aa1f963d0.16": {
+        "codename": "V15",
+        "cluster": "V",
+        "lat": 56.949911,
+        "lng": 24.112199,
+        "image": "http://lh5.ggpht.com/yRAc4LjTY4jGkqVCQTUCI5j5y5CeBrFOJa-irrGGdvZeWQuneKE-R9SDEQinGVggaiS8GHFY2sJdJoEruSYO",
+        "name": "Grosvaldu nams"
+    },
+    "cff6b4a7372f4b83847bd83df3183b58.16": {
+        "codename": "V16",
+        "cluster": "V",
+        "lat": 56.950129,
+        "lng": 24.111705,
+        "image": "http://lh6.ggpht.com/-w4HkcyKsvi-dc7dXrDCWKhWDZPVx2ggecoMgnihuiVyHY9cQcks10lUh8Pggg5VOy2q7hsDi97qlGUFuRKgwA",
+        "name": "Royal Norwegian Embassy"
+    },
+    "689eaaff9ca747b6b3b045e61b0f507e.16": {
+        "codename": "V17",
+        "cluster": "V",
+        "lat": 56.949382,
+        "lng": 24.107579,
+        "image": "http://lh5.ggpht.com/VyPbUgzU9pn0vRhzoM8vKzTFTKkKMwQSbrZtXG6WrkbRPQrCKSgy4nfmsEVRsNxzxTGvfPmkJiUXl3aL47M",
+        "name": "Black Snowman"
+    },
+    "d822dbca25d44b08ac93a51ac8de8b74.16": {
+        "codename": "V18",
+        "cluster": "V",
+        "lat": 56.949888,
+        "lng": 24.10741,
+        "image": "http://lh3.ggpht.com/9k1NiIZ40sP7y1dwq1huVkwBef7AW1gNu2u7xDFa37k46iRe4KTXyiA1ZLeCindnFVl5CD58ZG7XoqVqC7A",
+        "name": "Old Town House"
+    },
+    "5c9a71a3528b44588f6f9e7dd50c2a0a.16": {
+        "codename": "V19",
+        "cluster": "V",
+        "lat": 56.949549,
+        "lng": 24.107784,
+        "image": "http://lh3.ggpht.com/QSyN8xErLGluVwlHKtlwnFEIgr4h1Genb9-zy1HuzAWYe2nw0huhG2W8uEfa0GgNIhI2g6n1IsChS4zZorN1",
+        "name": "Old Tower"
+    },
+    "c1d9d2217b984f1eae0fc4077c2b9538.16": {
+        "codename": "V20",
+        "cluster": "V",
+        "lat": 56.950372,
+        "lng": 24.108483,
+        "image": "http://lh6.ggpht.com/sjkY5noZeuoUGXKzUq7HmllTI5ks3MvSeKoYHrXPG7-RCVGz3zi_88x244tKWU-An08G0l0QIeSlmapZNf6F",
+        "name": "Clock Light"
+    },
+    "4fa389d7dfb44e6fafdba6a590abbba4.12": {
+        "codename": "V21",
+        "cluster": "V",
+        "lat": 56.949493,
+        "lng": 24.108356,
+        "image": "http://lh3.googleusercontent.com/yP51C9GcC1HgMcXBzrfpv1N6Q4yiNCLKyAep6eurR4-jg7GYKOswmmbUD1uBSS5BHrvKFrEvVDwYR8tXdusa",
+        "name": "Mazā Ģilde"
+    },
+    "4c2bca94a11a49f599f8d953c3ceca51.12": {
+        "codename": "V22",
+        "cluster": "V",
+        "lat": 56.950083,
+        "lng": 24.108403,
+        "image": "http://lh3.googleusercontent.com/zyxY4yKuHN3LjeLxdDgZ8AgKE1rypysdLlhI6hjcVW39CUOv_5r4PxoH3beOEgKdjoFAfhFLSTh1ajtkuVRU",
+        "name": "Cat on the Roof, Riga"
+    },
+    "cbad0541630a46aebee03a9eed254f03.16": {
+        "codename": "V23",
+        "cluster": "V",
+        "lat": 56.949792,
+        "lng": 24.108313,
+        "image": "http://lh5.ggpht.com/evYfzCbD5SXdiIKgQ_1QH0V1cAY4HcOe1vYTSeocyne_5RF83MXOwS3nu7JrOViEMPDbPGbyGgXx1NZJOO6s",
+        "name": "Lielā Ģilde"
+    },
+    "a89f792c2f0e47b2ab24c822c24dfc0d.16": {
+        "codename": "V24",
+        "cluster": "V",
+        "lat": 56.949236,
+        "lng": 24.1087,
+        "image": "http://lh4.ggpht.com/C_GEFs_qJsupWEeeuYeV9o6oVHfsgPBPSPGhGrevKN5Zo1p_ko41hDeYBxFVRJesi7bWED046Cogcginpc-O",
+        "name": "Blue Cow"
+    },
+    "33571c4630bb4534adbc754546394165.16": {
+        "codename": "W1",
+        "cluster": "W",
+        "lat": 56.948392,
+        "lng": 24.109565,
+        "image": "http://lh6.ggpht.com/Xvj647Bjdo6Yj6zA4DJ_i3AqVtTk3SxqrXHbQzAIE2RPWGtSofzTCpmvy6j6epFkDoJdaMbedw-xHOHpVQI",
+        "name": "Wooden Instalation"
+    },
+    "61b87e07715c4366b10568a70adefe57.16": {
+        "codename": "W2",
+        "cluster": "W",
+        "lat": 56.948938,
+        "lng": 24.111407,
+        "image": "http://lh6.ggpht.com/4BWRyfLlX27PuMg8wizS2L7MMvfNIGavOabP1Yc_gt5005VPMOV7KoHyfxRl7cdNwyMNItKp8n1VGF0T1lr4",
+        "name": "Almost Castle"
+    },
+    "4a3f245344334eb3808e9f3c558a0110.16": {
+        "codename": "W3",
+        "cluster": "W",
+        "lat": 56.948776,
+        "lng": 24.113284,
+        "image": "http://lh4.ggpht.com/lfBLA8bzLHt09NnoVYOZKSC3brYuPHm98D9rLuD5XpHndWwj-NNjZa6bXxHyNT2Zougn__Lda3tdt9XKQDD96g",
+        "name": "Pūce"
+    },
+    "f6f0e48082b44d33bf9d9d22609f49b2.16": {
+        "codename": "W4",
+        "cluster": "W",
+        "lat": 56.948509,
+        "lng": 24.111683,
+        "image": "http://lh6.ggpht.com/cLJfk-8aHrhmy-ICjH6t4PCUSsy5AsAWlQhF30w1357YmL7bTBKo_vLqQ4DI5mTwPJvdA_NQCbbyTzA4mDw",
+        "name": "Farmācijas muzejs"
+    },
+    "1213422eefb640e0bc1a34538fcdb1bd.16": {
+        "codename": "W5",
+        "cluster": "W",
+        "lat": 56.948438,
+        "lng": 24.112002,
+        "image": "http://lh4.ggpht.com/z74qHVT3iWKyKAHTuO5Nkm4N96xfEwO5Kuzafpc3biRMV2Uk_jU43DtR2pkwwVn2sGgDDC6YPi9DvusFDIVnDw",
+        "name": "Hāberlands "
+    },
+    "389ebaa009fd487b8915f6299b1fe58b.16": {
+        "codename": "W6",
+        "cluster": "W",
+        "lat": 56.948515,
+        "lng": 24.110764,
+        "image": "http://lh5.ggpht.com/U4xltdYNS68_A7An49dwYzLjllgmrG3L_vcJ-0ArPP0NeufRcBXV3V8r_B-34B-kHBFRn3SFKfwPCtFxDl8",
+        "name": "Adam A Eva"
+    },
+    "0664e35bc703468785e6eeef12724964.16": {
+        "codename": "W7",
+        "cluster": "W",
+        "lat": 56.949253,
+        "lng": 24.111074,
+        "image": "http://lh3.googleusercontent.com/c8uDDwe5d-QL5gyI8pCFTrQvxnLsVklv88Yz6bcSNvZuSYKWL-nZ3IsJDyMvDb2m7xD3YML80i9Zuo12_FY_",
+        "name": "Laimes Laterna"
+    },
+    "d6dc898950104a5385b0b0c426af6425.16": {
+        "codename": "W8",
+        "cluster": "W",
+        "lat": 56.948135,
+        "lng": 24.10915,
+        "image": "http://lh4.ggpht.com/C8hLJEyQTXMAI2CYYl0GzUggZKQL7yj_EdBqFvVRiaovwSznK6TiXC_-djhet0gX0APSjJP_L3aRHiBbbskjgA",
+        "name": "Philippe Halsman"
+    },
+    "da70cd9c24d44bc4a05eaea89ab0f75d.16": {
+        "codename": "W9",
+        "cluster": "W",
+        "lat": 56.949095,
+        "lng": 24.112119,
+        "image": "http://lh4.ggpht.com/tsh1VyvxRnc0EUTwnqLe6J3EhxBMXwBWvFG4g_IO4H82BZhmshyf5BejYEUWhTAVyUU4soTfYyoAw8d9OR77DA",
+        "name": "Valnu 23"
+    },
+    "313c41f744184c39825552eab7a98453.16": {
+        "codename": "W10",
+        "cluster": "W",
+        "lat": 56.948133,
+        "lng": 24.1117,
+        "image": "http://lh5.ggpht.com/TAoPeCaoGfei46laJxNvQi63_ehRWq5jkYL3H0G8BUBR9679SF6PcIgTigOia2yxs2f9mJumcP3jorMeEtpD",
+        "name": "Cross Windows Deco "
+    },
+    "3c5f0cc83c984d86a078ddc42556dcfd.16": {
+        "codename": "W11",
+        "cluster": "W",
+        "lat": 56.948908,
+        "lng": 24.110589,
+        "image": "http://lh3.ggpht.com/HTeUvna4RcuefFapHhgHJpYM7np6r7WngYLy3eWbp9LcGOOjPWVSQRogi3raM1bKVGPfn4YDEhwTnslOqqdj",
+        "name": "Scissors"
+    },
+    "b1c6ca116c2e414593e6db24533f5a05.16": {
+        "codename": "W12",
+        "cluster": "W",
+        "lat": 56.949542,
+        "lng": 24.111651,
+        "image": "http://lh3.googleusercontent.com/7xyoKlAZ0sSN5g471H9XjUT1yZdGIXzTz1X-7ywhOgegVZaYBksu037vKfx2bbkh14xXLCeV3CXD1DyIy6Cs",
+        "name": "Valnu Iela Building"
+    },
+    "539a64d4af404a4689a52f1ed954bbf2.16": {
+        "codename": "W13",
+        "cluster": "W",
+        "lat": 56.947897,
+        "lng": 24.110553,
+        "image": "http://lh5.ggpht.com/qAChNew0299-JXHRCk9uuGJj3WhyNhuEnIkEjp7SFpUOuHoIA23dj5XqPGnIwHsq-fynq4qSSutybSaDg-I",
+        "name": "Gliemis"
+    },
+    "6934126f9c6d4a9db74b940e2090def6.16": {
+        "codename": "W14",
+        "cluster": "W",
+        "lat": 56.947428,
+        "lng": 24.112059,
+        "image": "http://lh4.ggpht.com/CJ4PBZ9kGyLaz0LjldUS566rhqmsiGAvLM3QMyCtxJPLPlCqw8RnmRbmojqDGwu0fYwqrr0XGMpSBllwm0Q",
+        "name": "Wall Mural"
+    },
+    "ec733d33b38149d7959ac7119f5af560.16": {
+        "codename": "W15",
+        "cluster": "W",
+        "lat": 56.947249,
+        "lng": 24.109533,
+        "image": "http://lh5.ggpht.com/3OgsOA-x3LsCZZ123aLPGY3Oi_4AQEDW55CvU6aWn-zGNu8BvtFX1t9sanw2YsxxQFDBR9jrzfqbd9_RrOE",
+        "name": "Ekes Konvents Viesnīca"
+    },
+    "fb86dc405f23403c98b3b8544790c129.16": {
+        "codename": "W16",
+        "cluster": "W",
+        "lat": 56.947627,
+        "lng": 24.110664,
+        "image": "http://lh4.ggpht.com/DTCTof4n46wx-v4qe3YBlr9BDLJ2dDeSwlNzAWN6hYEroqqfQkkwwi_uGwoC_5lY5ltw_N5V5PozZqjjfAA",
+        "name": "Hidrantas"
+    },
+    "335cd0516757446e9f1a14b09d388703.16": {
+        "codename": "W17",
+        "cluster": "W",
+        "lat": 56.948041,
+        "lng": 24.110832,
+        "image": "http://lh3.ggpht.com/qOfNHADKbsMRDEOfQNsLbvOtbyrr_iAOOayNv5oWyz6CmJymvHt8GLB0SkyTMDp74zPkaXCWrJtcyt8s3dKT",
+        "name": "Brick Christmas Tree"
+    },
+    "f11c175355a545e2ae1ee1a4f32c8577.16": {
+        "codename": "W18",
+        "cluster": "W",
+        "lat": 56.947543,
+        "lng": 24.109981,
+        "image": "http://lh5.ggpht.com/GmqBzsBh1FAjXIrpQUXgUpt_pNVQQhb-33ie0iW9ZjNq8PH5wi_16jzXcRKVaJ6f6SppDU7j8ALA3J2p-SNVUQ",
+        "name": "Sveta Jana Baznica"
+    },
+    "47949ea0a0814a16baba67e272945bf0.16": {
+        "codename": "W19",
+        "cluster": "W",
+        "lat": 56.947056,
+        "lng": 24.109029,
+        "image": "http://lh4.ggpht.com/z27L8hNConYRUr-oQVNoidP8EYke3pQFnVKna8TcyexfDfRMXd3nM5gA7dxD2Z9vb5T7Lo3xugo8eSdc7Eq0",
+        "name": "Ēnas Logos"
+    },
+    "dae64e5209a240619050c64d1e5cf63f.16": {
+        "codename": "W20",
+        "cluster": "W",
+        "lat": 56.947348,
+        "lng": 24.110481,
+        "image": "http://lh3.ggpht.com/dY4-paMh6AdPw3oopt9xZdPNAZ2UR2T0zEZQgvgepVPYMK8CU0bgJ5ytc0bGo51S55R_gIbH2RfwYq-rFM3izg",
+        "name": "Petushok 1978"
+    },
+    "e8ac49baeaa841fc96079586e7af7d14.12": {
+        "codename": "W21",
+        "cluster": "W",
+        "lat": 56.947739,
+        "lng": 24.109977,
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/9980704.jpg",
+        "name": "Town Musicians of Bremen"
+    },
+    "5e4e5ae33b4e4627a9ac2480e17ea147.16": {
+        "codename": "W22",
+        "cluster": "W",
+        "lat": 56.947459,
+        "lng": 24.111127,
+        "image": "http://lh4.ggpht.com/GUpgpvpAT4UMEbG7bDiUCmPnfiCx47RGOwSm6mQLYsU6RgymBGZwXDGX50noS7OKSNE-BdlkJFjdozloDDh2",
+        "name": "Red Nose"
+    },
+    "b02a01b0d62c4517b943d988399ed843.16": {
+        "codename": "W23",
+        "cluster": "W",
+        "lat": 56.947994,
+        "lng": 24.109536,
+        "image": "http://lh6.ggpht.com/frWnHI6QnjF89BDnhlPrI5OZbKmGiMkDvDEVeWKeVimsS-Sv6pFHvHUYO1UX3j8eSTWYfoL5QIIjQGYCcYB1",
+        "name": "Scopvs Vitae Meaechrs"
+    },
+    "a0c871afb38c4aa1bfddf63b7d8592fb.16": {
+        "codename": "W24",
+        "cluster": "W",
+        "lat": 56.947756,
+        "lng": 24.11173,
+        "image": "http://lh6.ggpht.com/BCeMu4CG3CznURChcyv0eJgyvmWptXoK2bVC-V9oEC6N1m4qOFornpWCcLxOLfLloM1d-3JY6T_Rg8h9syKqMw",
+        "name": "Kaleju 23"
+    },
+    "9a46714a1172410482f2f07de41e838f.16": {
+        "codename": "X1",
+        "cluster": "X",
+        "lat": 56.94866,
+        "lng": 24.108774,
+        "image": "http://lh6.ggpht.com/yDO1yHTL_mIVF9uNy-Lx2bvnMeqCKfX8ldSvPlk_8LsoIScEy6PJaWlgbgcDTs2us6IQNU7MrlLQV0Qwd9I",
+        "name": "Black Magic"
+    },
+    "d299e94b905c446eb161d2289693f1fe.16": {
+        "codename": "X2",
+        "cluster": "X",
+        "lat": 56.948475,
+        "lng": 24.108416,
+        "image": "http://lh5.ggpht.com/LXk46l2k25U_NU-ujzzmvp9nakzc-S49dma22kRtKnT-sGCiTZDpJyj52N8iX-W6-9jrn3443LIkFBcSDTY",
+        "name": "Top Guys"
+    },
+    "6e4260552a18490a9a18efe64d9ff6f0.16": {
+        "codename": "X3",
+        "cluster": "X",
+        "lat": 56.948176,
+        "lng": 24.107705,
+        "image": "http://lh6.ggpht.com/cQkZ_GIOd1sAtWKwY4WD6GnPaTgQU1drvGRa2e69L1LO7zlxo0KNvz9kLmsy3ibtu2X34Omamd3ipX-1OekiVw",
+        "name": "Mihaila teātris"
+    },
+    "0c7a3294a14b41dea045bf3c76580e50.16": {
+        "codename": "X4",
+        "cluster": "X",
+        "lat": 56.948896,
+        "lng": 24.108132,
+        "image": "http://lh6.ggpht.com/SSKBBXBaKHhMqMHMur-0EvRBB-k5hHmRv9xatuzh5_NDiqsX4hZhN2BbFjyu0U-1_7NPB3IpV8Nz8OmhhXxx",
+        "name": "Iron Flower"
+    },
+    "14f9a234738648b187c820d76541af19.16": {
+        "codename": "X5",
+        "cluster": "X",
+        "lat": 56.948806,
+        "lng": 24.107815,
+        "image": "http://lh6.ggpht.com/z1HE9IhHbYxx3wfRPsYGs_73F18bRPXB2zpP1-DdQg2Q_ZSjjH-ZG06wbAjC66YrMGSREWkZQkEC4aDPNuD_",
+        "name": "Passage of Faces"
+    },
+    "ce4bd36c122b472296eaf101b470fdab.16": {
+        "codename": "X6",
+        "cluster": "X",
+        "lat": 56.948584,
+        "lng": 24.107966,
+        "image": "http://lh4.ggpht.com/wKLQTfXJpe7vMnYkQf-55UFp1hD-XuH9oJN_IVr-fTcTYjCIaViQEMI5Wb9x_vUYWBmnIhXf_5T-DVLxw2SbTQ",
+        "name": "Велесу на бородку "
+    },
+    "c2aa8f7c392348a68a4550f28eb533b4.11": {
+        "codename": "X7",
+        "cluster": "X",
+        "lat": 56.947829,
+        "lng": 24.106659,
+        "image": "http://lh5.ggpht.com/DNrTFdBoapuSkUGatM9kkRMO-U4foDfpM0O8Ug-pfV4hJaDq3X3ETfuUsVsdnK2Pka3zkpwmLxBRqkJAz1HIJAPiXT4PEcNkpJXnb_BJprkH2aI",
+        "name": "Riga Tower"
+    },
+    "843a28cd17834706802def8e07c66fbc.16": {
+        "codename": "X8",
+        "cluster": "X",
+        "lat": 56.947333,
+        "lng": 24.106325,
+        "image": "http://lh3.googleusercontent.com/cWQYX1I72psOxrg_LBAkDUKD2K_bAnCDFhDgq92gQ6C7f0F8pCX0QEKrL9aUAzNvK76zmAGNQtIKocLBu1Q",
+        "name": "The First New Years Tree"
+    },
+    "a42a88d886154c9a898596e2517c5e26.16": {
+        "codename": "X9",
+        "cluster": "X",
+        "lat": 56.948032,
+        "lng": 24.10861,
+        "image": "http://lh4.ggpht.com/GzOgeYQ9_bU7796wD7tCUijH3VopWXztPovfxsBb-1OR6PX56V3ylu8RnYqAHvAy2j3B5w9Fgypa_IkeCfI",
+        "name": "Blow Style"
+    },
+    "a308dcf0ae4747eb843fde3a3b2d1ae2.16": {
+        "codename": "X10",
+        "cluster": "X",
+        "lat": 56.947677,
+        "lng": 24.106456,
+        "image": "http://lh5.ggpht.com/OADhjjpv4-fMZGTZuNtmZLS8Dqi09CR1cr9DIaLvuoW5nLl27YlzZiiHouVvW3FRTbV6sFYvKCrteNvIK1Ar",
+        "name": "Palace Of Justice"
+    },
+    "82250266995648b398034cdc04b653a0.16": {
+        "codename": "X11",
+        "cluster": "X",
+        "lat": 56.947621,
+        "lng": 24.1074,
+        "image": "http://lh6.ggpht.com/C6E2yBoRwda4H7b2OsZn_ew8PUdmWzpEGJO1CvVR0LI_DQDnNXNA1415kegu4Ha7q2DQlDONtYU95jrd8r4",
+        "name": "Key to Riga"
+    },
+    "9aa2eb06cd784255859bdfd3fe87ee4e.12": {
+        "codename": "X12",
+        "cluster": "X",
+        "lat": 56.947526,
+        "lng": 24.106643,
+        "image": "http://lh6.ggpht.com/PWwlvJPpFZaoWkwp0uCjwdX6KF0awibSkAxAEkPQwqC-eXiuqMXMenfE9hcc7OwSPp4nVwAOQ4dL-sYFFOk",
+        "name": "The Statue of Roland"
+    },
+    "16abd678032348d1a3a00243ed3541cf.16": {
+        "codename": "X13",
+        "cluster": "X",
+        "lat": 56.947079,
+        "lng": 24.105269,
+        "image": "http://lh3.ggpht.com/XcsrHsnnzxgCJ1GSXhdl4Daq9vBcZm6AnlDzG4ASITKhK1eEHBNMfSiIwC1H691aeXGbZ50XlK8uxpPcXPb5-A",
+        "name": "Riga Technical University"
+    },
+    "9a62d6f684ad4de491fce937fe9e04db.16": {
+        "codename": "X14",
+        "cluster": "X",
+        "lat": 56.946892,
+        "lng": 24.106448,
+        "image": "http://lh4.ggpht.com/7JqW1Urok30-eCM5PxxiB5QTKYfPdXR-c09Xpw24w0fpkxuP76-wCLH8BD1AAd1ZaAt8BkyFGuNxGuQj7v65Xw",
+        "name": "Museum of the Occupation of Latvia"
+    },
+    "868d32bfad3b454996dd0654ee87b9bc.11": {
+        "codename": "X15",
+        "cluster": "X",
+        "lat": 56.947741,
+        "lng": 24.108569,
+        "image": "http://lh3.ggpht.com/4IZNaPyb2cihN-RNA6ICQi3ur-W3VaeJCMvFe4r0RXa1N98GbeIHlcKSZxOIgMJqESrZt4DKhyNxNn9B0K_o",
+        "name": "St. Peters Church"
+    },
+    "5ce22ee59d7741088ac652e522f376ca.16": {
+        "codename": "X16",
+        "cluster": "X",
+        "lat": 56.947655,
+        "lng": 24.107854,
+        "image": "http://lh5.ggpht.com/Cm9unmBk5Olz4pHskCWpTCswHJbl0dIQ-LHqP6iP_3kN7mZ9I8clnVN7o-9Heo4bJyFJBCWum8r4tg4lNFw",
+        "name": "Kaķu Midzenītis"
+    },
+    "0da8fd470d3d41a5a9df6860876d1661.12": {
+        "codename": "X17",
+        "cluster": "X",
+        "lat": 56.946813,
+        "lng": 24.105798,
+        "image": "http://lh3.ggpht.com/ZWLwqqzQhdxQ6y5iedyugQUQqKaxddVFN1ZYghyE5gmpFRArD0DT_p9t67iJtnOQkv5Z48kQ-mKVRbtW8XZb",
+        "name": "Latvian Riflemen Monument"
+    },
+    "d16a3eaffcef43689fef3804e4cda7e5.12": {
+        "codename": "X18",
+        "cluster": "X",
+        "lat": 56.947461,
+        "lng": 24.108483,
+        "image": "http://lh3.googleusercontent.com/UZELDe9bJbWpik3HDaPmgHj3-4-Vrh0GQDUADOFcx4B3921RKDO0vW7nuw9MQzEul_MZxCLmgPtdxz7yWp8_",
+        "name": "Kungu Street, \"Tornis\" Gallery"
+    },
+    "c04b4f1cc9ac474b81d46973d840ad32.16": {
+        "codename": "X19",
+        "cluster": "X",
+        "lat": 56.947282,
+        "lng": 24.105745,
+        "image": "http://lh5.ggpht.com/yt1SbiZjkCbxDfE6ZnBGlqnx19Wg6uvAiRllu-j_zzAIS8tNRQ2qmtiTiQ8wQcQS89UuDET2CtT5OVUU3LE",
+        "name": "Sienas dekorācijas"
+    },
+    "c9018d43fe6445c8b7304153d0ca6d8d.16": {
+        "codename": "X20",
+        "cluster": "X",
+        "lat": 56.94701,
+        "lng": 24.107986,
+        "image": "http://lh6.ggpht.com/rf8kodG6ZL4uJxG0ixkaJ4m8bnOlIaV4GliBrwFcaXLmzZh0X72Z2xALpy2OmruoZKRRc4xIwtGgWNlCegJC",
+        "name": "Gentlemen Of Steel"
+    },
+    "0464496669d64948bffada7b77605a19.16": {
+        "codename": "X21",
+        "cluster": "X",
+        "lat": 56.947677,
+        "lng": 24.105962,
+        "image": "http://lh5.ggpht.com/NBsl1NaMD1ZnWPlP585XF82mb-g8cAxtTmQ1YRnFWAOMh7tZu_QigCzHaUJIss9O4rcWrMBmctzeEr-kgTmY",
+        "name": "Vecākā Aptieka 1357.g"
+    },
+    "8e5309126461424bb4a0749ab81d35a3.12": {
+        "codename": "X22",
+        "cluster": "X",
+        "lat": 56.947001,
+        "lng": 24.107106,
+        "image": "http://lh3.googleusercontent.com/JW8FZxyhUSKEYlqUB3ASH8iC0yKnLN25P4RJOZP6SDlR6XzIs4BI4T4Wi9ePASDlN0KV4AE0_C80sScu9-Hfmw",
+        "name": "Decor of Roof"
+    },
+    "dbe107cb60ba43d1a745be6a23ce5bbc.12": {
+        "codename": "X23",
+        "cluster": "X",
+        "lat": 56.947207,
+        "lng": 24.10684,
+        "image": "http://lh5.ggpht.com/S_xOJqUwMGLfMDOwlKnMaPuy0AcixqeJ35SCqGDykpHO5nwNwGNz9PyrGI2FbMVXqZ86nV-ABpQewQ6UkrhU",
+        "name": "Melngalvju Nams"
+    },
+    "b56386b6a73b48448febe4c1998b4679.16": {
+        "codename": "X24",
+        "cluster": "X",
+        "lat": 56.94718,
+        "lng": 24.107875,
+        "image": "http://lh3.ggpht.com/A2QdqORNdU9w1kqCblLLR2bWSYFMRN7zn-FKDdDTvz1szE4oKUu32t-k-KJsxXltigdpws5kvoo5k2_PLYz5yA",
+        "name": "Rigas Domes"
+    },
+    "5b4a2e9ac68740a2ba685844cc5aa6ca.16": {
+        "codename": "Y1",
+        "cluster": "Y",
+        "lat": 56.949135,
+        "lng": 24.103771,
+        "image": "http://lh3.googleusercontent.com/52XppcUvEuCB9WfgNLTfucOPh6tEDlYEcuf4BqHzBwvY3aWfJmblfWwRfSTq18rENZdZFJGjzVEF7XsMiqfu",
+        "name": "Pauls Simanis "
+    },
+    "eb39943993a145e79d2a7ab0ec06357d.16": {
+        "codename": "Y2",
+        "cluster": "Y",
+        "lat": 56.949023,
+        "lng": 24.105157,
+        "image": "http://lh6.ggpht.com/CxcChndZZXDmNEfZrf6fFvRCDGEkWFgZAP-gg67IlpI6pt1pX1RVgLDtFlCflp6cduPAfs3YkiT2JL0LIDk",
+        "name": "Жилой Дом 1748 Года"
+    },
+    "bb681fbdfa504d98b3d7c55618d7e5fe.12": {
+        "codename": "Y3",
+        "cluster": "Y",
+        "lat": 56.948825,
+        "lng": 24.103757,
+        "image": "http://lh3.googleusercontent.com/9t6X_asWiPkASSYH9LcTpagPZ4V9D8TQmCPl0p0baRu2uijXqOlD28ElXaxk_zEpvnMKP9Tqu5p4f2JB3R6Z",
+        "name": "Johans Godfrids Herders"
+    },
+    "d064c06ff5f741ec9e6f2244110adf08.16": {
+        "codename": "Y4",
+        "cluster": "Y",
+        "lat": 56.948809,
+        "lng": 24.106769,
+        "image": "http://lh4.ggpht.com/oeMn0vJkwDR8DWxAvi8oGViwUy0UdwA1UsgZ6YHPeKIvFG88NWTjTE2IrasrKJfIlERnL8-twQfGwuYZo2g",
+        "name": "Woman on a building"
+    },
+    "6d5de380821e49e09116120e8d519d0d.16": {
+        "codename": "Y5",
+        "cluster": "Y",
+        "lat": 56.948486,
+        "lng": 24.10412,
+        "image": "http://lh3.ggpht.com/ANvFgn9hkwV-yEwTRKgKFGFHWbuPE8d7ITLh8DaDaDvL42EJrHwG92H3MBLJR-CBc69E9oldTQVysWhmnVuw",
+        "name": "Museum of the History of Riga and Navigation"
+    },
+    "20d239f6eb1346ada81ba0b604d638bc.12": {
+        "codename": "Y6",
+        "cluster": "Y",
+        "lat": 56.948446,
+        "lng": 24.105255,
+        "image": "http://lh3.googleusercontent.com/UJogbnaHS9Gky4gwxW2z3wYAjy1FGJEaDs6icGv3Ka5O88wi1q3rv1Bp6LZKzLtZPc7kq0R3akc1dCxwiFVo",
+        "name": "Hotel Neiburgs, Art Deco Detai"
+    },
+    "79d68856ec44496989436d1b037a642f.16": {
+        "codename": "Y7",
+        "cluster": "Y",
+        "lat": 56.948247,
+        "lng": 24.105156,
+        "image": "http://lh3.ggpht.com/TYOcI0xVP98W5CYkZ2Ka0Qm2ZtV5G9338DQ5kosMtvlczL1V4YjIAQ6Nfxw0ZZKD8d18LoZ2C79Q7INBMDY",
+        "name": "Aleks Bar"
+    },
+    "5b782a1af568429ca9519b2057c83494.16": {
+        "codename": "Y8",
+        "cluster": "Y",
+        "lat": 56.949118,
+        "lng": 24.107502,
+        "image": "http://lh6.ggpht.com/JivfXb04wtoFr1x6yVRUCZqq4GrR8PHdBM6HSf3JngzHXneZ4Ma5BokX2dHtnzATKpw53MAb_lmfri5acWANdw",
+        "name": "Bijusī Katrīnas Baznīca"
+    },
+    "0b5be7e954264775882936ba34e0edcc.12": {
+        "codename": "Y9",
+        "cluster": "Y",
+        "lat": 56.948348,
+        "lng": 24.106536,
+        "image": "http://lh4.ggpht.com/DT_1VzA-pw7hrMD9IwdfqsQcMtWS-41XPjOmV2CRvhuST-dj4hD-1jIOrHLdGFfhOAZqwwfWmTBrkdQ--b1J",
+        "name": "Metal christmass tree"
+    },
+    "24f135943f434389b2f147563dbbe0bc.16": {
+        "codename": "Y10",
+        "cluster": "Y",
+        "lat": 56.949234,
+        "lng": 24.105979,
+        "image": "http://lh4.ggpht.com/4WbKKlMAw8UUOQVCDAtgi59TOEDVgKqcAEhyB4XZHQXpM3gB5UBr99cRsg-D9sKDl_TXBO-etT4RHBz2bXtX",
+        "name": "13 Krēsli "
+    },
+    "c870c8ee98044f1687a8702d21cb6f78.16": {
+        "codename": "Y11",
+        "cluster": "Y",
+        "lat": 56.948131,
+        "lng": 24.105964,
+        "image": "http://lh6.ggpht.com/inl5HIt-pBhj9eHONrlxTQdJPYZNrV9hqa6dJoT4S3zTNugs8faE-hOqTKne4x53jYTxYNDHS5_6aakafNuHMg",
+        "name": "Scieniis Et Artibus"
+    },
+    "7c1b9b6e10e64660858fa64656d95640.16": {
+        "codename": "Y12",
+        "cluster": "Y",
+        "lat": 56.949186,
+        "lng": 24.104255,
+        "image": "http://lh4.ggpht.com/0Rcmx-FUsUjxz7iwlVuFs3c0f2L1jyOGSYaB7iQX65UXbSlmQmeMvsOWTdg3ECUWr3-WsMXGJW7KwCsWs8kM",
+        "name": "Doma Baznīca"
+    },
+    "109560c9663744e8a0a63adce98f8895.16": {
+        "codename": "Y13",
+        "cluster": "Y",
+        "lat": 56.949116,
+        "lng": 24.103425,
+        "image": "http://lh4.ggpht.com/pEeuzUDObZfD-t7EV78S5V0Zf3N2SdPx2lBgP-gCmeCm4KAK1UOTps4e1fSPpuvqUBbUSc2TSTF_w3fulcCo5g",
+        "name": "Hotel Gutenbergs"
+    },
+    "ad0ad58f48f04bfba83d273f956cf45e.16": {
+        "codename": "Y14",
+        "cluster": "Y",
+        "lat": 56.94943,
+        "lng": 24.10669,
+        "image": "http://lh3.ggpht.com/AmqqaokxYyy8dJdAJ9VCzi_aype7eeh5MzAqBz33R4z34D_6MjNppf8EK5sE3CVvsdXJ0Zo3EAPB87eKeUw",
+        "name": "Dzivojama Eka 1787"
+    },
+    "4bb892a166e042028d6d898c62407865.16": {
+        "codename": "Y15",
+        "cluster": "Y",
+        "lat": 56.948689,
+        "lng": 24.105631,
+        "image": "http://lh5.ggpht.com/my05cW6LYx02fgz0pS-CLd1TPItR_L9eNttiix5pvgkYhRhVObP-CvQq8Kz7TBb3f_o0LJOMlRXUyFaHpquO",
+        "name": "1221 Restorant"
+    },
+    "a23342f93eb74a92aa81aabe7ee7245d.16": {
+        "codename": "Y16",
+        "cluster": "Y",
+        "lat": 56.949161,
+        "lng": 24.105584,
+        "image": "http://lh3.googleusercontent.com/kDzRF5WMo7CfMlzUX-CPPPTE-c37SRYImpjSO_M4iPn2Wfu0qlDaQWab28zNUI01h3ZeQMCsxXSV2orDMsho",
+        "name": "Armadillo"
+    },
+    "cd51a215051d4078a3adc301a66998c4.16": {
+        "codename": "Y17",
+        "cluster": "Y",
+        "lat": 56.948933,
+        "lng": 24.105717,
+        "image": "http://lh4.ggpht.com/eBtqOpiowlvxE1x5dWbjFgUTZJMnagUaf6cSOH5v9mhmETZ4iGQ-VJei_7W-jj8cR_3E_sEz6i8zsF5fZsU",
+        "name": "Tīģernēģerkliņģeri"
+    },
+    "121cde28d8b7443f99cb2ab6900a5712.12": {
+        "codename": "Y18",
+        "cluster": "Y",
+        "lat": 56.948201,
+        "lng": 24.106906,
+        "image": "http://lh3.googleusercontent.com/2kp7QmgTFhhY-O7Yut41CVuhq3uADwGyoQNVrbaL9a_h8rttZu2Jv7vctz9k692PfkoTOE2X1h3Y0bFC7saC",
+        "name": "Egle Market Place"
+    },
+    "52b49af0adc046b393cfbfc5a2e667e1.12": {
+        "codename": "Y19",
+        "cluster": "Y",
+        "lat": 56.948482,
+        "lng": 24.106135,
+        "image": "http://lh6.ggpht.com/me27YlmbTqlaZecEp0jONFc91Q-HjD3HHg2Da9T7jwW8qFAYO-bpPKkWDMR_yeTmyuq8oMXhdpwWIDzT_3ijeA",
+        "name": "Rozengrāls"
+    },
+    "fa853964b4fa49d5bef3b940f9c06532.16": {
+        "codename": "Y20",
+        "cluster": "Y",
+        "lat": 56.949133,
+        "lng": 24.106473,
+        "image": "http://lh3.ggpht.com/7mtKLg3slbaIcVR7C4cmeX_hIHfw1tW5Bp3NUnId2Ic-KHMaiH4cMtZcXlpVzBwAALnlG60uDVgZHYmGRZI",
+        "name": "Rīga Graffiti  "
+    },
+    "9002a6eba40e47b2bb9901fa9cb599dd.16": {
+        "codename": "Y21",
+        "cluster": "Y",
+        "lat": 56.948201,
+        "lng": 24.10417,
+        "image": "http://lh5.ggpht.com/BWeBFW-b3ApPXecfQ3dHDM6J9Ubx-UTVfLRi3fiXFCOT9tZQO_7qN5ej4AR15DAGAcCbVVp5r0mspWgy2UE",
+        "name": "XVIII LIVING BULDING "
+    },
+    "40de8b3921144e3ab2790e71073ecc17.16": {
+        "codename": "Y22",
+        "cluster": "Y",
+        "lat": 56.947937,
+        "lng": 24.105324,
+        "image": "http://lh3.ggpht.com/zeGigdJw6UFyuYNJqJDcdyfEGfTCoO9TkZBxoXub7MRx9lFlIQyvBoFFITjgvGmSF4AdHdZhXJYLsIjZkqWWbQ",
+        "name": "Nikolauss Fon Himzels"
+    },
+    "5ab9041f463545cfb4d581781f947cb2.16": {
+        "codename": "Y23",
+        "cluster": "Y",
+        "lat": 56.948031,
+        "lng": 24.103449,
+        "image": "http://lh5.ggpht.com/7e_ZYa5sbyc0FvAhcCFxn49LSh1nJ-rRdupQ0Q6Svf1cNXogW03t1Qne2WNvuoYN5I9B-eno6FFU-UZQhAeOAg",
+        "name": "Rigas Domes Kanceleja"
+    },
+    "6ae5135d35e4438ebf18f7f5d14d1de0.16": {
+        "codename": "Y24",
+        "cluster": "Y",
+        "lat": 56.94795,
+        "lng": 24.104552,
+        "image": "http://lh3.ggpht.com/YmNu_EbF_381xRhKzC9hAKDJS3Dt3cXMQCOCFZ1zrouMM9UplbtsNxNz8WoGZyfIf2wK3b22kIH4Boq9Sy1r",
+        "name": "Pēteris"
+    }
+}
