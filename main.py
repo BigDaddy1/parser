@@ -78,7 +78,8 @@ if __name__ == "__main__":
                         codename = origin_keys_data[
                             i['portalGuid']]['codename']
                     s.update({'codename': codename})
-                    f.write('{},{},{},{}'.format(
+                    
+                    f.write('{};{};{};{}'.format(
                     s['portalTitle'],
                     s['portalGuid'],
                     s['differentiator'],
