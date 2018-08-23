@@ -64,7 +64,7 @@ if __name__ == "__main__":
                             answ.append(couplers)
             file_name = '{}.csv'.format(uuid.uuid4().hex)
             f = open(file_name, "w")
-            f.write('portalTitle,,portalGuid,differentiator,codename')
+            f.write('codename,portalTitle,differentiator')
             f.write('\n')
 
             print(count)
@@ -78,12 +78,14 @@ if __name__ == "__main__":
                         codename = origin_keys_data[
                             i['portalGuid']]['codename']
                     s.update({'codename': codename})
-                    
-                    f.write('{};{};{};{}'.format(
-                    s['portalTitle'],
-                    s['portalGuid'],
-                    s['differentiator'],
-                    s['codename']
+                    title = 'NULL' if s['portalTitle'] == '' else s['portalTitle'].replace(',', '.')
+                    differ = 'NULL' if s['differentiator'] == '' else s['differentiator'].replace(',', '.')
+                    code = 'NULL' if s['codename'] == '' else s['codename'].replace(',', '.')
+
+                    f.write('{},{},{}'.format(
+                    code,
+                    title,
+                    differ
                     ))
                     f.write('\n')
             f.close()
