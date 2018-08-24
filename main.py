@@ -98,10 +98,11 @@ if __name__ == "__main__":
         except Exception as e:
             print(error_time)
             print(e)
-
+    logger = open('run.log', 'w')
     while True:
         try:
             bot.polling()
         except Exception as e:
             bot.stop_polling()
+            logger.write(str(e))
             print(e)
