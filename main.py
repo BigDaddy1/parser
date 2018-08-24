@@ -8,6 +8,7 @@ import codecs
 TOKEN = '658936679:AAHoaKMllCnyL5BJKIRx7ge31CJmFamwQio'
 
 CURRENT_STEP = 0
+message_id = 129488891
 
 if __name__ == "__main__":
 
@@ -23,12 +24,9 @@ if __name__ == "__main__":
 
     @bot.message_handler(content_types=['text', 'audio', 'photo'])
     def process_start(message):
+        print(dir(message))
         bot.send_message(message.chat.id, "Nahui twice!")
 
-
-    @bot.message_handler(commands=['show_all'])
-    def time_process(message):
-        pass
 
     @bot.message_handler(content_types=['document'])
     def location_process(message):
@@ -73,7 +71,7 @@ if __name__ == "__main__":
                 count += len(item)
                 for i in item:
                     s = i
-                    codename = ' '
+                    codename = ''
                     if i['portalGuid'] in keys_guids:
                         codename = origin_keys_data[
                             i['portalGuid']]['codename']
@@ -81,12 +79,7 @@ if __name__ == "__main__":
                     title = 'NULL' if s['portalTitle'] == '' else s['portalTitle'].replace(',', '.')
                     differ = 'NULL' if s['differentiator'] == '' else s['differentiator'].replace(',', '.')
                     code = 'NULL' if s['codename'] == '' else s['codename'].replace(',', '.')
-
-                    f.write('{},{},{}'.format(
-                    code,
-                    title,
-                    differ
-                    ))
+                    f.write('{},{},{}'.format(code, title, differ))
                     f.write('\n')
             f.close()
 
@@ -98,11 +91,11 @@ if __name__ == "__main__":
         except Exception as e:
             print(error_time)
             print(e)
-    logger = open('run.log', 'w')
+
     while True:
         try:
             bot.polling()
         except Exception as e:
+            bot.send_message(message_id, e)
             bot.stop_polling()
-            logger.write(str(e))
             print(e)
