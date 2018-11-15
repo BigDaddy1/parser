@@ -103,6 +103,8 @@ if __name__ == "__main__":
     def start_me():
         try:
             bot.polling()
+            with open('logger', 'wa') as logger:
+                logger.write('polling...')
         except Exception as e:
             with open('logger', 'wa') as logger:
                 logger.write(e)
@@ -110,6 +112,9 @@ if __name__ == "__main__":
             bot.stop_polling()
             print(e)
             start_me()
+
+    with open('logger', 'wa') as logger:
+        logger.write('starting...')
     start_me()
     #
     # while True:
