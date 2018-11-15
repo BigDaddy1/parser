@@ -104,6 +104,8 @@ if __name__ == "__main__":
         try:
             bot.polling()
         except Exception as e:
+            with open('logger', 'wa') as logger:
+                logger.write(e)
             bot.send_message(message_id, e)
             bot.stop_polling()
             print(e)
