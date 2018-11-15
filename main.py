@@ -108,7 +108,7 @@ if __name__ == "__main__":
             bot.stop_polling()
             print(e)
             start_me()
-            
+    start_me()
     #
     # while True:
     #     try:
