@@ -100,10 +100,20 @@ if __name__ == "__main__":
                 print(e)
         except Exception as e:
             print(e)
-    while True:
+    def start_me():
         try:
             bot.polling()
         except Exception as e:
             bot.send_message(message_id, e)
             bot.stop_polling()
             print(e)
+            start_me()
+            
+    #
+    # while True:
+    #     try:
+    #         bot.polling()
+    #     except Exception as e:
+    #         bot.send_message(message_id, e)
+    #         bot.stop_polling()
+    #         print(e)
